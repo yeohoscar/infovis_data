@@ -1,0 +1,2237 @@
+Stage,Date,Distance,Origin,Destination,Type,Winner,Winner_Country,id
+1,2017-07-01,14.0,Düsseldorf,Düsseldorf,Time Trial,Geraint Thomas,GBR,268
+2,2017-07-02,203.5,Düsseldorf,Liège,Flat,Marcel Kittel,GER,541
+3,2017-07-03,212.5,Verviers,Longwy,Mountain,Peter Sagan,SVK,654
+4,2017-07-04,207.5,Mondorf-les-Bains,Vittel,Flat,Arnaud Démare,FRA,56
+5,2017-07-05,160.5,Vittel,La Planche des Belles Filles,Mountain,Fabio Aru,ITA,194
+6,2017-07-06,216.0,Vesoul,Troyes,Flat,Marcel Kittel,GER,541
+7,2017-07-07,213.5,Troyes,Nuits-Saint-Georges,Flat,Marcel Kittel,GER,541
+8,2017-07-08,187.5,Dole,Station des Rousses,Mountain,Lilian Calmejane,FRA,488
+9,2017-07-09,181.5,Nantua,Chambéry,Mountain,Rigoberto Urán,COL,713
+10,2017-07-11,178.0,Périgueux,Bergerac,Flat,Marcel Kittel,GER,541
+11,2017-07-12,203.5,Eymet,Pau,Flat,Marcel Kittel,GER,541
+12,2017-07-13,214.5,Pau,Peyragudes,Mountain,Romain Bardet,FRA,746
+13,2017-07-14,101.0,Saint-Girons,Foix,Mountain,Warren Barguil,FRA,839
+14,2017-07-15,181.5,Blagnac,Rodez,Mountain,Michael Matthews,AUS,585
+15,2017-07-16,189.5,Laissac-Sévérac-l'Église,Le Puy-en-Velay,Mountain,Bauke Mollema,NED,67
+16,2017-07-18,165.0,Le Puy-en-Velay,Romans-sur-Isère,Mountain,Michael Matthews,AUS,585
+17,2017-07-19,183.0,La Mure,Serre Chevalier,Mountain,Primož Roglič,SLO,681
+18,2017-07-20,179.5,Briançon,Col d'Izoard,Mountain,Warren Barguil,FRA,839
+19,2017-07-21,222.5,Embrun,Salon-de-Provence,Flat,Edvald Boasson Hagen,NOR,162
+20,2017-07-22,22.5,Marseille,Marseille,Time Trial,Maciej Bodnar,POL,526
+21,2017-07-23,103.0,Montgeron,Paris,Flat,Dylan Groenewegen,NED,152
+1,2016-07-02,188.0,Mont Saint-Michel,Utah Beach,Flat,Mark Cavendish,GBR,558
+2,2016-07-03,183.0,Saint-Lô,Cherbourg-en-Cotentin,Flat,Peter Sagan,SVK,654
+3,2016-07-04,223.5,Granville,Angers,Flat,Mark Cavendish,GBR,558
+4,2016-07-05,237.5,Saumur,Limoges,Flat,Marcel Kittel,GER,541
+5,2016-07-06,216.0,Limoges,Le Lioran,Mountain,Greg Van Avermaet,BEL,303
+6,2016-07-07,190.5,Arpajon-sur-Cère,Montauban,Flat,Mark Cavendish,GBR,558
+7,2016-07-08,162.5,L'Isle-Jourdain,Lac de Payolle,Mountain,Steve Cummings,GBR,787
+8,2016-07-09,184.0,Pau,Bagnères-de-Luchon,Mountain,Chris Froome,GBR,109
+9,2016-07-10,184.5,Vielha Val d'Aran,Andorra-Arcalis,Mountain,Tom Dumoulin,NED,812
+10,2016-07-12,197.0,Escaldes-Engordany,Revel,Mountain,Michael Matthews,AUS,585
+11,2016-07-13,162.5,Carcassonne,Montpellier,Flat,Peter Sagan,SVK,654
+12,2016-07-14,178.0,Montpellier,Chalet Reynard,Mountain,Thomas De Gendt,BEL,807
+13,2016-07-15,37.5,Bourg-Saint-Andéol,La Caverne du Pont-d'Arc,Time Trial,Tom Dumoulin,NED,812
+14,2016-07-16,208.5,Montélimar,Villars-les-Dombes,Flat,Mark Cavendish,GBR,558
+15,2016-07-17,160.0,Bourg-en-Bresse,Culoz,Mountain,Jarlinson Pantano,COL,361
+16,2016-07-18,209.0,Moirans-en-Montagne,Bern,Flat,Peter Sagan,SVK,654
+17,2016-07-20,184.5,Bern,Finhaut-Émosson,Mountain,Ilnur Zakarin,RUS,341
+18,2016-07-21,17.0,Sallanches,Megève,Time Trial,Chris Froome,GBR,109
+19,2016-07-22,146.0,Albertville,Saint Gervais-les-Bains,Mountain,Romain Bardet,FRA,746
+20,2016-07-23,146.5,Megève,Morzine,Mountain,Ion Izagirre,ESP,343
+21,2016-07-24,113.0,Chantilly,Paris,Flat,André Greipel,GER,41
+1,2015-07-04,13.8,Utrecht,Utrecht,Time Trial,Rohan Dennis,AUS,740
+2,2015-07-05,166.0,Utrecht,Zeeland,Flat,André Greipel,GER,41
+3,2015-07-06,159.5,Antwerp,Huy,Flat,Joaquim Rodríguez,ESP,407
+4,2015-07-07,223.5,Seraing,Cambrai,Mountain,Tony Martin,GER,817
+5,2015-07-08,189.5,Arras,Amiens,Flat,André Greipel,GER,41
+6,2015-07-09,191.5,Abbeville,Le Havre,Flat,Zdeněk Štybar,CZE,856
+7,2015-07-10,190.5,Livarot,Fougères,Flat,Mark Cavendish,GBR,558
+8,2015-07-11,181.5,Rennes,Mûr-de-Bretagne,Flat,Alexis Vuillermoz,FRA,28
+9,2015-07-12,28.0,Vannes,Plumelec,Time Trial,BMC Racing Team,NA,62
+10,2015-07-14,167.0,Tarbes,La Pierre Saint-Martin,Mountain,Chris Froome,GBR,109
+11,2015-07-15,188.0,Pau,Cauterets,Mountain,Rafał Majka,POL,684
+12,2015-07-16,195.0,Lannemezan,Plateau de Beille,Mountain,Joaquim Rodríguez,ESP,407
+13,2015-07-17,198.5,Muret,Rodez,Mountain,Greg Van Avermaet,BEL,303
+14,2015-07-18,178.5,Rodez,Mende,Mountain,Steve Cummings,GBR,787
+15,2015-07-19,183.0,Mende,Valence,Mountain,André Greipel,GER,41
+16,2015-07-20,201.0,Bourg-de-Péage,Gap,Mountain,Rubén Plaza Molina,ESP,751
+17,2015-07-22,161.0,Digne-les-Bains,Pra-Loup,Mountain,Simon Geschke,GER,780
+18,2015-07-23,186.5,Gap,Saint-Jean-de-Maurienne,Mountain,Romain Bardet,FRA,746
+19,2015-07-24,138.0,Saint-Jean-de-Maurienne,La Toussuire - Les Sybelles,Mountain,Vincenzo Nibali,ITA,831
+20,2015-07-25,110.5,Modane,Alpe d'Huez,Mountain,Thibaut Pinot,FRA,804
+21,2015-07-26,109.5,Sèvres,Paris,Flat,André Greipel,GER,41
+1,2014-07-05,190.5,Leeds,Harrogate,Flat,Marcel Kittel,GER,541
+2,2014-07-06,201.0,York,Sheffield,Mountain,Vincenzo Nibali,ITA,831
+3,2014-07-07,155.0,Cambridge,London,Flat,Marcel Kittel,GER,541
+4,2014-07-08,163.5,Le Touquet-Paris-Plage,Lille Metropole,Flat,Marcel Kittel,GER,541
+5,2014-07-09,152.5,Ypres,Arenberg Porte du Hainaut,Mountain,Lars Boom,NED,474
+6,2014-07-10,194.0,Arras,Reims,Flat,André Greipel,GER,41
+7,2014-07-11,234.5,Épernay,Nancy,Flat,Matteo Trentin,ITA,568
+8,2014-07-12,161.0,Tomblaine,Gérardmer La Mauselaine,Mountain,Blel Kadri,FRA,86
+9,2014-07-13,170.0,Gérardmer,Mulhouse,Mountain,Tony Martin,GER,817
+10,2014-07-14,161.5,Mulhouse,La Planche des Belles Filles,Mountain,Vincenzo Nibali,ITA,831
+11,2014-07-16,187.5,Besançon,Oyonnax,Mountain,Tony Gallopin,FRA,816
+12,2014-07-17,185.5,Bourg-en-Bresse,Saint-Étienne,Flat,Alexander Kristoff,NOR,26
+13,2014-07-18,197.5,Saint-Étienne,Chamrousse,Mountain,Vincenzo Nibali,ITA,831
+14,2014-07-19,177.0,Grenoble,Risoul,Mountain,Rafał Majka,POL,684
+15,2014-07-20,222.0,Tallard,Nîmes,Flat,Alexander Kristoff,NOR,26
+16,2014-07-22,237.5,Carcassonne,Bagnères-de-Luchon,Mountain,Michael Rogers,AUS,587
+17,2014-07-23,124.5,Saint-Gaudens,Saint-Lary Pla d’Adet,Mountain,Rafał Majka,POL,684
+18,2014-07-24,145.5,Pau,Hautacam,Mountain,Vincenzo Nibali,ITA,831
+19,2014-07-25,208.5,Maubourguet Pays du Val d’Adour,Bergerac,Flat,Ramūnas Navardauskas,LTU,686
+20,2014-07-26,54.0,Bergerac,Périgueux,Time Trial,Tony Martin,GER,817
+21,2014-07-27,137.5,Évry,Paris,Flat,Marcel Kittel,GER,541
+1,2013-06-29,213.0,Porto-Vecchio,Bastia,Flat,Marcel Kittel,GER,541
+2,2013-06-30,156.0,Bastia,Ajaccio,Mountain,Jan Bakelants,BEL,354
+3,2013-07-01,145.5,Ajaccio,Calvi,Mountain,Simon Gerrans,AUS,779
+4,2013-07-02,25.0,Nice,Nice,Time Trial,Orica–GreenEDGE,NA,624
+5,2013-07-03,228.5,Cagnes-sur-Mer,Marseille,Flat,Mark Cavendish,GBR,558
+6,2013-07-04,176.5,Aix-en-Provence,Montpellier,Flat,André Greipel,GER,41
+7,2013-07-05,205.5,Montpellier,Albi,Flat,Peter Sagan,SVK,654
+8,2013-07-06,195.0,Castres,Ax 3 Domaines,Mountain,Chris Froome,GBR,109
+9,2013-07-07,168.5,Saint-Girons,Bagnères-de-Bigorre,Mountain,Dan Martin,IRL,129
+10,2013-07-09,197.0,Saint-Gildas-des-Bois,Saint-Malo,Flat,Marcel Kittel,GER,541
+11,2013-07-10,33.0,Avranches,Mont Saint-Michel,Time Trial,Tony Martin,GER,817
+12,2013-07-11,218.0,Fougères,Tours,Flat,Marcel Kittel,GER,541
+13,2013-07-12,173.0,Tours,Saint-Amand-Montrond,Flat,Mark Cavendish,GBR,558
+14,2013-07-13,191.0,Saint-Pourçain-sur-Sioule,Lyon,Mountain,Matteo Trentin,ITA,568
+15,2013-07-14,242.5,Givors,Mont Ventoux,Mountain,Chris Froome,GBR,109
+16,2013-07-16,168.0,Vaison-la-Romaine,Gap,Mountain,Rui Costa,POR,756
+17,2013-07-17,32.0,Embrun,Chorges,Time Trial,Chris Froome,GBR,109
+18,2013-07-18,172.5,Gap,Alpe d'Huez,Mountain,Christophe Riblon,FRA,116
+19,2013-07-19,204.5,Le Bourg-d'Oisans,Le Grand-Bornand,Mountain,Rui Costa,POR,756
+20,2013-07-20,125.0,Annecy,Semnoz,Mountain,Nairo Quintana,COL,604
+21,2013-07-21,133.5,Versailles,Paris,Flat,Marcel Kittel,GER,541
+P,2012-06-30,6.4,Liège,Liège,Time Trial,Fabian Cancellara,SUI,192
+1,2012-07-01,198.0,Liège,Seraing,Flat,Peter Sagan,SVK,654
+2,2012-07-02,207.5,Visé,Tournai,Flat,Mark Cavendish,GBR,558
+3,2012-07-03,197.0,Orchies,Boulogne-sur-Mer,Mountain,Peter Sagan,SVK,654
+4,2012-07-04,214.5,Abbeville,Rouen,Flat,André Greipel,GER,41
+5,2012-07-05,196.5,Rouen,Saint-Quentin,Flat,André Greipel,GER,41
+6,2012-07-06,207.5,Épernay,Metz,Flat,Peter Sagan,SVK,654
+7,2012-07-07,199.0,Tomblaine,La Planche des Belles Filles,Mountain,Chris Froome,GBR,109
+8,2012-07-08,157.5,Belfort,Porrentruy,Mountain,Thibaut Pinot,FRA,804
+9,2012-07-09,41.5,Arc-et-Senans,Besançon,Time Trial,Bradley Wiggins,GBR,89
+10,2012-07-11,194.5,Mâcon,Bellegarde-sur-Valserine,Mountain,Thomas Voeckler,FRA,808
+11,2012-07-12,148.0,Albertville,La Toussuire-Les Sybelles,Mountain,Pierre Rolland,FRA,670
+12,2012-07-13,226.0,Saint-Jean-de-Maurienne,Annonay-Davézieux,Mountain,David Millar,GBR,137
+13,2012-07-14,217.0,Saint-Paul-Trois-Châteaux,Cap d'Agde,Flat,André Greipel,GER,41
+14,2012-07-15,191.0,Limoux,Foix,Mountain,Luis León Sánchez,ESP,519
+15,2012-07-16,158.5,Samatan,Pau,Flat,Pierrick Fédrigo,FRA,673
+16,2012-07-18,197.0,Pau,Bagnères-de-Luchon,Mountain,Thomas Voeckler,FRA,808
+17,2012-07-19,143.5,Bagnères-de-Luchon,Peyragudes,Mountain,Alejandro Valverde,ESP,22
+18,2012-07-20,222.5,Blagnac,Brive-la-Gaillarde,Flat,Mark Cavendish,GBR,558
+19,2012-07-21,53.5,Bonneval,Chartres,Time Trial,Bradley Wiggins,GBR,89
+20,2012-07-22,120.0,Rambouillet,Paris,Flat,Mark Cavendish,GBR,558
+1,2011-07-02,191.5,Passage du Gois,Mont des Alouettes,Flat,Philippe Gilbert,BEL,658
+2,2011-07-03,23.0,Les Essarts,Les Essarts,Time Trial,Garmin–Cervélo,NA,254
+3,2011-07-04,198.0,Olonne-sur-Mer,Redon,Flat,Tyler Farrar,USA,818
+4,2011-07-05,172.5,Lorient,Mûr-de-Bretagne,Flat,Cadel Evans,AUS,95
+5,2011-07-06,164.5,Carhaix,Cap Fréhel,Flat,Mark Cavendish,GBR,558
+6,2011-07-07,226.5,Dinan,Lisieux,Flat,Edvald Boasson Hagen,NOR,162
+7,2011-07-08,218.0,Le Mans,Châteauroux,Flat,Mark Cavendish,GBR,558
+8,2011-07-09,189.0,Aigurande,Super Besse,Mountain,Rui Costa,POR,756
+9,2011-07-10,208.0,Issoire,Saint-Flour,Mountain,Luis León Sánchez,ESP,519
+10,2011-07-12,158.0,Aurillac,Carmaux,Flat,André Greipel,GER,41
+11,2011-07-13,167.5,Blaye-les-Mines,Lavaur,Flat,Mark Cavendish,GBR,558
+12,2011-07-14,211.0,Cugnaux,Luz Ardiden,Mountain,Samuel Sánchez,ESP,763
+13,2011-07-15,152.5,Pau,Lourdes,Mountain,Thor Hushovd,NOR,809
+14,2011-07-16,168.5,Saint-Gaudens,Plateau de Beille,Mountain,Jelle Vanendert,BEL,396
+15,2011-07-17,192.5,Limoux,Montpellier,Flat,Mark Cavendish,GBR,558
+16,2011-07-19,162.5,Saint-Paul-Trois-Châteaux,Gap,Mountain,Thor Hushovd,NOR,809
+17,2011-07-20,179.0,Gap,Pinerolo,Mountain,Edvald Boasson Hagen,NOR,162
+18,2011-07-21,200.5,Pinerolo,Col du Galibier-Serre Chevalier,Mountain,Andy Schleck,LUX,46
+19,2011-07-22,109.5,Modane,Alpe d'Huez,Mountain,Pierre Rolland,FRA,670
+20,2011-07-23,42.5,Grenoble,Grenoble,Time Trial,Tony Martin,GER,817
+21,2011-07-24,95.0,Créteil,Paris,Flat,Mark Cavendish,GBR,558
+P,2010-07-03,8.9,Rotterdam,Rotterdam,Time Trial,Fabian Cancellara,SUI,192
+1,2010-07-04,223.5,Rotterdam,Brussels,Flat,Alessandro Petacchi,ITA,24
+2,2010-07-05,201.0,Brussels,Spa,Flat,Sylvain Chavanel,FRA,793
+3,2010-07-06,213.0,Wanze,Arenberg Porte du Hainaut,Flat,Thor Hushovd,NOR,809
+4,2010-07-07,153.5,Cambrai,Reims,Flat,Alessandro Petacchi,ITA,24
+5,2010-07-08,187.5,Épernay,Montargis,Flat,Mark Cavendish,GBR,558
+6,2010-07-09,227.5,Montargis,Gueugnon,Flat,Mark Cavendish,GBR,558
+7,2010-07-10,165.5,Tournus,Station des Rousses,Mountain,Sylvain Chavanel,FRA,793
+8,2010-07-11,189.0,Station des Rousses,Morzine-Avoriaz,Mountain,Andy Schleck,LUX,46
+9,2010-07-13,204.5,Morzine-Avoriaz,Saint-Jean-de-Maurienne,Mountain,Sandy Casar,FRA,764
+10,2010-07-14,179.0,Chambéry,Gap,Mountain,Sérgio Paulinho,POR,796
+11,2010-07-15,184.5,Sisteron,Bourg-lès-Valence,Flat,Mark Cavendish,GBR,558
+12,2010-07-16,210.5,Bourg-de-Péage,Mende,Mountain,Joaquim Rodríguez,ESP,407
+13,2010-07-17,196.0,Rodez,Revel,Flat,Alexander Vinokourov,KAZ,27
+14,2010-07-18,184.5,Revel,Ax 3 Domaines,Mountain,Christophe Riblon,FRA,116
+15,2010-07-19,187.5,Pamiers,Bagnères-de-Luchon,Mountain,Thomas Voeckler,FRA,808
+16,2010-07-20,199.5,Bagnères-de-Luchon,Pau,Mountain,Pierrick Fédrigo,FRA,673
+17,2010-07-22,174.0,Pau,Col du Tourmalet,Mountain,Andy Schleck,LUX,46
+18,2010-07-23,198.0,Salies-de-Béarn,Bordeaux,Flat,Mark Cavendish,GBR,558
+19,2010-07-24,52.0,Bordeaux,Pauillac,Time Trial,Fabian Cancellara,SUI,192
+20,2010-07-25,102.5,Longjumeau,Paris,Flat,Mark Cavendish,GBR,558
+1,2009-07-04,15.5,Monaco,Monaco,Time Trial,Fabian Cancellara,SUI,192
+2,2009-07-05,187.0,Monaco,Brignoles,Flat,Mark Cavendish,GBR,558
+3,2009-07-06,196.5,Marseille,La Grande-Motte,Flat,Mark Cavendish,GBR,558
+4,2009-07-07,39.0,Montpellier,Montpellier,Time Trial,Astana,NA,60
+5,2009-07-08,196.5,Cap d'Agde,Perpignan,Flat,Thomas Voeckler,FRA,808
+6,2009-07-09,181.5,Girona,Barcelona,Flat,Thor Hushovd,NOR,809
+7,2009-07-10,224.0,Barcelona,Andorra-Arcalis,Mountain,Brice Feillu,FRA,91
+8,2009-07-11,176.5,Andorra la Vella,Saint-Girons,Mountain,Luis León Sánchez,ESP,519
+9,2009-07-12,160.5,Saint-Gaudens,Tarbes,Mountain,Pierrick Fédrigo,FRA,673
+10,2009-07-14,194.5,Limoges,Issoudun,Flat,Mark Cavendish,GBR,558
+11,2009-07-15,192.0,Vatan,Saint-Fargeau,Flat,Mark Cavendish,GBR,558
+12,2009-07-16,211.5,Tonnerre,Vittel,Flat,Nicki Sørensen,DEN,609
+13,2009-07-17,200.0,Vittel,Colmar,Mountain,Heinrich Haussler,GER,319
+14,2009-07-18,199.0,Colmar,Besançon,Flat,Sergei Ivanov,RUS,774
+15,2009-07-19,207.5,Pontarlier,Verbier,Mountain,Alberto Contador,ESP,19
+16,2009-07-21,159.0,Martigny,Bourg-Saint-Maurice,Mountain,Sandy Casar,FRA,764
+17,2009-07-22,169.5,Bourg-Saint-Maurice,Le Grand-Bornand,Mountain,Fränk Schleck,LUX,246
+18,2009-07-23,40.5,Annecy,Annecy,Time Trial,Alberto Contador,ESP,19
+19,2009-07-24,178.0,Bourgoin-Jallieu,Aubenas,Flat,Mark Cavendish,GBR,558
+20,2009-07-25,167.0,Montélimar,Mont Ventoux,Mountain,Juan Manuel Gárate,ESP,444
+21,2009-07-26,164.0,Montereau-Fault-Yonne,Paris,Flat,Mark Cavendish,GBR,558
+1,2008-07-05,197.5,Brest,Plumelec,Flat,Alejandro Valverde,ESP,22
+2,2008-07-06,164.5,Auray,Saint-Brieuc,Flat,Thor Hushovd,NOR,809
+3,2008-07-07,208.0,Saint-Malo,Nantes,Flat,Samuel Dumoulin,FRA,762
+4,2008-07-08,29.5,Cholet,Cholet,Time Trial,Kim Kirchen,LUX,467
+5,2008-07-09,232.0,Cholet,Châteauroux,Flat,Mark Cavendish,GBR,558
+6,2008-07-10,195.5,Aigurande,Super-Besse Sancy,Other,Alejandro Valverde,ESP,22
+7,2008-07-11,159.0,Brioude,Aurillac,Other,Luis León Sánchez,ESP,519
+8,2008-07-12,172.5,Figeac,Toulouse,Flat,Mark Cavendish,GBR,558
+9,2008-07-13,224.0,Toulouse,Bagnères-de-Bigorre,Mountain,Vladimir Efimkin,RUS,834
+10,2008-07-14,156.0,Pau,Hautacam,Mountain,Juan José Cobo,ESP,443
+11,2008-07-16,167.5,Lannemezan,Foix,Other,Kurt Asle Arvesen,NOR,469
+12,2008-07-17,168.5,Lavelanet,Narbonne,Flat,Mark Cavendish,GBR,558
+13,2008-07-18,182.0,Narbonne,Nîmes,Flat,Mark Cavendish,GBR,558
+14,2008-07-19,194.5,Nîmes,Digne-les-Bains,Flat,Óscar Freire,ESP,867
+15,2008-07-20,183.0,Embrun,Prato Nevoso,Mountain,Simon Gerrans,AUS,779
+16,2008-07-22,157.0,Cuneo,Jausiers,Mountain,Cyril Dessel,FRA,122
+17,2008-07-23,210.5,Embrun,Alpe d'Huez,Mountain,Carlos Sastre,ESP,98
+18,2008-07-24,196.5,Bourg-d'Oisans,Saint-Étienne,Other,Marcus Burghardt,GER,548
+19,2008-07-25,165.5,Roanne,Montluçon,Flat,Sylvain Chavanel,FRA,793
+20,2008-07-26,53.0,Cérilly,Saint-Amand-Montrond,Time Trial,Fabian Cancellara,SUI,192
+21,2008-07-27,143.0,Étampes,Paris,Flat,Gert Steegmans,BEL,276
+P,2007-07-07,7.9,London,London,Time Trial,Fabian Cancellara,SUI,192
+1,2007-07-08,203.0,London,Canterbury,Flat,Robbie McEwen,AUS,721
+2,2007-07-09,168.5,Dunkirk,Ghent,Flat,Gert Steegmans,BEL,276
+3,2007-07-10,236.5,Waregem - Compiègne,Waregem - Compiègne,Flat,Fabian Cancellara,SUI,192
+4,2007-07-11,193.0,Villers-Cotterêts,Joigny,Flat,Thor Hushovd,NOR,809
+5,2007-07-12,182.5,Chablis,Autun,Other,Filippo Pozzato,ITA,218
+6,2007-07-13,199.5,Semur-en-Auxois,Bourg-en-Bresse,Flat,Tom Boonen,BEL,811
+7,2007-07-14,197.5,Bourg-en-Bresse,Le Grand-Bornand,Mountain,Linus Gerdemann,GER,489
+8,2007-07-15,165.0,Le Grand-Bornand,Tignes,Mountain,Michael Rasmussen,DEN,586
+9,2007-07-17,159.5,Val-d'Isère,Briançon,Mountain,Mauricio Soler,COL,579
+10,2007-07-18,229.5,Tallard,Marseille,Flat,Cédric Vasseur,FRA,126
+11,2007-07-19,182.5,Marseille,Montpellier,Flat,Robert Hunter,RSA,724
+12,2007-07-20,178.5,Montpellier,Castres,Other,Tom Boonen,BEL,811
+13,2007-07-21,54.0,Albi,Albi,Time Trial,Cadel Evans,AUS,95
+14,2007-07-22,197.0,Mazamet,Plateau-de-Beille,Mountain,Alberto Contador,ESP,19
+15,2007-07-23,196.0,Foix,Loudenvielle,Mountain,Kim Kirchen,LUX,467
+16,2007-07-25,218.5,Orthez,Gourette–Col d'Aubisque,Mountain,Michael Rasmussen,DEN,586
+17,2007-07-26,188.5,Pau,Castelsarrasin,Other,Daniele Bennati,ITA,132
+18,2007-07-27,211.0,Cahors,Angoulême,Flat,Sandy Casar,FRA,764
+19,2007-07-28,55.5,Cognac,Angoulême,Time Trial,Levi Leipheimer,USA,487
+20,2007-07-29,146.0,Marcoussis,Paris,Flat,Daniele Bennati,ITA,132
+P,2006-07-01,7.1,Strasbourg,Strasbourg,Time Trial,Thor Hushovd,NOR,809
+1,2006-07-02,184.5,Strasbourg,Strasbourg,Flat,Jimmy Casper,FRA,402
+2,2006-07-03,228.5,Obernai,Esch-sur-Alzette,Flat,Robbie McEwen,AUS,721
+3,2006-07-04,216.5,Esch-sur-Alzette,Valkenburg,Hilly,Matthias Kessler,GER,569
+4,2006-07-05,207.0,Huy,Saint-Quentin,Flat,Robbie McEwen,AUS,721
+5,2006-07-06,225.0,Beauvais,Caen,Flat,Óscar Freire,ESP,867
+6,2006-07-07,189.0,Lisieux,Vitré,Flat,Robbie McEwen,AUS,721
+7,2006-07-08,52.0,Saint Grégoire,Rennes,Time Trial,Serhiy Honchar,UKR,776
+8,2006-07-09,181.0,Saint-Méen-le-Grand,Lorient,Flat,Sylvain Calzati,FRA,792
+9,2006-07-11,169.5,Bordeaux,Dax,Flat,Óscar Freire,ESP,867
+10,2006-07-12,190.5,Cambo-les-Bains,Pau,Mountain,Juan Miguel Mercado,ESP,446
+11,2006-07-13,206.5,Tarbes,Val d'Aran/Pla-de-Beret,Mountain,Denis Menchov,RUS,141
+12,2006-07-14,211.5,Luchon,Carcassonne,Hilly,Yaroslav Popovych,UKR,854
+13,2006-07-15,230.0,Béziers,Montélimar,Flat,Jens Voigt,GER,398
+14,2006-07-16,180.5,Montélimar,Gap,Hilly,Pierrick Fédrigo,FRA,673
+15,2006-07-18,187.0,Gap,Alpe d'Huez,Mountain,Fränk Schleck,LUX,246
+16,2006-07-19,182.0,Le Bourg-d'Oisans,La Toussuire,Mountain,Michael Rasmussen,DEN,586
+17,2006-07-20,200.5,Saint-Jean-de-Maurienne,Morzine,Mountain,Carlos Sastre,ESP,98
+18,2006-07-21,197.0,Morzine,Mâcon,Flat,Matteo Tosatto,ITA,567
+19,2006-07-22,57.0,Le Creusot,Montceau-les-Mines,Time Trial,Serhiy Honchar,UKR,776
+20,2006-07-23,154.5,Antony/Parc de Sceaux,Paris,Flat,Thor Hushovd,NOR,809
+1,2005-07-02,19.0,Fromentine,Noirmoutier-en-l'Île,Time Trial,David Zabriskie,USA,139
+2,2005-07-03,181.5,Challans,Les Essarts,Flat,Tom Boonen,BEL,811
+3,2005-07-04,212.5,La Châtaigneraie,Tours,Flat,Tom Boonen,BEL,811
+4,2005-07-05,67.5,Tours,Blois,Time Trial,Discovery Channel,NA,145
+5,2005-07-06,183.0,Chambord,Montargis,Flat,Robbie McEwen,AUS,721
+6,2005-07-07,199.0,Troyes,Nancy,Flat,Lorenzo Bernucci,ITA,491
+7,2005-07-08,228.5,Lunéville,Karlsruhe,Flat,Robbie McEwen,AUS,721
+8,2005-07-09,231.5,Pforzheim,Gérardmer,Hilly,Pieter Weening,NED,674
+9,2005-07-10,171.0,Gérardmer,Mulhouse,Hilly,Michael Rasmussen,DEN,586
+10,2005-07-12,177.0,Grenoble,Courchevel,Mountain,Alejandro Valverde,ESP,22
+11,2005-07-13,173.0,Courchevel,Briançon,Mountain,Alexander Vinokourov,KAZ,27
+12,2005-07-14,187.0,Briançon,Digne-les-Bains,Hilly,David Moncoutié,FRA,138
+13,2005-07-15,173.5,Miramas,Montpellier,Flat,Robbie McEwen,AUS,721
+14,2005-07-16,220.5,Agde,Ax 3 Domaines,Mountain,Georg Totschnig,AUT,257
+15,2005-07-17,205.5,Lézat-sur-Lèze,Saint-Lary-Soulan Pla d'Adet,Mountain,George Hincapie,USA,258
+16,2005-07-19,180.5,Mourenx,Pau,Mountain,Óscar Pereiro,ESP,868
+17,2005-07-20,239.5,Pau,Revel,Flat,Paolo Savoldelli,ITA,633
+18,2005-07-21,189.0,Albi,Mende,Hilly,Marcos Antonio Serrano,ESP,547
+19,2005-07-22,153.5,Issoire,Le Puy-en-Velay,Hilly,Giuseppe Guerini,ITA,297
+20,2005-07-23,55.5,Saint-Étienne,Saint-Étienne,Time Trial,Lance Armstrong,USA,473
+21,2005-07-24,144.5,Corbeil-Essonnes,Paris,Flat,Alexander Vinokourov,KAZ,27
+P,2004-07-03,6.1,Liège,Liège,Time Trial,Fabian Cancellara,SUI,192
+1,2004-07-04,202.5,Liège,Charleroi,Flat,Jaan Kirsipuu,EST,346
+2,2004-07-05,197.0,Charleroi,Namur,Flat,Robbie McEwen,AUS,721
+3,2004-07-06,210.0,Waterloo,Wasquehal,Flat,Jean-Patrick Nazon,FRA,388
+4,2004-07-07,64.5,Cambrai,Arras,Time Trial,U.S. Postal Service,USA,820
+5,2004-07-08,200.5,Amiens,Chartres,Flat,Stuart O'Grady,AUS,789
+6,2004-07-09,196.0,Bonneval,Angers,Flat,Tom Boonen,BEL,811
+7,2004-07-10,204.5,Châteaubriant,Saint-Brieuc,Flat,Filippo Pozzato,ITA,218
+8,2004-07-11,168.0,Lamballe,Quimper,Flat,Thor Hushovd,NOR,809
+9,2004-07-13,160.5,Saint-Léonard-de-Noblat,Guéret,Flat,Robbie McEwen,AUS,721
+10,2004-07-14,237.0,Limoges,Saint-Flour,Hilly,Richard Virenque,FRA,712
+11,2004-07-15,164.0,Saint-Flour,Figeac,Hilly,David Moncoutié,FRA,138
+12,2004-07-16,197.5,Castelsarrasin,La Mongie,Mountain,Ivan Basso,ITA,345
+13,2004-07-17,205.5,Lannemezan,Plateau de Beille,Mountain,Lance Armstrong,USA,473
+14,2004-07-18,192.5,Carcassonne,Nîmes,Flat,Aitor González,ESP,13
+15,2004-07-20,180.5,Valréas,Villard-de-Lans,Mountain,Lance Armstrong,USA,473
+16,2004-07-21,15.5,Le Bourg-d'Oisans,Alpe d'Huez,Time Trial,Lance Armstrong,USA,473
+17,2004-07-22,204.5,Le Bourg-d'Oisans,Le Grand-Bornand,Mountain,Lance Armstrong,USA,473
+18,2004-07-23,166.5,Annemasse,Lons-le-Saunier,Hilly,Juan Miguel Mercado,ESP,446
+19,2004-07-24,55.0,Besançon,Besançon,Time Trial,Lance Armstrong,USA,473
+20,2004-07-25,163.0,Montereau-Fault-Yonne,Paris,Flat,Tom Boonen,BEL,811
+P,2003-07-05,6.5,Paris,Paris,Time Trial,Bradley McGee,AUS,88
+1,2003-07-06,168.0,Saint-Denis,Meaux,Flat,Alessandro Petacchi,ITA,24
+2,2003-07-07,204.5,La Ferté-sous-Jouarre,Sedan,Flat,Baden Cooke,AUS,63
+3,2003-07-08,167.5,Charleville-Mézières,Saint-Dizier,Flat,Alessandro Petacchi,ITA,24
+4,2003-07-09,69.0,Joinville,Saint-Dizier,Time Trial,U.S. Postal Service,USA,820
+5,2003-07-10,196.5,Troyes,Nevers,Flat,Alessandro Petacchi,ITA,24
+6,2003-07-11,230.0,Nevers,Lyon,Flat,Alessandro Petacchi,ITA,24
+7,2003-07-12,230.5,Lyon,Morzine,Mountain,Richard Virenque,FRA,712
+8,2003-07-13,219.0,Sallanches,Alpe d'Huez,Mountain,Iban Mayo,ESP,340
+9,2003-07-14,184.5,Le Bourg-d'Oisans,Gap,Mountain,Alexander Vinokourov,KAZ,27
+10,2003-07-15,219.5,Gap,Marseille,Flat,Jakob Piil,DEN,353
+11,2003-07-17,153.5,Narbonne,Toulouse,Flat,Juan Antonio Flecha,ESP,442
+12,2003-07-18,47.0,Gaillac,Cap Découverte,Time Trial,Jan Ullrich,GER,360
+13,2003-07-19,197.5,Toulouse,Ax 3 Domaines,Mountain,Carlos Sastre,ESP,98
+14,2003-07-20,191.5,Saint-Girons,Loudenvielle,Mountain,Gilberto Simoni,ITA,286
+15,2003-07-21,159.5,Bagnères-de-Bigorre,Luz Ardiden,Mountain,Lance Armstrong,USA,473
+16,2003-07-23,197.5,Pau,Bayonne,Mountain,Tyler Hamilton,USA,819
+17,2003-07-24,181.0,Dax,Bordeaux,Flat,Servais Knaven,NED,778
+18,2003-07-25,203.5,Bordeaux,Saint-Maixent-l'École,Flat,Pablo Lastras,ESP,629
+19,2003-07-26,49.0,Pornic,Nantes,Time Trial,David Millar,GBR,137
+20,2003-07-27,152.0,Ville-d'Avray,Paris,Flat,Jean-Patrick Nazon,FRA,388
+P,2002-07-06,7.0,Luxembourg City,Luxembourg City,Time Trial,Lance Armstrong,USA,473
+1,2002-07-07,192.5,Luxembourg City,Luxembourg City,Flat,Rubens Bertogliati,SUI,750
+2,2002-07-08,181.0,Luxembourg City,Saarbrücken,Flat,Óscar Freire,ESP,867
+3,2002-07-09,174.5,Metz,Reims,Flat,Robbie McEwen,AUS,721
+4,2002-07-10,67.5,Épernay,Château-Thierry,Time Trial,ONCE–Eroski,NA,617
+5,2002-07-11,195.0,Soissons,Rouen,Flat,Jaan Kirsipuu,EST,346
+6,2002-07-12,199.5,Forges-les-Eaux,Alençon,Flat,Erik Zabel,GER,183
+7,2002-07-13,176.0,Bagnoles-de-l'Orne,Avranches,Flat,Bradley McGee,AUS,88
+8,2002-07-14,217.5,Saint-Martin-de-Landelles,Plouay,Flat,Karsten Kroon,NED,464
+9,2002-07-15,52.0,Lanester,Lorient,Time Trial,Santiago Botero,COL,765
+10,2002-07-17,147.0,Bazas,Pau,Flat,Patrice Halgand,FRA,639
+11,2002-07-18,158.0,Pau,La Mongie,Mountain,Lance Armstrong,USA,473
+12,2002-07-19,199.5,Lannemezan,Plateau de Beille,Mountain,Lance Armstrong,USA,473
+13,2002-07-20,171.0,Lavelanet,Béziers,Flat,David Millar,GBR,137
+14,2002-07-21,221.0,Lodève,Mont Ventoux,Mountain,Richard Virenque,FRA,712
+15,2002-07-23,226.5,Vaison-la-Romaine,Les Deux Alpes,Hilly,Santiago Botero,COL,765
+16,2002-07-24,179.5,Les Deux Alpes,La Plagne,Mountain,Michael Boogerd,NED,584
+17,2002-07-25,142.0,Aime,Cluses,Mountain,Dario Frigo,ITA,135
+18,2002-07-26,176.5,Cluses,Bourg-en-Bresse,Hilly,Thor Hushovd,NOR,809
+19,2002-07-27,50.0,Régnié-Durette,Mâcon,Time Trial,Lance Armstrong,USA,473
+20,2002-07-28,144.0,Melun,Paris,Flat,Robbie McEwen,AUS,721
+P,2001-07-07,8.2,Dunkirk,Dunkirk,Time Trial,Christophe Moreau,FRA,115
+1,2001-07-08,194.5,Saint-Omer,Boulogne-sur-Mer,Flat,Erik Zabel,GER,183
+2,2001-07-09,220.5,Calais,Antwerp,Flat,Marc Wauters,BEL,532
+3,2001-07-10,198.5,Antwerp,Seraing,Flat,Erik Zabel,GER,183
+4,2001-07-11,215.0,Huy,Verdun,Flat,Laurent Jalabert,FRA,480
+5,2001-07-12,67.0,Verdun,Bar-le-Duc,Time Trial,Crédit Agricole,NA,120
+6,2001-07-13,211.5,Commercy,Strasbourg,Flat,Jaan Kirsipuu,EST,346
+7,2001-07-14,162.5,Strasbourg,Colmar,Hilly,Laurent Jalabert,FRA,480
+8,2001-07-15,222.5,Colmar,Pontarlier,Flat,Erik Dekker,NED,182
+9,2001-07-16,185.0,Pontarlier,Aix-les-Bains,Flat,Serguei Ivanov,RUS,775
+10,2001-07-17,209.0,Aix-les-Bains,Alpe d'Huez,Mountain,Lance Armstrong,USA,473
+11,2001-07-18,32.0,Grenoble,Chamrousse,Time Trial,Lance Armstrong,USA,473
+12,2001-07-20,166.5,Perpignan,Plateau de Bonascre,Mountain,Félix Cárdenas,COL,250
+13,2001-07-21,194.0,Foix,Saint-Lary-Soulan Pla d'Adet,Mountain,Lance Armstrong,USA,473
+14,2001-07-22,141.5,Tarbes,Luz Ardiden,Mountain,Roberto Laiseka,ESP,730
+15,2001-07-24,232.5,Pau,Lavaur,Flat,Rik Verbrugghe,BEL,717
+16,2001-07-25,229.5,Castelsarrasin,Sarran,Flat,Jens Voigt,GER,398
+17,2001-07-26,194.0,Brive-la-Gaillarde,Montluçon,Flat,Serge Baguet,BEL,771
+18,2001-07-27,61.0,Montluçon,Saint-Amand-Montrond,Time Trial,Lance Armstrong,USA,473
+19,2001-07-28,149.5,Orléans,Évry,Flat,Erik Zabel,GER,183
+20,2001-07-29,160.5,Corbeil-Essonnes,Paris,Flat,Ján Svorada,CZE,459
+1,2000-07-01,16.5,Futuroscope,Futuroscope,Time Trial,David Millar,GBR,137
+2,2000-07-02,194.0,Futuroscope,Loudun,Flat,Tom Steels,BEL,813
+3,2000-07-03,161.5,Loudun,Nantes,Flat,Tom Steels,BEL,813
+4,2000-07-04,70.0,Nantes,Saint-Nazaire,Time Trial,ONCE–Deutsche Bank,NA,616
+5,2000-07-05,202.0,Vannes,Vitré,Flat,Marcel Wüst,GER,544
+6,2000-07-06,198.5,Vitré,Tours,Flat,Leon van Bon,NED,486
+7,2000-07-07,205.5,Tours,Limoges,Flat,Christophe Agnolutto,FRA,112
+8,2000-07-08,203.5,Limoges,Villeneuve-sur-Lot,Flat,Erik Dekker,NED,182
+9,2000-07-09,181.0,Agen,Dax,Flat,Paolo Bettini,ITA,632
+10,2000-07-10,205.0,Dax,Hautacam,Mountain,Javier Otxoa,ESP,363
+11,2000-07-11,218.5,Bagnères-de-Bigorre,Revel,Hilly,Erik Dekker,NED,182
+12,2000-07-13,149.0,Carpentras,Mont Ventoux,Mountain,Marco Pantani,ITA,546
+13,2000-07-14,185.5,Avignon,Draguignan,Flat,José Vicente Garcia,ESP,435
+14,2000-07-15,249.5,Draguignan,Briançon,Mountain,Santiago Botero,COL,765
+15,2000-07-16,173.5,Briançon,Courchevel,Mountain,Marco Pantani,ITA,546
+16,2000-07-18,196.5,Courchevel,Morzine,Mountain,Richard Virenque,FRA,712
+17,2000-07-19,155.0,Évian-les-Bains,Lausanne,Hilly,Erik Dekker,NED,182
+18,2000-07-20,246.5,Lausanne,Freiburg,Flat,Salvatore Commesso,ITA,761
+19,2000-07-21,58.5,Freiburg,Mulhouse,Time Trial,Lance Armstrong,USA,473
+20,2000-07-22,254.5,Belfort,Troyes,Flat,Erik Zabel,GER,183
+21,2000-07-23,138.0,Paris,Paris,Flat,Stefano Zanini,ITA,784
+P,1999-07-03,6.8,Le Puy du Fou,Le Puy du Fou,Time Trial,Lance Armstrong,USA,473
+1,1999-07-04,208.0,Montaigu,Challans,Flat,Jaan Kirsipuu,EST,346
+2,1999-07-05,176.0,Challans,Saint-Nazaire,Flat,Tom Steels,BEL,813
+3,1999-07-06,194.5,Nantes,Laval,Flat,Tom Steels,BEL,813
+4,1999-07-07,194.5,Laval,Blois,Flat,Mario Cipollini,ITA,555
+5,1999-07-08,233.5,Bonneval,Amiens,Flat,Mario Cipollini,ITA,555
+6,1999-07-09,171.5,Amiens,Maubeuge,Flat,Mario Cipollini,ITA,555
+7,1999-07-10,227.0,Avesnes-sur-Helpe,Thionville,Flat,Mario Cipollini,ITA,555
+8,1999-07-11,56.5,Metz,Metz,Time Trial,Lance Armstrong,USA,473
+9,1999-07-13,213.5,Le Grand-Bornand,Sestrières,Mountain,Lance Armstrong,USA,473
+10,1999-07-14,220.5,Sestrières,Alpe d'Huez,Mountain,Giuseppe Guerini,ITA,297
+11,1999-07-15,198.5,Le Bourg-d'Oisans,Saint-Étienne,Hilly,Ludo Dierckxsens,BEL,513
+12,1999-07-16,201.5,Saint-Galmier,Saint-Flour,Hilly,David Etxebarria,ESP,136
+13,1999-07-17,236.5,Saint-Flour,Albi,Hilly,Salvatore Commesso,ITA,761
+14,1999-07-18,199.0,Castres,Saint-Gaudens,Flat,Dmitri Konychev,RUS,148
+15,1999-07-20,173.0,Saint-Gaudens,Piau-Engaly,Mountain,Fernando Escartín,ESP,215
+16,1999-07-21,192.0,Lannemezan,Pau,Mountain,David Etxebarria,ESP,136
+17,1999-07-22,200.0,Mourenx,Bordeaux,Flat,Tom Steels,BEL,813
+18,1999-07-23,187.5,Jonzac,Futuroscope,Flat,Giampaolo Mondini,ITA,280
+19,1999-07-24,57.0,Futuroscope,Futuroscope,Time Trial,Lance Armstrong,USA,473
+20,1999-07-25,143.5,Arpajon,Paris,Flat,Robbie McEwen,AUS,721
+P,1998-07-11,5.6,Dublin,Dublin,Time Trial,Chris Boardman,GBR,108
+1,1998-07-12,180.5,Dublin,Dublin,Flat,Tom Steels,BEL,813
+2,1998-07-13,205.5,Enniscorthy,Cork,Flat,Ján Svorada,CZE,459
+3,1998-07-14,169.0,Roscoff,Lorient,Flat,Jens Heppner,GER,397
+4,1998-07-15,252.0,Plouay,Cholet,Flat,Jeroen Blijlevens,NED,399
+5,1998-07-16,228.5,Cholet,Châteauroux,Flat,Mario Cipollini,ITA,555
+6,1998-07-17,204.5,La Châtre,Brive-la-Gaillarde,Flat,Mario Cipollini,ITA,555
+7,1998-07-18,58.0,Meyrignac-l'Église,Corrèze,Time Trial,Jan Ullrich,GER,360
+8,1998-07-19,190.5,Brive-la-Gaillarde,Montauban,Flat,Jacky Durand,FRA,347
+9,1998-07-20,210.0,Montauban,Pau,Flat,Leon van Bon,NED,486
+10,1998-07-21,196.5,Pau,Luchon,Mountain,Rodolfo Massi,ITA,731
+11,1998-07-22,170.0,Luchon,Plateau de Beille,Mountain,Marco Pantani,ITA,546
+12,1998-07-24,222.0,Tarascon-sur-Ariège,Le Cap d'Agde,Flat,Tom Steels,BEL,813
+13,1998-07-25,196.0,Frontignan la Peyrade,Carpentras,Flat,Daniele Nardello,ITA,133
+14,1998-07-26,186.5,Valréas,Grenoble,Hilly,Stuart O'Grady,AUS,789
+15,1998-07-27,189.0,Grenoble,Les Deux Alpes,Mountain,Marco Pantani,ITA,546
+16,1998-07-28,204.0,Vizille,Albertville,Mountain,Jan Ullrich,GER,360
+17,1998-07-29,149.0,Albertville,Aix-les-Bains,Mountain,Other,NA,626
+18,1998-07-30,218.5,Aix-les-Bains,Neuchâtel,Hilly,Tom Steels,BEL,813
+19,1998-07-31,242.0,La Chaux-de-Fonds,Autun,Flat,Magnus Bäckstedt,SWE,527
+20,1998-08-01,52.0,Montceau-les-Mines,Le Creusot,Time Trial,Jan Ullrich,GER,360
+21,1998-08-02,147.5,Melun,Paris,Flat,Tom Steels,BEL,813
+P,1997-07-05,7.3,Rouen,Rouen,Time Trial,Chris Boardman,GBR,108
+1,1997-07-06,192.0,Rouen,Forges-les-Eaux,Flat,Mario Cipollini,ITA,555
+2,1997-07-07,262.0,Saint-Valery-en-Caux,Vire,Flat,Mario Cipollini,ITA,555
+3,1997-07-08,224.0,Vire,Plumelec,Flat,Erik Zabel,GER,183
+4,1997-07-09,223.0,Plumelec,Le Puy du Fou,Flat,Nicola Minali,ITA,611
+5,1997-07-10,261.5,Chantonnay,La Châtre,Flat,Cédric Vasseur,FRA,126
+6,1997-07-11,217.5,Le Blanc,Marennes,Flat,Jeroen Blijlevens,NED,399
+7,1997-07-12,194.0,Marennes,Bordeaux,Flat,Erik Zabel,GER,183
+8,1997-07-13,161.5,Sauternes,Pau,Flat,Erik Zabel,GER,183
+9,1997-07-14,182.0,Pau,Loudenvielle,Mountain,Laurent Brochard,FRA,476
+10,1997-07-15,252.5,Luchon,Andorra Arcalis,Mountain,Jan Ullrich,GER,360
+11,1997-07-16,192.0,Andorra Arcalis,Perpignan,Hilly,Laurent Desbiens,FRA,477
+12,1997-07-18,55.0,Saint-Étienne,Saint-Étienne,Time Trial,Jan Ullrich,GER,360
+13,1997-07-19,203.5,Saint-Étienne,Alpe d'Huez,Mountain,Marco Pantani,ITA,546
+14,1997-07-20,148.0,Le Bourg-d'Oisans,Courchevel,Mountain,Richard Virenque,FRA,712
+15,1997-07-21,208.5,Courchevel,Morzine,Mountain,Marco Pantani,ITA,546
+16,1997-07-22,181.0,Morzine,Fribourg,Hilly,Christophe Mengin,FRA,114
+17,1997-07-23,218.5,Fribourg,Colmar,Flat,Neil Stephens,AUS,605
+18,1997-07-24,175.5,Colmar,Montbéliard,Hilly,Didier Rous,FRA,142
+19,1997-07-25,172.0,Montbéliard,Dijon,Flat,Mario Traversoni,ITA,557
+20,1997-07-26,63.0,Disneyland Paris,Disneyland Paris,Time Trial,Abraham Olano,ESP,0
+21,1997-07-27,149.5,Disneyland Paris,Paris,Flat,Nicola Minali,ITA,611
+P,1996-06-29,9.4,'s-Hertogenbosch,'s-Hertogenbosch,Time Trial,Alex Zülle,SUI,25
+1,1996-06-30,209.0,'s-Hertogenbosch,'s-Hertogenbosch,Flat,Frédéric Moncassin,FRA,247
+2,1996-07-01,247.5,'s-Hertogenbosch,Wasquehal,Flat,Mario Cipollini,ITA,555
+3,1996-07-02,195.0,Wasquehal,Nogent-sur-Oise,Flat,Erik Zabel,GER,183
+4,1996-07-03,232.0,Soissons,Lac de Madine,Flat,Cyril Saugrain,FRA,123
+5,1996-07-04,242.0,Lac de Madine,Besançon,Flat,Jeroen Blijlevens,NED,399
+6,1996-07-05,207.0,Arc-et-Senans,Aix-les-Bains,Hilly,Michael Boogerd,NED,584
+7,1996-07-06,200.0,Chambéry,Les Arcs,Mountain,Luc Leblanc,FRA,501
+8,1996-07-07,30.5,Bourg-Saint-Maurice,Val d'Isère,Time Trial,Evgueni Berzin,RUS,191
+9,1996-07-08,46.0,Le Monêtier-les-Bains,Sestriere,Mountain,Bjarne Riis,DEN,85
+10,1996-07-09,208.5,Turin,Gap,Hilly,Erik Zabel,GER,183
+11,1996-07-11,202.0,Gap,Valence,Hilly,José Jaime Gonzalez,COL,430
+12,1996-07-12,143.5,Valence,Le Puy-en-Velay,Hilly,Pascal Richard,SUI,637
+13,1996-07-13,177.0,Le Puy-en-Velay,Super Besse,Hilly,Rolf Sørensen,DEN,744
+14,1996-07-14,186.5,Besse,Tulle,Hilly,Djamolidine Abduzhaparov,UZB,147
+15,1996-07-15,176.0,Brive-la-Gaillarde,Villeneuve-sur-Lot,Flat,Massimo Podenzana,ITA,564
+16,1996-07-16,199.0,Agen,Hautacam,Mountain,Bjarne Riis,DEN,85
+17,1996-07-17,262.0,Argelès-Gazost,Pamplona,Mountain,Laurent Dufaux,SUI,478
+18,1996-07-18,154.5,Pamplona,Hendaye,Hilly,Bart Voskamp,NED,65
+19,1996-07-19,226.5,Hendaye,Bordeaux,Flat,Frédéric Moncassin,FRA,247
+20,1996-07-20,63.5,Bordeaux,Saint-Émilion,Time Trial,Jan Ullrich,GER,360
+21,1996-07-21,147.5,Palaiseau,Paris,Flat,Fabio Baldato,ITA,195
+P,1995-07-01,7.3,Saint-Brieuc,Saint-Brieuc,Time Trial,Jacky Durand,FRA,347
+1,1995-07-02,233.5,Dinan,Lannion,Flat,Fabio Baldato,ITA,195
+2,1995-07-03,235.5,Perros-Guirec,Vitre,Flat,Mario Cipollini,ITA,555
+3,1995-07-04,67.0,Mayenne,Alençon,Time Trial,Gewiss–Ballan,NA,278
+4,1995-07-05,162.0,Alençon,Le Havre,Flat,Mario Cipollini,ITA,555
+5,1995-07-06,261.0,Fécamp,Dunkirk,Flat,Jeroen Blijlevens,NED,399
+6,1995-07-07,202.0,Dunkirk,Charleroi,Flat,Erik Zabel,GER,183
+7,1995-07-08,203.0,Charleroi,Liège,Hilly,Johan Bruyneel,BEL,408
+8,1995-07-09,54.0,Huy,Seraing,Time Trial,Miguel Indurain,ESP,596
+9,1995-07-11,160.0,Le Grand-Bornand,La Plagne,Mountain,Alex Zülle,SUI,25
+10,1995-07-12,162.5,La Plagne,L'Alpe d'Huez,Mountain,Marco Pantani,ITA,546
+11,1995-07-13,199.0,Le Bourg-d'Oisans,Saint-Étienne,Hilly,Maximilian Sciandri,GBR,583
+12,1995-07-14,222.5,Saint-Étienne,Mende,Hilly,Laurent Jalabert,FRA,480
+13,1995-07-15,245.0,Mende,Revel,Flat,Serhiy Utchakov,UKR,777
+14,1995-07-16,164.0,Saint-Orens-de-Gameville,Guzet-Neige,Mountain,Marco Pantani,ITA,546
+15,1995-07-18,206.0,Saint-Girons,Cauterets,Mountain,Richard Virenque,FRA,712
+16,1995-07-19,149.0,Tarbes,Pau,Mountain,Cancelled,NA,97
+17,1995-07-20,246.0,Pau,Bordeaux,Flat,Erik Zabel,GER,183
+18,1995-07-21,166.5,Montpon-Ménestérol,Limoges,Flat,Lance Armstrong,USA,473
+19,1995-07-22,46.5,Lac de Vassivière,Lac de Vassivière,Time Trial,Miguel Indurain,ESP,596
+20,1995-07-23,155.0,Sainte-Geneviève-des-Bois,Paris,Flat,Djamolidine Abdoujaparov,UZB,146
+P,1994-07-02,7.2,Lille,Lille,Time Trial,Chris Boardman,GBR,108
+1,1994-07-03,234.0,Lille,Armentières,Flat,Djamolidine Abdoujaparov,UZB,146
+2,1994-07-04,203.5,Roubaix,Boulogne-sur-Mer,Flat,Jean-Paul van Poppel,NED,389
+3,1994-07-05,66.5,Calais,Eurotunnel,Time Trial,GB–MG Maglificio,NA,253
+4,1994-07-06,204.5,Dover, Brighton,Flat,Francisco Cabello,ESP,229
+5,1994-07-07,187.0,Portsmouth,Portsmouth,Flat,Nicola Minali,ITA,611
+6,1994-07-08,270.5,Cherbourg,Rennes,Flat,Gianluca Bortolami,ITA,281
+7,1994-07-09,259.5,Rennes,Futuroscope,Flat,Ján Svorada,SVK,459
+8,1994-07-10,218.5,Poitiers,Trélissac,Flat,Bo Hamburger,DEN,87
+9,1994-07-11,64.0,Périgueux,Bergerac,Time Trial,Miguel Indurain,ESP,596
+10,1994-07-12,160.5,Bergerac,Cahors,Flat,Jacky Durand,FRA,347
+11,1994-07-13,263.5,Cahors,Hautacam,Mountain,Luc Leblanc,FRA,501
+12,1994-07-15,204.5,Lourdes,Luz Ardiden,Mountain,Richard Virenque,FRA,712
+13,1994-07-16,223.0,Bagnères-de-Bigorre,Albi,Flat,Bjarne Riis,DEN,85
+14,1994-07-17,202.0,Castres,Montpellier,Flat,Rolf Sørensen,DEN,744
+15,1994-07-18,231.0,Montpellier,Carpentras,Mountain,Eros Poli,ITA,186
+16,1994-07-19,224.5,Valréas,Alpe d'Huez,Mountain,Roberto Conti,ITA,729
+17,1994-07-20,149.0,Le Bourg-d'Oisans,Val Thorens,Mountain,Nelson Rodriguez,COL,607
+18,1994-07-21,174.5,Moutiers,Cluses,Mountain,Piotr Ugrumov,LAT,678
+19,1994-07-22,47.5,Cluses,Avoriaz,Time Trial,Piotr Ugrumov,LAT,678
+20,1994-07-23,208.5,Morzine,Lac Saint-Point,Hilly,Djamolidine Abdoujaparov,UZB,146
+21,1994-07-24,175.0,Disneyland Paris,Paris,Flat,Eddy Seigneur,FRA,157
+P,1993-07-03,6.8,Le Puy du Fou,Le Puy du Fou,Time Trial,Miguel Indurain,ESP,596
+1,1993-07-04,215.0,Luçon,Les Sables-d'Olonne,Flat,Mario Cipollini,ITA,555
+2,1993-07-05,227.5,Les Sables-d'Olonne,Vannes,Flat,Wilfried Nelissen,BEL,842
+3,1993-07-06,189.5,Vannes,Dinard,Flat,Djamolidine Abdoujaparov,UZB,146
+4,1993-07-07,81.0,Dinard,Avranches,Time Trial,GB–MG Maglificio,NA,253
+5,1993-07-08,225.5,Avranches,Évreux,Flat,Jesper Skibby,DEN,400
+6,1993-07-09,158.0,Évreux,Amiens,Flat,Johan Bruyneel,BEL,408
+7,1993-07-10,199.0,Péronne,Châlons-sur-Marne,Flat,Bjarne Riis,DEN,85
+8,1993-07-11,184.5,Châlons-sur-Marne,Verdun,Flat,Lance Armstrong,USA,473
+9,1993-07-12,59.0,Lac de Madine,Lac de Madine,Time Trial,Miguel Indurain,ESP,596
+10,1993-07-14,203.0,Villard-de-Lans,Serre Chevalier,Mountain,Toni Rominger,SUI,815
+11,1993-07-15,179.0,Serre Chevalier,Isola 2000,Mountain,Toni Rominger,SUI,815
+12,1993-07-16,286.5,Isola,Marseille,Flat,Fabio Roscioli,ITA,198
+13,1993-07-17,181.5,Marseille,Montpellier,Flat,Olaf Ludwig,GER,620
+14,1993-07-18,223.0,Montpellier,Perpignan,Flat,Pascal Lino,FRA,635
+15,1993-07-19,231.5,Perpignan,Pal,Mountain,Oliverio Rincón,COL,621
+16,1993-07-21,230.0,Andorra,Saint-Lary-Soulan Pla d'Adet,Mountain,Zenon Jaskuła,POL,857
+17,1993-07-22,190.0,Tarbes,Pau,Mountain,Claudio Chiappucci,ITA,118
+18,1993-07-23,199.5,Orthez,Bordeaux,Flat,Djamolidine Abdoujaparov,UZB,146
+19,1993-07-24,48.0,Brétigny-sur-Orge,Montlhéry,Time Trial,Toni Rominger,SUI,815
+20,1993-07-25,196.5,Viry-Châtillon,Paris,Flat,Djamolidine Abdoujaparov,UZB,146
+P,1992-07-04,8.0,San Sebastián,San Sebastián,Time Trial,Miguel Indurain,ESP,596
+1,1992-07-05,194.5,San Sebastián,San Sebastián,Hilly,Dominique Arnould,FRA,149
+2,1992-07-06,255.0,San Sebastián,Pau,Hilly,Javier Murguialday,ESP,362
+3,1992-07-07,210.0,Pau,Bordeaux,Flat,Rob Harmeling,NED,720
+4,1992-07-08,63.5,Libourne,Libourne,Time Trial,Panasonic–Sportlife,NA,631
+5,1992-07-09,196.0,Nogent-sur-Oise,Wasquehal,Flat,Guido Bontempi,ITA,304
+6,1992-07-10,167.0,Roubaix,Brussels,Flat,Laurent Jalabert,FRA,480
+7,1992-07-11,196.5,Brussels,Valkenburg,Flat,Gilles Delion,FRA,287
+8,1992-07-12,206.5,Valkenburg,Koblenz,Flat,Jan Nevens,BEL,357
+9,1992-07-13,65.0,Luxembourg City,Luxembourg City,Time Trial,Miguel Indurain,ESP,596
+10,1992-07-14,217.0,Luxembourg City,Strasbourg,Flat,Jean-Paul van Poppel,NED,389
+11,1992-07-15,249.5,Strasbourg,Mulhouse,Hilly,Laurent Fignon,FRA,479
+12,1992-07-16,267.5,Dole,St Gervais,Hilly,Rolf Järmann,SUI,743
+13,1992-07-18,254.5,St Gervais,Sestriere,Mountain,Claudio Chiappucci,ITA,118
+14,1992-07-19,186.5,Sestriere,Alpe d'Huez,Mountain,Andrew Hampsten,USA,37
+15,1992-07-20,198.0,Le Bourg-d'Oisans,Saint-Étienne,Hilly,Franco Chioccioli,ITA,231
+16,1992-07-21,212.0,Saint-Étienne,La Bourboule,Hilly,Stephen Roche,IRE,785
+17,1992-07-22,189.0,La Bourboule,Montluçon,Flat,Jean-Claude Colotti,FRA,383
+18,1992-07-23,212.0,Montluçon,Tours,Flat,Thierry Marie,FRA,806
+19,1992-07-24,64.0,Tours,Blois,Time Trial,Miguel Indurain,ESP,596
+20,1992-07-25,222.0,Blois,Nanterre,Flat,Peter De Clercq,BEL,653
+21,1992-07-26,141.0,La Défense,Paris,Flat,Olaf Ludwig,GER,620
+P,1991-07-06,5.4,Lyon,Lyon,Time Trial,Thierry Marie,FRA,806
+1,1991-07-07,114.5,Lyon,Lyon,Flat,Djamolidine Abdoujaparov,URS,146
+2,1991-07-07,36.5,Bron,Chassieu,Time Trial,Ariostea,NA,54
+3,1991-07-08,210.5,Villeurbanne,Dijon,Flat,Etienne De Wilde,BEL,187
+4,1991-07-09,286.0,Dijon,Reims,Flat,Djamolidine Abdoujaparov,URS,146
+5,1991-07-10,149.5,Reims,Valenciennes,Flat,Jelle Nijdam,NED,395
+6,1991-07-11,259.0,Arras,Le Havre,Flat,Thierry Marie,FRA,806
+7,1991-07-12,167.0,Le Havre,Argentan,Flat,Jean-Paul van Poppel,NED,389
+8,1991-07-13,73.0,Argentan,Alençon,Time Trial,Miguel Indurain,ESP,596
+9,1991-07-14,161.0,Alençon,Rennes,Flat,Mauro Ribeiro,BRA,580
+10,1991-07-15,207.5,Rennes,Quimper,Flat,Phil Anderson,AUS,656
+11,1991-07-16,246.0,Quimper,Saint-Herblain,Flat,Charly Mottet,FRA,107
+12,1991-07-18,192.0,Pau,Jaca,Mountain,Charly Mottet,FRA,107
+13,1991-07-19,232.0,Jaca,Val-Louron,Mountain,Claudio Chiappucci,ITA,118
+14,1991-07-20,172.5,St Gaudens,Castres,Flat,Bruno Cenghialta,ITA,93
+15,1991-07-21,235.0,Albi,Ales,Hilly,Moreno Argentin,ITA,603
+16,1991-07-22,215.0,Alès,Gap,Flat,Marco Lietti,ITA,545
+17,1991-07-23,125.0,Gap,Alpe d'Huez,Mountain,Gianni Bugno,ITA,282
+18,1991-07-24,255.0,Le Bourg-d'Oisans,Morzine,Mountain,Thierry Claveyrolat,FRA,805
+19,1991-07-25,177.0,Morzine,Aix-les-Bains,Hilly,Dmitri Konychev,URS,148
+20,1991-07-26,160.0,Aix-les-Bains,Mâcon,Hilly,Viatcheslav Ekimov,URS,824
+21,1991-07-27,57.0,Lugny,Mâcon,Time Trial,Miguel Indurain,ESP,596
+22,1991-07-28,178.0,Melun,Paris,Flat,Dmitri Konychev,URS,148
+P,1990-06-30,6.3,Futuroscope,Futuroscope,Time Trial,Thierry Marie,FRA,806
+1,1990-07-01,138.5,Futuroscope,Futuroscope,Flat,Frans Maassen,NED,236
+2,1990-07-01,44.5,Futuroscope,Futuroscope,Time Trial,Panasonic–Sportlife,NA,631
+3,1990-07-02,233.0,Poitiers,Nantes,Flat,Moreno Argentin,ITA,603
+4,1990-07-03,203.0,Nantes,Mont Saint-Michel,Flat,Johan Museeuw,BEL,410
+5,1990-07-04,301.0,Avranches,Rouen,Flat,Gerrit Solleveld,NED,274
+6,1990-07-06,202.5,Sarrebourg,Vittel,Flat,Jelle Nijdam,NED,395
+7,1990-07-07,61.5,Vittel,Épinal,Time Trial,Raúl Alcalá,MEX,699
+8,1990-07-08,181.5,Épinal,Besançon,Flat,Olaf Ludwig,GDR,620
+9,1990-07-09,196.0,Besançon,Geneva,Hilly,Massimo Ghirotto,ITA,563
+10,1990-07-10,118.5,Geneva,Saint-Gervais,Mountain,Thierry Claveyrolat,FRA,805
+11,1990-07-11,182.5,Saint-Gervais,Alpe d'Huez,Mountain,Gianni Bugno,ITA,282
+12,1990-07-12,33.5,Fontaine,Villard-de-Lans,Time Trial,Erik Breukink,NED,181
+13,1990-07-14,149.0,Villard-de-Lans,Saint-Étienne,Hilly,Eduardo Chozas,ESP,161
+14,1990-07-15,205.0,Le Puy-en-Velay,Millau,Hilly,Marino Lejarreta,ESP,553
+15,1990-07-16,170.0,Millau,Revel,Flat,Charly Mottet,FRA,107
+16,1990-07-17,215.0,Blagnac,Luz Ardiden,Mountain,Miguel Indurain,ESP,596
+17,1990-07-18,150.0,Lourdes,Pau,Mountain,Dmitri Konychev,URS,148
+18,1990-07-19,202.0,Pau,Bordeaux,Flat,Gianni Bugno,ITA,282
+19,1990-07-20,182.5,Castillon-la-Bataille,Limoges,Flat,Guido Bontempi,ITA,304
+20,1990-07-21,45.5,Lac de Vassivière,Lac de Vassivière,Time Trial,Erik Breukink,NED,181
+21,1990-07-22,182.5,Brétigny-sur-Orge,Paris,Flat,Johan Museeuw,BEL,410
+P,1989-07-01,7.8,Luxembourg City,Luxembourg City,Time Trial,Erik Breukink,NED,181
+1,1989-07-02,135.5,Luxembourg City,Luxembourg City,Flat,Acácio da Silva,POR,1
+2,1989-07-02,46.0,Luxembourg City,Luxembourg City,Time Trial,Super U–Raleigh–Fiat,NA,790
+3,1989-07-03,241.0,Luxembourg City,Spa,Flat,Raúl Alcalá,MEX,699
+4,1989-07-04,255.0,Liège,Wasquehal,Flat,Jelle Nijdam,NED,395
+5,1989-07-06,73.0,Dinard,Rennes,Time Trial,Greg LeMond,USA,302
+6,1989-07-07,259.0,Rennes,Futuroscope,Flat,Joël Pelier,FRA,441
+7,1989-07-08,258.5,Poitiers,Bordeaux,Flat,Etienne De Wilde,BEL,187
+8,1989-07-09,157.0,Labastide-d'Armagnac,Pau,Flat,Martin Earley,IRE,560
+9,1989-07-10,147.0,Pau,Cauterets,Mountain,Miguel Induráin,ESP,597
+10,1989-07-11,136.0,Cauterets,Superbagnères,Mountain,Robert Millar,GBR,726
+11,1989-07-12,158.5,Luchon,Blagnac,Flat,Mathieu Hermans,NED,566
+12,1989-07-13,242.0,Toulouse,Montpellier,Flat,Valerio Tebaldi,ITA,822
+13,1989-07-14,179.0,Montpellier,Marseille,Flat,Vincent Barteau,FRA,830
+14,1989-07-15,240.0,Marseille,Gap,Hilly,Jelle Nijdam,NED,395
+15,1989-07-16,39.0,Gap,Orcières-Merlette,Time Trial,Steven Rooks,NED,788
+16,1989-07-18,175.0,Gap,Briançon,Mountain,Pascal Richard,SUI,637
+17,1989-07-19,165.0,Briançon,Alpe d'Huez,Mountain,Gert-Jan Theunisse,NED,277
+18,1989-07-20,91.5,Le Bourg-d'Oisans,Villard-de-Lans,Mountain,Laurent Fignon,FRA,479
+19,1989-07-21,125.0,Villard-de-Lans,Aix-les-Bains,Mountain,Greg LeMond,USA,302
+20,1989-07-22,130.0,Aix-les-Bains,L'Isle-d'Abeau,Flat,Giovanni Fidanza,ITA,293
+21,1989-07-23,24.5,Versailles,Paris,Time Trial,Greg LeMond,USA,302
+P,1988-07-03,1.0,Pornichet,La Baule,Time Trial,Guido Bontempi,ITA,304
+1,1988-07-04,92.0,Pontchâteau,Machecoul,Flat,Steve Bauer,CAN,786
+2,1988-07-04,48.0,La Haie-Fouassière,Ancenis,Time Trial,Panasonic–Isostar–Colnago–Agu,NA,630
+3,1988-07-05,213.0,Nantes,Le Mans,Flat,Jean-Paul van Poppel,NED,389
+4,1988-07-06,158.0,Le Mans,Évreux,Flat,Acácio da Silva,POR,1
+5,1988-07-07,148.0,Neufchâtel-en-Bray,Liévin,Flat,Jelle Nijdam,NED,395
+6,1988-07-08,52.0,Liévin,Wasquehal,Time Trial,Sean Yates,GBR,769
+7,1988-07-09,225.0,Wasquehal,Reims,Flat,Valerio Tebaldi,ITA,822
+8,1988-07-10,219.0,Reims,Nancy,Flat,Rolf Gölz,GER,742
+9,1988-07-11,161.0,Nancy,Strasbourg,Hilly,Jérôme Simon,FRA,460
+10,1988-07-12,149.0,Belfort,Besançon,Hilly,Jean-Paul van Poppel,NED,389
+11,1988-07-13,232.0,Besançon,Morzine,Mountain,Fabio Parra,COL,197
+12,1988-07-14,227.0,Morzine,Alpe d'Huez,Mountain,Steven Rooks,NED,788
+13,1988-07-15,38.0,Grenoble,Villard-de-Lans,Time Trial,Pedro Delgado,ESP,649
+14,1988-07-17,163.0,Blagnac,Guzet-Neige,Mountain,Massimo Ghirotto,ITA,563
+15,1988-07-18,187.0,Saint-Girons,Luz Ardiden,Mountain,Laudelino Cubino,ESP,475
+16,1988-07-19,35.0,Luz Ardiden,Pau,Flat,Adrie van der Poel,NED,11
+17,1988-07-19,198.0,Pau,Bordeaux,Flat,Jean-Paul van Poppel,NED,389
+18,1988-07-20,94.0,Ruelle-sur-Touvre,Limoges,Flat,Gianni Bugno,ITA,282
+19,1988-07-21,188.0,Limoges,Puy de Dôme,Hilly,Johnny Weltz,DEN,413
+20,1988-07-22,223.0,Clermont-Ferrand,Chalon-sur-Saône,Flat,Thierry Marie,FRA,806
+21,1988-07-23,46.0,Santenay,Santenay,Time Trial,Juan Martinéz,ESP,445
+22,1988-07-24,173.0,Nemours,Paris,Flat,Jean-Paul van Poppel,NED,389
+P,1987-07-01,6.0,West Berlin,West Berlin,Time Trial,Jelle Nijdam,NED,395
+1,1987-07-02,105.0,West Berlin,West Berlin,Flat,Nico Verhoeven,NED,610
+2,1987-07-02,41.0,West Berlin,West Berlin,Time Trial,Carrera Jeans–Vagabond,NA,99
+3,1987-07-04,219.0,Karlsruhe,Stuttgart,Flat,Acácio da Silva,POR,1
+4,1987-07-05,79.0,Stuttgart,Pforzheim,Flat,Herman Frison,BEL,332
+5,1987-07-05,112.0,Pforzheim,Strasbourg,Flat,Marc Sergeant,BEL,531
+6,1987-07-06,169.0,Strasbourg,Épinal,Flat,Christophe Lavainne,FRA,113
+7,1987-07-07,211.0,Épinal,Troyes,Flat,Manuel Jorge Domínguez,ESP,528
+8,1987-07-08,206.0,Troyes,Épinay-sous-Sénart,Flat,Jean-Paul van Poppel,NED,389
+9,1987-07-09,260.0,Orléans,Renazé,Flat,Adrie van der Poel,NED,11
+10,1987-07-10,87.0,Saumur,Futuroscope,Time Trial,Stephen Roche,IRE,785
+11,1987-07-11,206.0,Poitiers,Chaumeil,Hilly,Martial Gayant,FRA,559
+12,1987-07-12,228.0,Brive,Bordeaux,Flat,Davis Phinney,USA,140
+13,1987-07-13,219.0,Bayonne,Pau,Mountain,Erik Breukink,NED,181
+14,1987-07-14,166.0,Pau,Luz Ardiden,Mountain,Dag Otto Lauritzen,NOR,128
+15,1987-07-15,164.0,Tarbes,Blagnac,Flat,Rolf Gölz,GER,742
+16,1987-07-16,216.0,Blagnac,Millau,Hilly,Régis Clère,FRA,757
+17,1987-07-17,239.0,Millau,Avignon,Hilly,Jean-Paul van Poppel,NED,389
+18,1987-07-19,37.0,Carpentras,Mont Ventoux,Time Trial,Jean-François Bernard,FRA,384
+19,1987-07-20,185.0,Valréas,Villard-de-Lans,Mountain,Pedro Delgado,ESP,649
+20,1987-07-21,201.0,Villard-de-Lans,Alpe d'Huez,Mountain,Federico Echave,ESP,204
+21,1987-07-22,185.0,Le Bourg-d'Oisans,La Plagne,Mountain,Laurent Fignon,FRA,479
+22,1987-07-23,186.0,La Plagne,Morzine,Mountain,Eduardo Chozas,ESP,161
+23,1987-07-24,225.0,Saint-Julien-en-Genevois,Dijon,Flat,Régis Clère,FRA,757
+24,1987-07-25,38.0,Dijon,Dijon,Time Trial,Jean-François Bernard,FRA,384
+25,1987-07-26,192.0,Créteil,Paris,Flat,Jeff Pierce,USA,394
+P,1986-07-04,4.6,Boulogne-Billancourt,Boulogne-Billancourt,Time Trial,Thierry Marie,FRA,806
+1,1986-07-05,85.0,Nanterre,Sceaux,Flat,Pol Verschuere,BEL,679
+2,1986-07-05,56.0,Meudon,Saint-Quentin-en-Yvelines,Time Trial,Système U,NA,795
+3,1986-07-06,214.0,Levallois-Perret,Liévin,Flat,Davis Phinney,USA,140
+4,1986-07-07,243.0,Liévin,Évreux,Flat,Pello Ruiz Cabestany,ESP,652
+5,1986-07-08,124.5,Evreux,Villers-sur-Mer,Flat,Johan van der Velde,NED,412
+6,1986-07-09,200.0,Villers-sur-Mer,Cherbourg,Flat,Guido Bontempi,ITA,304
+7,1986-07-10,201.0,Cherbourg,Saint-Hilaire-du-Harcouët,Flat,Ludo Peeters,BEL,515
+8,1986-07-11,204.0,Saint-Hilaire-du-Harcouët,Nantes,Flat,Eddy Planckaert,BEL,156
+9,1986-07-12,61.5,Nantes,Nantes,Time Trial,Bernard Hinault,FRA,74
+10,1986-07-13,183.0,Nantes,Futuroscope,Flat,Jose-Angel Sarrapio,ESP,420
+11,1986-07-14,258.3,Futuroscope,Bordeaux,Flat,Rudy Dhaenens,BEL,753
+12,1986-07-15,217.5,Bayonne,Pau,Mountain,Pedro Delgado,ESP,649
+13,1986-07-16,186.0,Pau,Superbagnères,Mountain,Greg LeMond,USA,302
+14,1986-07-17,154.0,Superbagnères,Blagnac,Flat,Niki Rüttimann,SUI,613
+15,1986-07-18,225.5,Carcassonne,Nîmes,Flat,Frank Hoste,BEL,233
+16,1986-07-19,246.5,Nîmes,Gap,Flat,Jean-François Bernard,FRA,384
+17,1986-07-20,190.0,Gap,Serre Chevalier,Mountain,Eduardo Chozas,ESP,161
+18,1986-07-21,162.5,Briançon,Alpe d'Huez,Mountain,Bernard Hinault,FRA,74
+19,1986-07-23,179.5,Villard-de-Lans,Saint-Étienne,Flat,Julián Gorospe,ESP,458
+20,1986-07-24,58.0,Saint-Étienne,Saint-Étienne,Time Trial,Bernard Hinault,FRA,74
+21,1986-07-25,190.0,Saint-Étienne,Puy de Dôme,Flat,Erich Mächler,SUI,180
+22,1986-07-26,194.0,Clermont-Ferrand,Nevers,Flat,Guido Bontempi,ITA,304
+23,1986-07-27,255.0,Cosne-sur-Loire,Paris,Flat,Guido Bontempi,ITA,304
+P,1985-06-28,6.0,Plumelec,Plumelec,Time Trial,Bernard Hinault,FRA,74
+1,1985-06-29,256.0,Vannes,Lanester,Flat,Rudy Matthijs,BEL,754
+2,1985-06-30,242.0,Lorient,Vitre,Flat,Rudy Matthijs,BEL,754
+3,1985-07-01,73.0,Vitre,Fougères,Time Trial,La Vie Claire,NA,472
+4,1985-07-02,239.0,Fougères,Pont-Audemer,Flat,Gerrit Solleveld,NED,274
+5,1985-07-03,224.0,Neufchâtel-en-Bray,Roubaix,Flat,Henri Manders,NED,325
+6,1985-07-04,222.0,Roubaix,Reims,Flat,Francis Castaing,FRA,227
+7,1985-07-05,217.0,Reims,Nancy,Flat,Ludwig Wijnants,BEL,516
+8,1985-07-06,75.0,Sarrebourg,Strasbourg,Time Trial,Bernard Hinault,FRA,74
+9,1985-07-07,174.0,Strasbourg,Épinal,Hilly,Maarten Ducrot,NED,525
+10,1985-07-08,204.0,Épinal,Pontarlier,Hilly,Jørgen V. Pedersen,DEN,461
+11,1985-07-09,195.0,Pontarlier,Morzine Avoriaz,Mountain,Luis Herrera,COL,518
+12,1985-07-10,269.0,Morzine Avoriaz,Lans-en-Vercors,Mountain,Fabio Parra,COL,197
+13,1985-07-11,32.0,Villard-de-Lans,Villard-de-Lans,Time Trial,Eric Vanderaerden,BEL,177
+14,1985-07-13,179.0,Autrans,Saint-Étienne,Hilly,Luis Herrera,COL,518
+15,1985-07-14,238.0,Saint-Étienne,Aurillac,Flat,Eduardo Chozas,ESP,161
+16,1985-07-15,247.0,Aurillac,Toulouse,Flat,Frédéric Vichot,FRA,248
+17,1985-07-16,209.0,Toulouse,Luz Ardiden,Mountain,Pedro Delgado,ESP,649
+18a,1985-07-17,53.0,Luz-Saint-Sauveur,Aubisque,Mountain,Stephen Roche,IRE,785
+18b,1985-07-17,83.0,Laruns,Pau,Mountain,Régis Simon,FRA,759
+19,1985-07-18,203.0,Pau,Bordeaux,Flat,Eric Vanderaerden,BEL,177
+20,1985-07-19,225.0,Montpon-Ménestérol,Limoges,Flat,Johan Lammerts,NED,409
+21,1985-07-20,46.0,Lac de Vassivière,Lac de Vassivière,Time Trial,Greg LeMond,USA,302
+22,1985-07-21,196.0,Orléans,Paris,Flat,Rudy Matthijs,BEL,754
+P,1984-06-29,5.0,Montreuil,Noisy-le-Sec,Time Trial,Bernard Hinault,FRA,74
+1,1984-06-30,149.0,Bondy,Saint-Denis,Flat,Frank Hoste,BEL,233
+2,1984-07-01,249.0,Bobigny,Louvroil,Flat,Marc Madiot,FRA,530
+3,1984-07-02,51.0,Louvroil,Valenciennes,Time Trial,Renault–Elf,NA,700
+4,1984-07-02,83.0,Valenciennes,Béthune,Flat,Ferdi Van Den Haute,BEL,209
+5,1984-07-03,207.0,Béthune,Cergy-Pontoise,Flat,Paulo Ferreira,POR,648
+6,1984-07-04,202.0,Cergy-Pontoise,Alençon,Flat,Frank Hoste,BEL,233
+7,1984-07-05,67.0,Alençon,Le Mans,Time Trial,Laurent Fignon,FRA,479
+8,1984-07-06,192.0,Le Mans,Nantes,Flat,Pascal Jules,FRA,634
+9,1984-07-07,338.0,Nantes,Bordeaux,Flat,Jan Raas,NED,359
+10,1984-07-08,198.0,Langon,Pau,Flat,Eric Vanderaerden,BEL,177
+11,1984-07-09,227.0,Pau,Guzet-Neige,Mountain,Robert Millar,GBR,726
+12,1984-07-10,111.0,Saint-Girons,Blagnac,Flat,Pascal Poisson,FRA,636
+13,1984-07-11,220.0,Blagnac,Rodez,Flat,Pierre-Henri Menthéour,FRA,671
+14,1984-07-12,228.0,Rodez,Domaine du Rouret,Hilly,Fons De Wolf,BEL,221
+15,1984-07-13,241.0,Domaine du Rouret,Grenoble,Hilly,Frédéric Vichot,FRA,248
+16,1984-07-15,22.0,Les Échelles,La Ruchère,Time Trial,Laurent Fignon,FRA,479
+17,1984-07-16,151.0,Grenoble,Alpe d'Huez,Mountain,Luis Herrera,COL,518
+18,1984-07-17,185.0,Le Bourg-d'Oisans,La Plagne,Mountain,Laurent Fignon,FRA,479
+19,1984-07-18,186.0,La Plagne,Morzine,Mountain,Ángel Arroyo,ESP,859
+20,1984-07-19,141.0,Morzine,Crans-Montana,Mountain,Laurent Fignon,FRA,479
+21,1984-07-20,320.0,Crans-Montana,Villefranche-sur-Saône,Hilly,Frank Hoste,BEL,233
+22,1984-07-21,51.0,Villié-Morgon,Villefranche-sur-Saône,Time Trial,Laurent Fignon,FRA,479
+23,1984-07-22,197.0,Pantin,Paris,Hilly,Eric Vanderaerden,BEL,177
+P,1983-07-01,6.0,Fontenay-sous-Bois,Fontenay-sous-Bois,Time Trial,Eric Vanderaerden,BEL,177
+1,1983-07-02,163.0,Nogent-sur-Marne,Créteil,Flat,Frits Pirard,NED,244
+2,1983-07-03,100.0,Soissons,Fontaine-au-Pire,Time Trial,COOP–Mercier–Mavic,NA,94
+3,1983-07-04,152.0,Valenciennes,Roubaix,Hilly,Rudy Matthijs,BEL,754
+4,1983-07-05,300.0,Roubaix,Le Havre,Flat,Serge Demierre,SUI,772
+5,1983-07-06,257.0,Le Havre,Le Mans,Flat,Dominique Gaigne,FRA,151
+6,1983-07-07,58.0,Châteaubriant,Nantes,Time Trial,Bert Oosterbosch,NED,84
+7,1983-07-08,216.0,Nantes,Île d'Oléron,Flat,Riccardo Magrini,ITA,711
+8,1983-07-09,222.0,La Rochelle,Bordeaux,Flat,Bert Oosterbosch,NED,84
+9,1983-07-10,207.0,Bordeaux,Pau,Flat,Philippe Chevallier,FRA,657
+10,1983-07-11,201.0,Pau,Bagnères-de-Luchon,Mountain,Robert Millar,GBR,726
+11,1983-07-12,177.0,Bagnères-de-Luchon,Fleurance,Flat,Régis Clère,FRA,757
+12,1983-07-13,261.0,Fleurance,Roquefort-sur-Soulzon,Flat,Kim Andersen,DEN,466
+13,1983-07-14,210.0,Roquefort-sur-Soulzon,Aurillac,Hilly,Henk Lubberding,NED,321
+14,1983-07-15,149.0,Aurillac,Issoire,Hilly,Pierre Le Bigaut,FRA,666
+15,1983-07-16,16.0,Clermont-Ferrand,Puy de Dôme,Time Trial,Ángel Arroyo,ESP,859
+16,1983-07-17,144.0,Issoire,Saint-Étienne,Hilly,Michel Laurent,FRA,590
+17,1983-07-18,223.0,La Tour-du-Pin,Alpe d'Huez,Mountain,Peter Winnen,NED,655
+18,1983-07-20,247.0,Le Bourg-d'Oisans,Morzine,Mountain,Jacques Michaud,FRA,350
+19,1983-07-21,15.0,Morzine,Avoriaz,Time Trial,Lucien Van Impe,BEL,511
+20,1983-07-22,291.0,Morzine,Dijon,Flat,Philippe Leleu,FRA,659
+21,1983-07-23,50.0,Dijon,Dijon,Time Trial,Laurent Fignon,FRA,479
+22,1983-07-24,195.0,Alfortville,Paris,Flat,Gilbert Glaus,SUI,285
+P,1982-07-02,7.0,Basel,Basel,Time Trial,Bernard Hinault,FRA,74
+1,1982-07-03,207.0,Basel,Möhlin,Hilly,Ludo Peeters,BEL,515
+2,1982-07-04,250.0,Basel,Nancy,Flat,Phil Anderson,AUS,656
+3,1982-07-05,134.0,Nancy,Longwy,Flat,Daniel Willems,BEL,130
+4,1982-07-06,219.0,Beauraing,Mouscron,Flat,Gerrie Knetemann,NED,272
+5,1982-07-07,73.0,Orchies,Fontaine-au-Pire,Time Trial,Other,NA,626
+6,1982-07-08,233.0,Lille,Lille,Flat,Jan Raas,NED,359
+7,1982-07-10,235.0,Cancale,Concarneau,Flat,Pol Verschuere,BEL,679
+8,1982-07-11,201.0,Concarneau,Châteaulin,Flat,Frank Hoste,BEL,233
+9a,1982-07-12,69.0,Lorient,Plumelec,Time Trial,Renault–Elf–Gitane,NA,701
+9b,1982-07-12,138.0,Plumelec,Nantes,Flat,Stefan Mutter,SUI,783
+10,1982-07-13,147.0,Saintes,Bordeaux,Flat,Pierre-Raymond Villemiane,FRA,672
+11,1982-07-14,57.0,Valence d'Agen,Valence d'Agen,Time Trial,Gerrie Knetemann,NED,272
+12,1982-07-15,249.0,Fleurance,Pau,Mountain,Sean Kelly,IRE,768
+13,1982-07-16,122.0,Pau,Saint-Lary-Soulan Pla d'Adet,Mountain,Beat Breu,SUI,68
+14,1982-07-18,33.0,Martigues,Martigues,Time Trial,Bernard Hinault,FRA,74
+15,1982-07-19,208.0,Manosque,Orcières-Merlette,Mountain,Pascal Simon,FRA,638
+16,1982-07-20,123.0,Orcières-Merlette,Alpe d'Huez,Mountain,Beat Breu,SUI,68
+17,1982-07-21,251.0,Le Bourg-d'Oisans,Morzine,Mountain,Peter Winnen,NED,655
+18,1982-07-22,233.0,Morzine,Saint-Priest,Flat,Adrie van Houwelingen,NED,10
+19,1982-07-23,48.0,Saint-Priest,Saint-Priest,Time Trial,Bernard Hinault,FRA,74
+20,1982-07-24,161.0,Sens,Aulnay-sous-Bois,Flat,Daniel Willems,BEL,130
+21,1982-07-25,187.0,Fontenay-sous-Bois,Paris,Flat,Bernard Hinault,FRA,74
+P,1981-06-25,6.0,Nice,Nice,Time Trial,Bernard Hinault,FRA,74
+1a,1981-06-26,97.0,Nice,Nice,Hilly,Freddy Maertens,BEL,243
+1b,1981-06-26,40.0,Nice,Nice,Time Trial,TI–Raleigh–Creda,NA,798
+2,1981-06-27,254.0,Nice,Martigues,Flat,Johan van der Velde,NED,412
+3,1981-06-28,232.0,Martigues,Narbonne,Flat,Freddy Maertens,BEL,243
+4,1981-06-29,77.0,Narbonne,Carcassonne,Time Trial,TI–Raleigh–Creda,NA,798
+5,1981-06-30,117.0,Saint-Gaudens,Pla d'Adet,Mountain,Lucien Van Impe,BEL,511
+6,1981-07-01,27.0,Nay,Pau,Time Trial,Bernard Hinault,FRA,74
+7,1981-07-02,227.0,Pau,Bordeaux,Flat,Urs Freuler,SUI,821
+8,1981-07-03,182.0,Rochefort,Nantes,Flat,Ad Wijnands,NED,2
+9,1981-07-05,197.0,Nantes,Le Mans,Flat,René Martens,BEL,706
+10,1981-07-06,264.0,Le Mans,Aulnay-sous-Bois,Flat,Ad Wijnands,NED,2
+11,1981-07-07,246.0,Compiègne,Roubaix,Flat,Daniel Willems,BEL,130
+12a,1981-07-08,107.0,Roubaix,Brussels,Flat,Freddy Maertens,BEL,243
+12b,1981-07-08,138.0,Brussels,Circuit Zolder,Flat,Eddy Planckaert,BEL,156
+13,1981-07-09,157.0,Beringen,Hasselt,Flat,Freddy Maertens,BEL,243
+14,1981-07-10,38.0,Mulhouse,Mulhouse,Time Trial,Bernard Hinault,FRA,74
+15,1981-07-11,231.0,Besançon,Thonon-les-Bains,Hilly,Sean Kelly,IRE,768
+16,1981-07-12,200.0,Thonon-les-Bains,Morzine,Mountain,Robert Alban,FRA,722
+17,1981-07-14,230.0,Morzine,Alpe d'Huez,Mountain,Peter Winnen,NED,655
+18,1981-07-15,134.0,Le Bourg-d'Oisans,Le Pleynet,Mountain,Bernard Hinault,FRA,74
+19,1981-07-16,118.0,Veurey,Saint-Priest,Flat,Daniel Willems,BEL,130
+20,1981-07-17,46.0,Saint-Priest,Saint-Priest,Time Trial,Bernard Hinault,FRA,74
+21,1981-07-18,207.0,Auxerre,Fontenay-sous-Bois,Flat,Johan van der Velde,NED,412
+22,1981-07-19,187.0,Fontenay-sous-Bois,Paris,Flat,Freddy Maertens,BEL,243
+P,1980-06-26,8.0,Frankfurt,Frankfurt,Time Trial,Bernard Hinault,FRA,74
+1a,1980-06-27,133.0,Frankfurt,Wiesbaden,Flat,Jan Raas,NED,359
+1b,1980-06-27,46.0,Wiesbaden,Frankfurt,Time Trial,TI–Raleigh–Creda,NA,798
+2,1980-06-28,276.0,Frankfurt,Metz,Flat,Rudy Pevenage,BEL,755
+3,1980-06-29,282.0,Metz,Liège,Flat,Henk Lubberding,NED,321
+4,1980-06-30,35.0,Spa,Spa,Time Trial,Bernard Hinault,FRA,74
+5,1980-07-01,249.0,Liège,Lille,Flat,Bernard Hinault,FRA,74
+6,1980-07-02,216.0,Lille,Compiègne,Flat,Jean-Louis Gauthier,FRA,385
+7a,1980-07-03,65.0,Compiègne,Beauvais,Time Trial,TI–Raleigh–Creda,NA,798
+7b,1980-07-03,92.0,Beauvais,Rouen,Flat,Jan Raas,NED,359
+8,1980-07-04,164.0,Flers,Saint-Malo,Flat,Bert Oosterbosch,NED,84
+9,1980-07-06,205.0,Saint-Malo,Nantes,Flat,Jan Raas,NED,359
+10,1980-07-07,163.0,Rochefort,Bordeaux,Flat,Cees Priem,NED,100
+11,1980-07-08,52.0,Damazan,Laplume,Time Trial,Joop Zoetemelk,NED,414
+12,1980-07-09,194.0,Agen,Pau,Flat,Gerrie Knetemann,NED,272
+13,1980-07-10,200.0,Pau,Bagnères-de-Luchon,Mountain,Raymond Martin,FRA,694
+14,1980-07-11,189.0,Lézignan-Corbières,Montpellier,Flat,Ludo Peeters,BEL,515
+15,1980-07-12,160.0,Montpellier,Martigues,Flat,Bernard Vallet,FRA,79
+16,1980-07-13,209.0,Trets,Pra-Loup,Mountain,Jos De Schoenmaecker,BEL,415
+17,1980-07-14,242.0,Serre Chevalier,Morzine,Mountain,Mariano Martínez,FRA,551
+18,1980-07-16,199.0,Morzine,Prapoutel,Mountain,Ludo Loos,BEL,514
+19,1980-07-17,140.0,Voreppe,Saint-Étienne,Hilly,Sean Kelly,IRE,768
+20,1980-07-18,34.0,Saint-Étienne,Saint-Étienne,Time Trial,Joop Zoetemelk,NED,414
+21,1980-07-19,208.0,Auxerre,Fontenay-sous-Bois,Flat,Sean Kelly,IRE,768
+22,1980-07-20,186.0,Fontenay-sous-Bois,Paris,Flat,Pol Verschuere,BEL,679
+P,1979-06-27,5.0,Fleurance,Fleurance,Time Trial,Gerrie Knetemann,NED,272
+1,1979-06-28,225.0,Fleurance,Luchon,Mountain,René Bittinger,FRA,703
+2,1979-06-29,24.0,Luchon,Superbagnères,Time Trial,Bernard Hinault,FRA,74
+3,1979-06-30,180.0,Luchon,Pau,Mountain,Bernard Hinault,FRA,74
+4,1979-07-01,87.0,Captieux,Bordeaux,Time Trial,TI–Raleigh–McGregor,NA,799
+5,1979-07-02,145.0,Neuville-de-Poitou,Angers,Flat,Jan Raas,NED,359
+6,1979-07-03,239.0,Angers,Saint-Brieuc,Flat,Jos Jacobs,BEL,418
+7,1979-07-04,158.0,Saint-Hilaire-du-Harcouët,Deauville,Flat,Leo van Vliet,NED,484
+8,1979-07-05,90.0,Deauville,Le Havre,Time Trial,TI–Raleigh–McGregor,NA,799
+9,1979-07-06,201.0,Amiens,Roubaix,Flat,Ludo Delcroix,BEL,512
+10,1979-07-07,124.0,Roubaix,Brussels,Flat,Jo Maas,NED,403
+11,1979-07-08,33.0,Brussels,Brussels,Time Trial,Bernard Hinault,FRA,74
+12,1979-07-09,193.0,Rochefort,Metz,Flat,Christian Seznec,FRA,111
+13,1979-07-10,202.0,Metz,Ballon d'Alsace,Hilly,Pierre-Raymond Villemiane,FRA,672
+14,1979-07-11,248.0,Belfort,Évian-les-Bains,Flat,Marc Demeyer,BEL,529
+15,1979-07-12,54.0,Évian-les-Bains,Morzine Avoriaz,Time Trial,Bernard Hinault,FRA,74
+16,1979-07-13,201.0,Morzine Avoriaz,Les Menuires,Mountain,Lucien Van Impe,BEL,511
+17,1979-07-15,167.0,Les Menuires,Alpe d'Huez,Mountain,Joaquim Agostinho,POR,405
+18,1979-07-16,119.0,Alpe d'Huez,Alpe d'Huez,Mountain,Joop Zoetemelk,NED,414
+19,1979-07-17,162.0,Alpe d'Huez,Saint-Priest,Flat,Dietrich Thurau,GER,143
+20,1979-07-18,240.0,Saint-Priest,Dijon,Flat,Serge Parsani,ITA,773
+21,1979-07-19,49.0,Dijon,Dijon,Time Trial,Bernard Hinault,FRA,74
+22,1979-07-20,189.0,Dijon,Auxerre,Flat,Gerrie Knetemann,NED,272
+23,1979-07-21,205.0,Auxerre,Nogent-sur-Marne,Flat,Bernard Hinault,FRA,74
+24,1979-07-22,180.0,Le Perreux-sur-Marne,Paris,Flat,Bernard Hinault,FRA,74
+P,1978-06-29,5.0,Leiden,Leiden,Time Trial,Jan Raas,NED,359
+1a,1978-06-30,135.0,Leiden,Sint Willebrord,Flat,Jan Raas,NED,359
+1b,1978-06-30,100.0,Sint Willebrord,Brussels,Flat,Walter Planckaert,BEL,838
+2,1978-07-01,199.0,Brussels,Saint-Amand-les-Eaux,Flat,Jacques Esclassan,FRA,349
+3,1978-07-02,244.0,Saint-Amand-les-Eaux,Saint-Germain-en-Laye,Flat,Klaus-Peter Thaler,GER,468
+4,1978-07-03,153.0,Évreux,Caen,Time Trial,TI–Raleigh–McGregor,NA,799
+5,1978-07-04,244.0,Caen,Mazé-Montgeoffroy,Flat,Freddy Maertens,BEL,243
+6,1978-07-05,162.0,Mazé-Montgeoffroy,Poitiers,Flat,Sean Kelly,IRE,768
+7,1978-07-06,242.0,Poitiers,Bordeaux,Flat,Freddy Maertens,BEL,243
+8,1978-07-07,59.0,Saint-Émilion,Sainte-Foy-la-Grande,Time Trial,Bernard Hinault,FRA,74
+9,1978-07-08,233.0,Bordeaux,Biarritz,Flat,Miguel Maria Lasa,ESP,598
+10,1978-07-10,192.0,Biarritz,Pau,Hilly,Henk Lubberding,NED,321
+11,1978-07-11,161.0,Pau,Saint-Lary-Soulan Pla d'Adet,Mountain,Mariano Martínez,FRA,551
+12a,1978-07-12,158.0,Tarbes,Valence d'Agen,Flat,Cancelled,NA,97
+12b,1978-07-12,96.0,Valence d'Agen,Toulouse,Flat,Jacques Esclassan,FRA,349
+13,1978-07-13,221.0,Figeac,Super Besse,Hilly,Paul Wellens,BEL,647
+14,1978-07-14,52.0,Besse-en-Chandesse,Puy de Dôme,Time Trial,Joop Zoetemelk,NED,414
+15,1978-07-15,196.0,Saint-Dier-d'Auvergne,Saint-Étienne,Hilly,Bernard Hinault,FRA,74
+16,1978-07-16,241.0,St-Étienne,Alpe d'Huez,Mountain,Hennie Kuiper,NED,324
+17,1978-07-18,225.0,Grenoble,Morzine,Mountain,Christian Seznec,FRA,111
+18,1978-07-19,137.0,Morzine,Lausanne,Flat,Gerrie Knetemann,NED,272
+19,1978-07-20,182.0,Lausanne,Belfort,Flat,Marc Demeyer,BEL,529
+20,1978-07-21,72.0,Metz,Nancy,Time Trial,Bernard Hinault,FRA,74
+21,1978-07-22,207.0,Epernay,Senlis,Flat,Jan Raas,NED,359
+22,1978-07-23,162.0,Saint Germain en Laye,Paris,Flat,Gerrie Knetemann,NED,272
+P,1977-06-30,5.0,Fleurance,Fleurance,Time Trial,Dietrich Thurau,FRG,143
+1,1977-07-01,237.0,Fleurance,Auch,Flat,Pierre-Raymond Villemiane,FRA,672
+2,1977-07-02,253.0,Auch,Pau,Mountain,Dietrich Thurau,FRG,143
+3,1977-07-03,248.0,Oloron-Sainte-Marie,Vitoria-Gasteiz,Mountain,José Nazabal,ESP,432
+4,1977-07-04,256.0,Vitoria-Gasteiz,Seignosse le Penon,Mountain,Régis Delépine,FRA,758
+5a,1977-07-05,139.0,Morcenx,Bordeaux,Flat,Jacques Esclassan,FRA,349
+5b,1977-07-05,30.0,Bordeaux,Bordeaux,Time Trial,Dietrich Thurau,FRG,143
+6,1977-07-07,225.0,Bordeaux,Limoges,Flat,Jan Raas,NED,359
+7a,1977-07-08,140.0,Jaunay-Clan,Angers,Flat,Patrick Sercu,BEL,640
+7b,1977-07-08,4.0,Angers,Angers,Time Trial,Fiat France,NA,217
+8,1977-07-09,247.0,Angers,Lorient,Flat,Giacinto Santambrogio,ITA,279
+9,1977-07-10,187.0,Lorient,Rennes,Mountain,Klaus-Peter Thaler,FRG,468
+10,1977-07-11,174.0,Bagnoles-de-l'Orne,Rouen,Flat,Fedor den Hertog,NED,207
+11,1977-07-12,242.0,Rouen,Roubaix,Flat,Jean-Pierre Danguillaume,FRA,390
+12,1977-07-13,193.0,Roubaix,Charleroi,Mountain,Patrick Sercu,BEL,640
+13a,1977-07-14,46.0,Freiburg,Freiburg,Flat,Patrick Sercu,BEL,640
+13b,1977-07-14,160.0,Altkirch ,Besançon,Flat,Jean-Pierre Danguillaume,FRA,390
+14,1977-07-16,230.0,Besançon,Thonon-les-Bains,Mountain,Bernard Quilfen,FRA,77
+15a,1977-07-17,105.0,Thonon-les-Bains,Morzine,Mountain,Paul Wellens,BEL,647
+15b,1977-07-17,14.0,Morzine,Avoriaz,Time Trial,Lucien Van Impe,BEL,511
+16,1977-07-18,121.0,Morzine,Chamonix,Mountain,Dietrich Thurau,FRG,143
+17,1977-07-19,185.0,Chamonix,Alpe d'Huez,Mountain,Hennie Kuiper,NED,324
+18,1977-07-20,199.0,Rossignol Voiron,Saint-Étienne,Mountain,no winner,NA,858
+19,1977-07-21,172.0,Saint-Trivier-sur-Moignans,Dijon,Flat,Gerrie Knetemann,NED,272
+20,1977-07-22,50.0,Dijon,Dijon,Time Trial,Bernard Thévenet,FRA,78
+21,1977-07-23,142.0,Montereau-Fault-Yonne,Versailles,Flat,Gerrie Knetemann,NED,272
+22a,1977-07-24,6.0,Paris,Paris,Time Trial,Dietrich Thurau,FRG,143
+22b,1977-07-24,91.0,Paris,Paris,Flat,Alain Meslet,FRA,14
+P,1976-06-24,8.0,Saint-Jean-de-Monts,Saint-Jean-de-Monts,Time Trial,Freddy Maertens,BEL,243
+1,1976-06-25,173.0,Saint-Jean-de-Monts,Angers,Flat,Freddy Maertens,BEL,243
+2,1976-06-26,237.0,Angers,Caen,Flat,Giovanni Battaglin,ITA,290
+3,1976-06-27,37.0,Le Touquet-Paris-Plage,Le Touquet-Paris-Plage,Time Trial,Freddy Maertens,BEL,243
+4,1976-06-28,258.0,Le Touquet-Paris-Plage,Bornem,Flat,Hennie Kuiper,NED,324
+5a,1976-06-29,4.0,Leuven,Leuven,Time Trial,TI–Raleigh–Campagnolo,NA,797
+5b,1976-06-29,144.0,Leuven,Verviers,Other,Miguel-Maria Lasa,ESP,600
+6,1976-06-30,209.0,Bastogne,Nancy,Flat,Aldo Parecchini,ITA,20
+7,1976-07-01,206.0,Nancy,Mulhouse,Flat,Freddy Maertens,BEL,243
+8,1976-07-02,220.0,Valentigney,Divonne-les-Bains,Flat,Jacques Esclassan,FRA,349
+9,1976-07-04,258.0,Divonne-les-Bains,Alpe d'Huez,Mountain,Joop Zoetemelk,NED,414
+10,1976-07-05,166.0,Le Bourg-d'Oisans,Montgenèvre,Mountain,Joop Zoetemelk,NED,414
+11,1976-07-06,224.0,Montgenèvre,Manosque,Mountain,José-Luis Viejo,ESP,436
+12,1976-07-08,205.0,Le Barcarès,Pyrénées 2000,Mountain,Raymond Delisle,FRA,691
+13,1976-07-09,188.0,Font-Romeu-Odeillo-Via,Saint-Gaudens,Mountain,Willy Teirlinck,BEL,847
+14,1976-07-10,139.0,Saint-Gaudens,Saint-Lary-Soulan,Mountain,Lucien Van Impe,BEL,511
+15,1976-07-11,195.0,Saint-Lary-Soulan,Pau,Mountain,Wladimiro Panizza,ITA,852
+16,1976-07-12,152.0,Pau,Fleurance,Flat,Michel Pollentier,BEL,591
+17,1976-07-13,39.0,Fleurance,Auch,Time Trial,Ferdinand Bracke,BEL,210
+18a,1976-07-14,86.0,Auch,Langon,Other,Freddy Maertens,BEL,243
+18b,1976-07-14,123.0,Langon,Lacanau,Other,Freddy Maertens,BEL,243
+18c,1976-07-14,70.0,Lacanau,Bordeaux,Other,Gerben Karstens,NED,270
+19,1976-07-15,220.0,Sainte-Foy-la-Grande,Tulle,Flat,Hubert Mathis,FRA,337
+20,1976-07-16,220.0,Tulle,Puy de Dôme,Mountain,Joop Zoetemelk,NED,414
+21,1976-07-17,145.0,Montargis,Versailles,Flat,Freddy Maertens,BEL,243
+22a,1976-07-18,6.0,Paris,Paris,Time Trial,Freddy Maertens,BEL,243
+22b,1976-07-18,91.0,Paris,Paris,Other,Gerben Karstens,NED,270
+P,1975-06-26,6.0,Charleroi,Charleroi,Time Trial,Francesco Moser,ITA,225
+1a,1975-06-27,94.0,Charleroi,Molenbeek,Flat,Cees Priem,NED,100
+1b,1975-06-27,109.0,Molenbeek,Roubaix,Flat,Rik Van Linden,BEL,714
+2,1975-06-28,121.0,Roubaix,Amiens,Flat,Ronald de Witte,BEL,749
+3,1975-06-29,170.0,Amiens,Versailles,Flat,Karel Rottiers,BEL,462
+4,1975-06-30,223.0,Versailles,Le Mans,Flat,Jacques Esclassan,FRA,349
+5,1975-07-02,222.0,Sablé-sur-Sarthe,Merlin-Plage,Flat,Theo Smit,NED,802
+6,1975-07-02,16.0,Merlin-Plage,Merlin-Plage,Time Trial,Eddy Merckx,BEL,154
+7,1975-07-03,236.0,Saint-Gilles-Croix-de-Vie,Angoulême,Flat,Francesco Moser,ITA,225
+8,1975-07-04,134.0,Angoulême,Bordeaux,Flat,Barry Hoban,GBR,64
+9a,1975-07-05,131.0,Langon,Fleurance,Flat,Theo Smit,NED,802
+9b,1975-07-05,37.0,Fleurance,Auch,Time Trial,Eddy Merckx,BEL,154
+10,1975-07-07,206.0,Auch,Pau,Mountain,Felice Gimondi,ITA,208
+11,1975-07-08,160.0,Pau,Saint-Lary-Soulan Pla d'Adet,Mountain,Joop Zoetemelk,NED,414
+12,1975-07-09,242.0,Tarbes,Albi,Flat,Gerrie Knetemann,NED,272
+13,1975-07-10,260.0,Albi,Super-Lioran,Mountain,Michel Pollentier,BEL,591
+14,1975-07-11,174.0,Aurillac,Puy de Dôme,Mountain,Lucien Van Impe,BEL,511
+15,1975-07-13,217.0,Nice,Pra-Loup,Mountain,Bernard Thévenet,FRA,78
+16,1975-07-14,107.0,Barcelonnette,Serre Chevalier,Mountain,Bernard Thévenet,FRA,78
+17,1975-07-15,225.0,Valloire,Morzine Avoriaz,Mountain,Vicente Lopez-Carril,ESP,826
+18,1975-07-16,40.0,Morzine,Châtel,Time Trial,Lucien Van Impe,BEL,511
+19,1975-07-17,229.0,Thonon-les-Bains,Chalon-sur-Saône,Mountain,Rik Van Linden,BEL,714
+20,1975-07-18,256.0,Pouilly-en-Auxois,Melun,Flat,Giacinto Santambrogio,ITA,279
+21,1975-07-19,220.0,Melun,Senlis,Flat,Rik Van Linden,BEL,714
+22,1975-07-20,164.0,Paris,Paris,Flat,Walter Godefroot,BEL,837
+P,1974-06-27,7.0,Brest,Brest,Time Trial,Eddy Merckx,BEL,154
+1,1974-06-28,144.0,Brest,Saint-Pol-de-Léon,Flat,Ercole Gualazzini,ITA,175
+2,1974-06-29,164.0,Plymouth,Plymouth,Flat,Henk Poppe,NED,323
+3,1974-06-30,190.0,Morlaix,Saint-Malo,Flat,Patrick Sercu,BEL,640
+4,1974-07-01,184.0,Saint-Malo,Caen,Flat,Patrick Sercu,BEL,640
+5,1974-07-02,165.0,Caen,Dieppe,Flat,Ronald de Witte,BEL,749
+6a,1974-07-03,239.0,Dieppe,Harelbeke,Flat,Jean-Luc Molineris,FRA,386
+6b,1974-07-03,9.0,Harelbeke,Harelbeke,Time Trial,Molteni,NA,602
+7,1974-07-04,221.0,Mons,Châlons-sur-Marne,Flat,Eddy Merckx,BEL,154
+8a,1974-07-05,136.0,Châlons-sur-Marne,Chaumont,Flat,Cyrille Guimard,FRA,124
+8b,1974-07-05,152.0,Chaumont,Besançon,Flat,Patrick Sercu,BEL,640
+9,1974-07-06,241.0,Besançon,Gaillard,Mountain,Eddy Merckx,BEL,154
+10,1974-07-07,131.0,Gaillard,Aix-les-Bains,Mountain,Eddy Merckx,BEL,154
+11,1974-07-08,199.0,Aix-les-Bains,Serre Chevalier,Mountain,Vicente Lopez Carril,ESP,825
+12,1974-07-10,231.0,Savines-le-Lac,Orange,Mountain,Jos Spruyt,BEL,419
+13,1974-07-11,126.0,Avignon,Montpellier,Flat,Barry Hoban,GBR,64
+14,1974-07-12,249.0,Lodève,Colomiers,Flat,Jean-Pierre Genet,FRA,391
+15,1974-07-14,225.0,Colomiers,La Seu d'Urgell,Mountain,Eddy Merckx,BEL,154
+16,1974-07-15,209.0,La Seu d'Urgell,Saint-Lary-Soulan Pla d'Adet,Mountain,Raymond Poulidor,FRA,697
+17,1974-07-16,119.0,Saint-Lary-Soulan,La Mongie,Mountain,Jean-Pierre Danguillaume,FRA,390
+18,1974-07-17,141.0,Bagnères-de-Bigorre,Pau,Mountain,Jean-Pierre Danguillaume,FRA,390
+19a,1974-07-18,196.0,Pau,Bordeaux,Flat,Francis Campaner,FRA,226
+19b,1974-07-18,12.0,Bordeaux,Bordeaux,Time Trial,Eddy Merckx,BEL,154
+20,1974-07-19,120.0,Saint-Gilles-Croix-de-Vie,Nantes,Flat,Gerard Vianen,NED,269
+21a,1974-07-20,113.0,Vouvray,Orléans,Flat,Eddy Merckx,BEL,154
+21b,1974-07-20,37.0,Orléans,Orléans,Time Trial,Michel Pollentier,BEL,591
+22,1974-07-21,146.0,Orléans,Paris,Flat,Eddy Merckx,BEL,154
+P,1973-06-30,7.1,Scheveningen,Scheveningen,Time Trial,Joop Zoetemelk,NED,414
+1a,1973-07-01,84.0,Scheveningen,Rotterdam,Flat,Willy Teirlinck,BEL,847
+1b,1973-07-01,137.5,Rotterdam,Sint-Niklaas,Flat,José Catieau,FRA,429
+2a,1973-07-02,12.4,Sint-Niklaas,Sint-Niklaas,Time Trial,Watney–Maes Pils,NA,840
+2b,1973-07-02,138.0,Sint-Niklaas,Roubaix,Flat,Eddy Verstraeten,BEL,158
+3,1973-07-03,226.0,Roubaix,Reims,Flat,Cyrille Guimard,FRA,124
+4,1973-07-04,214.0,Reims,Nancy,Flat,Joop Zoetemelk,NED,414
+5,1973-07-05,188.0,Nancy,Mulhouse,Mountain,Walter Godefroot,BEL,837
+6,1973-07-06,244.5,Mulhouse,Divonne-les-Bains,Mountain,Jean-Pierre Danguillaume,FRA,390
+7a,1973-07-08,86.5,Divonne-les-Bains,Gaillard,Mountain,Luis Ocaña,ESP,520
+7b,1973-07-08,150.5,Gaillard,Méribel,Mountain,Bernard Thévenet,FRA,78
+8,1973-07-09,237.5,Moûtiers,Les Orres,Mountain,Luis Ocaña,ESP,520
+9,1973-07-10,234.5,Embrun,Nice,Mountain,Vicente López Carril,ESP,827
+10,1973-07-11,222.5,Nice,Aubagne,Mountain,Michael Wright,GBR,588
+11,1973-07-12,238.0,Montpellier,Argelès-sur-Mer,Flat,Barry Hoban,GBR,64
+12a,1973-07-13,28.3,Perpignan,Thuir,Time Trial,Luis Ocaña,ESP,520
+12b,1973-07-13,76.0,Thuir,Pyrénées 2000,Mountain,Lucien Van Impe,BEL,511
+13,1973-07-15,235.0,Bourg-Madame,Luchon,Mountain,Luis Ocaña,ESP,520
+14,1973-07-16,227.5,Luchon,Pau,Mountain,Pedro Torres,ESP,650
+15,1973-07-17,137.0,Pau,Fleurance,Flat,Wilfried David,BEL,841
+16a,1973-07-18,210.0,Fleurance,Bordeaux,Flat,Walter Godefroot,BEL,837
+16b,1973-07-18,12.4,Bordeaux,Bordeaux,Time Trial,Joaquim Agostinho,POR,405
+17,1973-07-19,248.0,Sainte-Foy-la-Grande,Brive-la-Gaillarde,Flat,Claude Tollet,FRA,117
+18,1973-07-20,216.5,Brive-la-Gaillarde,Puy de Dôme,Mountain,Luis Ocaña,ESP,520
+19,1973-07-21,233.5,Bourges,Versailles,Flat,Barry Hoban,GBR,64
+20a,1973-07-22,16.0,Versailles,Versailles,Time Trial,Luis Ocaña,ESP,520
+20b,1973-07-22,89.0,Versailles,Paris,Flat,Bernard Thévenet,FRA,78
+P,1972-07-01,7.2,Angers,Angers,Time Trial,Eddy Merckx,BEL,154
+1,1972-07-02,235.5,Angers,Saint-Brieuc,Flat,Cyrille Guimard,FRA,124
+2,1972-07-03,206.5,Saint-Brieuc,La Baule,Flat,Rik Van Linden,BEL,714
+3a,1972-07-04,161.0,Pornichet,Saint-Jean-de-Monts,Flat,Ercole Gualazzini,ITA,175
+3b,1972-07-04,16.2,Merlin-Plage,Merlin-Plage,Time Trial,Molteni,NA,602
+4,1972-07-05,236.0,Merlin-Plage,Royan,Flat,Cyrille Guimard,FRA,124
+5a,1972-07-06,133.5,Royan,Bordeaux,Flat,Walter Godefroot,BEL,837
+5b,1972-07-06,12.7,Bordeaux,Bordeaux,Time Trial,Eddy Merckx,BEL,154
+6,1972-07-07,205.0,Bordeaux,Bayonne,Flat,Leo Duyndam,NED,483
+7,1972-07-09,220.5,Bayonne,Pau,Mountain,Yves Hézard,FRA,855
+8,1972-07-10,163.5,Pau,Luchon,Mountain,Eddy Merckx,BEL,154
+9,1972-07-11,179.0,Luchon,Colomiers,Hilly,Jos Huysmans,BEL,417
+10,1972-07-12,210.0,Castres,La Grande-Motte,Flat,Willy Teirlinck,BEL,847
+11,1972-07-13,207.0,Carnon-Plage,Mont Ventoux,Mountain,Bernard Thévenet,FRA,78
+12,1972-07-14,192.0,Carpentras,Orcières,Mountain,Lucien Van Impe,BEL,511
+13,1972-07-16,201.0,Orcières,Briançon,Mountain,Eddy Merckx,BEL,154
+14a,1972-07-17,51.0,Briançon,Valloire,Mountain,Eddy Merckx,BEL,154
+14b,1972-07-17,151.0,Valloire,Aix-les-Bains,Mountain,Cyrille Guimard,FRA,124
+15,1972-07-18,28.0,Aix-les-Bains,Le Revard,Mountain,Cyrille Guimard,FRA,124
+16,1972-07-19,198.5,Aix-les-Bains,Pontarlier,Hilly,Willy Teirlinck,BEL,847
+17,1972-07-20,213.0,Pontarlier,Ballon d’Alsace,Hilly,Bernard Thévenet,FRA,78
+18,1972-07-21,257.5,Vesoul,Auxerre,Flat,Marinus Wagtmans,NED,554
+19,1972-07-22,230.0,Auxerre,Versailles,Flat,Joseph Bruyère,BEL,421
+20a,1972-07-23,42.0,Versailles,Versailles,Time Trial,Eddy Merckx,BEL,154
+20b,1972-07-23,89.0,Versailles,Paris,Flat,Willy Teirlinck,BEL,847
+P,1971-06-26,11.0,Mulhouse,Mulhouse,Time Trial,Molteni,NA,602
+1a,1971-06-27,59.5,Mulhouse,Basel,Mountain,Eric Leman,BEL,176
+1b,1971-06-27,90.0,Basel,Freiburg,Flat,Gerben Karstens,NED,270
+1c,1971-06-27,74.5,Freiburg,Mulhouse,Flat,Albert Van Vlierberghe,BEL,18
+2,1971-06-28,144.0,Mulhouse,Strasbourg,Mountain,Eddy Merckx,BEL,154
+3,1971-06-29,165.5,Strasbourg,Nancy,Mountain,Rini Wagtmans,NED,718
+4,1971-06-30,242.0,Nancy,Marche-en-Famenne,Flat,Jean-Pierre Genet,FRA,391
+5,1971-07-01,208.5,Dinant,Roubaix,Mountain,Pietro Guerra,ITA,675
+6a,1971-07-02,127.5,Roubaix,Amiens,Flat,Eric Leman,BEL,176
+6b,1971-07-02,133.5,Amiens,Le Touquet,Flat,Mauro Simonetti,ITA,581
+7,1971-07-04,257.5,Rungis,Nevers,Flat,Eric Leman,BEL,176
+8,1971-07-05,221.0,Nevers,Puy de Dôme,Mountain,Luis Ocaña,ESP,520
+9,1971-07-06,153.0,Clermont-Ferrand,Saint-Étienne,Mountain,Walter Godefroot,BEL,837
+10,1971-07-07,188.5,Saint-Étienne,Grenoble,Mountain,Bernard Thévenet,FRA,78
+11,1971-07-08,134.0,Grenoble,Orcières,Mountain,Luis Ocaña,ESP,520
+12,1971-07-10,251.0,Orcières,Marseille,Flat,Luciano Armani,ITA,502
+13,1971-07-11,16.3,Albi,Albi,Time Trial,Eddy Merckx,BEL,154
+14,1971-07-12,214.5,Revel,Luchon,Mountain,José Manuel Fuente,ESP,431
+15,1971-07-13,19.6,Luchon,Superbagnères,Mountain,José Manuel Fuente,ESP,431
+16a,1971-07-14,145.0,Luchon,Gourette,Mountain,Bernard Labourdette,FRA,75
+16b,1971-07-14,57.5,Gourette,Pau,Flat,Herman Van Springel,BEL,333
+17,1971-07-15,188.0,Mont-de-Marsan,Bordeaux,Flat,Eddy Merckx,BEL,154
+18,1971-07-16,244.0,Bordeaux,Poitiers,Flat,Jean-Pierre Danguillaume,FRA,390
+19,1971-07-17,185.0,Blois,Versailles,Flat,Jan Krekels,NED,356
+20,1971-07-18,53.8,Versailles,Paris,Time Trial,Eddy Merckx,BEL,154
+P,1970-06-27,7.4,Limoges,Limoges,Time Trial,Eddy Merckx,BEL,154
+1,1970-06-27,224.5,Limoges,La Rochelle,Flat,Cyrille Guimard,FRA,124
+2,1970-06-28,200.0,La Rochelle,Angers,Flat,Italo Zilioli,ITA,344
+3a,1970-06-29,10.7,Angers,Angers,Time Trial,Faemino–Faema,NA,201
+3b,1970-06-29,140.0,Angers,Rennes,Flat,Marino Basso,ITA,552
+4,1970-06-30,229.0,Rennes,Lisieux,Flat,Walter Godefroot,BEL,837
+5a,1970-07-01,94.5,Lisieux,Rouen,Flat,Walter Godefroot,BEL,837
+5b,1970-07-01,223.0,Rouen,Amiens,Flat,Jozef Spruyt,BEL,440
+6,1970-07-02,135.5,Amiens,Valenciennes,Flat,Roger De Vlaeminck,BEL,732
+7a,1970-07-03,120.0,Valenciennes,Forest,Flat,Eddy Merckx,BEL,154
+7b,1970-07-03,7.2,Forest,Forest,Time Trial,José Antonio Gonzalez Linares,ESP,428
+8,1970-07-04,232.5,Ciney,Felsberg,Flat,Alain Vasseur,FRA,15
+9,1970-07-05,269.5,Saarlouis,Mulhouse,Mountain,Mogens Frey,DEN,601
+10,1970-07-06,241.0,Belfort,Divonne-les-Bains,Mountain,Eddy Merckx,BEL,154
+11a,1970-07-07,8.8,Divonne-les-Bains,Divonne-les-Bains,Time Trial,Eddy Merckx,BEL,154
+11b,1970-07-07,139.5,Divonne-les-Bains,Thonon-les-Bains,Mountain,Marino Basso,ITA,552
+12,1970-07-08,194.0,Thonon-les-Bains,Grenoble,Mountain,Eddy Merckx,BEL,154
+13,1970-07-09,194.5,Grenoble,Gap,Mountain,Primo Mori,ITA,680
+14,1970-07-10,170.0,Gap,Mont Ventoux,Mountain,Eddy Merckx,BEL,154
+15,1970-07-11,140.5,Carpentras,Montpellier,Flat,Marinus Wagtmans,NED,554
+16,1970-07-12,160.0,Montpellier,Toulouse,Flat,Albert Van Vlierberghe,BEL,18
+17,1970-07-13,190.0,Toulouse,Saint-Gaudens,Flat,Luis Ocaña,ESP,520
+18,1970-07-14,135.5,Saint-Gaudens,La Mongie,Mountain,Bernard Thévenet,FRA,78
+19,1970-07-15,185.5,Bagnères-de-Bigorre,Mourenx,Mountain,Christian Raymond,FRA,110
+20a,1970-07-16,223.5,Mourenx,Bordeaux,Flat,Rolf Wolfshohl,FRG,745
+20b,1970-07-16,8.2,Bordeaux,Bordeaux,Time Trial,Eddy Merckx,BEL,154
+21,1970-07-17,191.5,Ruffec,Tours,Flat,Marino Basso,ITA,552
+22,1970-07-18,238.5,Tours,Versailles,Flat,Jean-Pierre Danguillaume,FRA,390
+23,1970-07-19,54.0,Versailles,Paris,Time Trial,Eddy Merckx,BEL,154
+P,1969-06-28,10.0,Roubaix,Roubaix,Time Trial,Rudi Altig,GER,752
+1a,1969-06-29,147.0,Roubaix,Sint-Pieters-Woluwe,Flat,Marino Basso,ITA,552
+1b,1969-06-29,16.0,Sint-Pieters-Woluwe,Sint-Pieters-Woluwe,Time Trial,Faema,NA,199
+2,1969-06-30,182.0,Sint-Pieters-Woluwe,Maastricht,Flat,Julien Stevens,BEL,455
+3,1969-07-01,213.0,Maastricht,Charleville-Mézières,Flat,Eric Leman,BEL,176
+4,1969-07-02,214.0,Charleville-Mézières,Nancy,Flat,Rik Van Looy,BEL,715
+5,1969-07-03,194.0,Nancy,Mulhouse,Mountain,Joaquim Agostinho,POR,405
+6,1969-07-04,133.0,Mulhouse,Ballon d’Alsace,Mountain,Eddy Merckx,BEL,154
+7,1969-07-05,241.0,Belfort,Divonne-les-Bains,Mountain,Mariano Diaz,ESP,550
+8a,1969-07-06,9.0,Divonne-les-Bains,Divonne-les-Bains,Time Trial,Eddy Merckx,BEL,154
+8b,1969-07-06,137.0,Divonne-les-Bains,Thonon-les-Bains,Mountain,Michele Dancelli,ITA,593
+9,1969-07-07,111.0,Thonon-les-Bains,Chamonix,Mountain,Roger Pingeon,FRA,737
+10,1969-07-08,221.0,Chamonix,Briançon,Mountain,Herman Van Springel,BEL,333
+11,1969-07-09,198.0,Briançon,Digne,Mountain,Eddy Merckx,BEL,154
+12,1969-07-10,161.0,Digne,Aubagne,Mountain,Felice Gimondi,ITA,208
+13,1969-07-11,196.0,Aubagne,La Grande-Motte,Flat,Guido Reybrouck,BEL,308
+14,1969-07-12,234.0,La Grande-Motte,Revel,Flat,Joaquim Agostinho,POR,405
+15,1969-07-13,19.0,Revel,Revel,Time Trial,Eddy Merckx,BEL,154
+16,1969-07-14,199.0,Castelnaudary,Luchon,Mountain,Raymond Delisle,FRA,691
+17,1969-07-15,214.0,Luchon,Mourenx,Mountain,Eddy Merckx,BEL,154
+18,1969-07-16,201.0,Mourenx,Bordeaux,Flat,Barry Hoban,GBR,64
+19,1969-07-17,193.0,Bordeaux,Brive,Flat,Barry Hoban,GBR,64
+20,1969-07-18,198.0,Brive,Puy de Dôme,Mountain,Pierre Matignon,FRA,668
+21,1969-07-19,329.0,Clermont-Ferrand,Montargis,Flat,Herman Van Springel,BEL,333
+22a,1969-07-20,111.0,Montargis,Créteil,Flat,Jozef Spruyt,BEL,440
+22b,1969-07-20,37.0,Créteil,Paris,Time Trial,Eddy Merckx,BEL,154
+1a,1968-06-27,6.1,Vittel,Vittel,Time Trial,Charly Grosskost,FRA,106
+1b,1968-06-28,189.0,Vittel,Esch-sur-Alzette,Flat,Charly Grosskost,FRA,106
+2,1968-06-29,210.5,Arlon,Forest,Flat,Eric de Vlaeminck,BEL,178
+3a,1968-06-30,22.0,Forest,Forest,Time Trial,Belgium A,NA,70
+3b,1968-06-30,112.0,Forest,Roubaix,Flat,Walter Godefroot,BEL,837
+4,1968-07-01,238.0,Roubaix,Rouen,Flat,Georges Chappe,FRA,259
+5a,1968-07-02,165.0,Rouen,Bagnoles-de-l'Orne,Flat,André Desvages,FRA,39
+5b,1968-07-02,154.5,Bagnoles-de-l'Orne,Dinard,Flat,Jean Dumont,FRA,370
+6,1968-07-03,188.0,Dinard,Lorient,Flat,Aurelio González Puente,ESP,61
+7,1968-07-04,190.0,Lorient,Nantes,Flat,Franco Bitossi,ITA,230
+8,1968-07-05,223.0,Nantes,Royan,Flat,Daniel van Ryckeghem,BEL,131
+9,1968-07-07,137.5,Royan,Bordeaux,Flat,Walter Godefroot,BEL,837
+10,1968-07-08,202.5,Bordeaux,Bayonne,Flat,Gilbert Bellone,FRA,284
+11,1968-07-09,183.5,Bayonne,Pau,Flat,Daniel van Ryckeghem,BEL,131
+12,1968-07-10,226.5,Pau,Saint-Gaudens,Mountain,Georges Pintens,BEL,264
+13,1968-07-11,208.5,Saint-Gaudens,La Seu d'Urgell,Mountain,Herman Van Springel,BEL,333
+14,1968-07-12,231.5,La Seu d'Urgell,Perpignan,Mountain,Jan Janssen,NED,355
+15,1968-07-14,250.5,Font-Romeu-Odeillo-Via,Albi,Flat,Roger Pingeon,FRA,737
+16,1968-07-15,199.0,Albi,Aurillac,Flat,Franco Bitossi,ITA,230
+17,1968-07-16,236.5,Aurillac,Saint-Étienne,Mountain,Jean-Pierre Genet,FRA,391
+18,1968-07-17,235.0,Saint-Étienne,Grenoble,Mountain,Roger Pingeon,FRA,737
+19,1968-07-18,200.0,Grenoble,Sallanches,Mountain,Barry Hoban,GBR,64
+20,1968-07-19,242.5,Sallanches,Besançon,Mountain,Jozef Huysmans,BEL,438
+21,1968-07-20,242.0,Besançon,Auxerre,Flat,Eric Leman,BEL,176
+22a,1968-07-21,136.0,Auxerre,Melun,Flat,Maurice Izier,FRA,577
+22b,1968-07-21,55.2,Melun,Paris,Time Trial,Jan Janssen,NED,355
+1a,1967-06-29,5.775,Angers,Angers,Time Trial,José-Maria Errandonea,ESP,437
+1b,1967-06-30,185.5,Angers,Saint-Malo,Flat,Walter Godefroot,BEL,837
+2,1967-07-01,180.0,Saint-Malo,Caen,Flat,Willy Van Neste,BEL,848
+3,1967-07-02,248.0,Caen,Amiens,Flat,Marino Basso,ITA,552
+4,1967-07-03,191.0,Amiens,Roubaix,Flat,Guido Reybrouck,BEL,308
+5a,1967-07-04,172.0,Roubaix,Jambes,Flat,Roger Pingeon,FRA,737
+5b,1967-07-04,17.0,Jambes,Jambes,Time Trial,Belgium,NA,69
+6,1967-07-05,238.0,Jambes,Metz,Flat,Herman Van Springel,BEL,333
+7,1967-07-06,205.5,Metz,Strasbourg,Mountain,Michael Wright,GBR,588
+8,1967-07-07,215.0,Strasbourg,Belfort/Ballon d’Alsace,Mountain,Lucien Aimar,FRA,504
+9,1967-07-09,238.5,Belfort,Divonne-les-Bains,Mountain,Guido Reybrouck,BEL,308
+10,1967-07-10,243.0,Divonne-les-Bains,Briançon,Mountain,Felice Gimondi,ITA,208
+11,1967-07-11,197.0,Briançon,Digne,Mountain,José Samyn,FRA,434
+12,1967-07-12,207.5,Digne,Marseille,Flat,Raymond Riotte,FRA,698
+13,1967-07-13,211.5,Marseille,Carpentras,Mountain,Jan Janssen,NED,355
+14,1967-07-14,201.5,Carpentras,Sète,Flat,Barry Hoban,GBR,64
+15,1967-07-16,230.5,Sète,Toulouse,Flat,Rolf Wolfshohl,FRG,745
+16,1967-07-17,188.0,Toulouse,Luchon,Mountain,Fernando Manzaneque,ESP,216
+17,1967-07-18,250.0,Luchon,Pau,Mountain,Raymond Mastrotto,FRA,695
+18,1967-07-19,206.5,Pau,Bordeaux,Flat,Marino Basso,ITA,552
+19,1967-07-20,217.0,Bordeaux,Limoges,Flat,Jean Stablinski,FRA,381
+20,1967-07-21,222.0,Limoges,Puy de Dôme,Mountain,Felice Gimondi,ITA,208
+21,1967-07-22,359.0,Clermont-Ferrand,Fontainebleau,Flat,Paul Lemeteyer,FRA,645
+22a,1967-07-23,104.0,Fontainebleau,Versailles,Flat,René Binggeli,SUI,702
+22b,1967-07-23,46.6,Versailles,Paris,Time Trial,Raymond Poulidor,FRA,697
+1,1966-06-21,209.0,Nancy,Charleville,Flat,Rudi Altig,FRG,752
+2,1966-06-22,198.0,Charleville,Tournai,Flat,Guido Reybrouck,BEL,308
+3a,1966-06-23,21.0,Tournai,Tournai,Time Trial,Televizier–Batavus,NA,800
+3b,1966-06-23,131.0,Tournai,Dunkirk,Flat,Gerben Karstens,NED,270
+4,1966-06-24,205.0,Dunkirk,Dieppe,Flat,Willy Planckaert,BEL,846
+5,1966-06-25,178.0,Dieppe,Caen,Flat,Franco Bitossi,ITA,230
+6,1966-06-26,217.0,Caen,Angers,Flat,Edward Sels,BEL,163
+7,1966-06-27,252.0,Angers,Royan,Flat,Albert Van Vlierberghe,BEL,18
+8,1966-06-28,138.0,Royan,Bordeaux,Flat,Willy Planckaert,BEL,846
+9,1966-06-29,201.0,Bordeaux,Bayonne,Flat,Gerben Karstens,NED,270
+10,1966-06-30,234.0,Bayonne,Pau,Mountain,Tommaso de Pra,ITA,814
+11,1966-07-01,188.0,Pau,Luchon,Mountain,Guido Marcello Mugnaini,ITA,306
+12,1966-07-03,219.0,Luchon,Revel,Mountain,Rudi Altig,FRG,752
+13,1966-07-04,191.0,Revel,Sète,Flat,Georges Vandenberghe,BEL,267
+14a,1966-07-05,144.0,Montpellier,Vals-les-Bains,Flat,Jo de Roo,NED,404
+14b,1966-07-05,20.0,Vals-les-Bains,Vals-les-Bains,Time Trial,Raymond Poulidor,FRA,697
+15,1966-07-06,203.0,Privas,Le Bourg-d'Oisans,Mountain,Luís Otano,ESP,521
+16,1966-07-07,148.0,Le Bourg-d'Oisans,Briançon,Mountain,Julio Jiménez,ESP,457
+17,1966-07-08,160.0,Briançon,Turin,Mountain,Franco Bitossi,ITA,230
+18,1966-07-10,188.0,Ivrea,Chamonix,Mountain,Edy Schutz,LUX,166
+19,1966-07-11,265.0,Chamonix,Saint-Étienne,Mountain,Ferdinand Bracke,BEL,210
+20,1966-07-12,223.0,Saint-Étienne,Montluçon,Flat,Henk Nijdam,NED,322
+21,1966-07-13,232.0,Montluçon,Orléans,Flat,Pierre Beuffeuil,FRA,662
+22a,1966-07-14,111.0,Orléans,Rambouillet,Flat,Edward Sels,BEL,163
+22b,1966-07-14,51.0,Rambouillet,Paris,Time Trial,Rudi Altig,FRG,752
+1a,1965-06-22,149.0,Cologne,Liège,Flat,Rik Van Looy,BEL,715
+1b,1965-06-22,22.5,Liège,Liège,Time Trial,Ford France–Gitane,NA,222
+2,1965-06-23,200.5,Liège,Roubaix,Flat,Bernard Van De Kerkhove,BEL,80
+3,1965-06-24,240.0,Roubaix,Rouen,Flat,Felice Gimondi,ITA,208
+4,1965-06-25,227.0,Caen,Saint-Brieuc,Flat,Edgard Sorgeloos,BEL,159
+5a,1965-06-26,147.0,Saint-Brieuc,Châteaulin,Flat,Cees van Espen,NED,101
+5b,1965-06-26,26.7,Châteaulin,Châteaulin,Time Trial,Raymond Poulidor,FRA,697
+6,1965-06-27,210.5,Quimper,La Baule,Flat,Guido Reybroeck,BEL,307
+7,1965-06-28,219.0,La Baule,La Rochelle,Flat,Edward Sels,BEL,163
+8,1965-06-29,197.5,La Rochelle,Bordeaux,Flat,Johan de Roo,NED,411
+9,1965-06-30,226.5,Dax,Bagnères-de-Bigorre,Mountain,Julio Jiménez,ESP,457
+10,1965-07-01,222.5,Bagnères-de-Bigorre,Ax-les-Thermes,Mountain,Guido Reybroeck,BEL,307
+11,1965-07-02,240.5,Ax-les-Thermes,Barcelona,Mountain,José Perez-Frances,ESP,433
+12,1965-07-04,219.0,Barcelona,Perpignan,Flat,Jan Janssen,NED,355
+13,1965-07-05,164.0,Perpignan,Montpellier,Flat,Adriano Durante,ITA,8
+14,1965-07-06,173.0,Montpellier,Mont Ventoux,Mountain,Raymond Poulidor,FRA,697
+15,1965-07-07,167.5,Carpentras,Gap,Mountain,Giuseppe Fezzardi,ITA,296
+16,1965-07-08,177.0,Gap,Briançon,Mountain,Joaquim Galera,ESP,406
+17,1965-07-09,193.5,Briançon,Aix-les-Bains,Mountain,Julio Jiménez,ESP,457
+18,1965-07-10,26.9,Aix-les-Bains,Le Revard,Time Trial,Felice Gimondi,ITA,208
+19,1965-07-11,165.0,Aix-les-Bains,Lyon,Mountain,Rik Van Looy,BEL,715
+20,1965-07-12,198.5,Lyon,Auxerre,Flat,Michael Wright,GBR,588
+21,1965-07-13,225.5,Auxerre,Versailles,Flat,Gerben Karstens,NED,270
+22,1965-07-14,37.8,Versailles,Paris,Time Trial,Felice Gimondi,ITA,208
+1,1964-06-22,215.0,Rennes,Lisieux,Flat,Edward Sels,BEL,163
+2,1964-06-23,208.0,Lisieux,Amiens,Flat,André Darrigade,FRA,38
+3a,1964-06-24,197.0,Amiens,Forest,Flat,Bernard Vandekerkhove,BEL,81
+3b,1964-06-24,21.0,Forest,Forest,Time Trial,Kas–Kaskol,NA,465
+4,1964-06-25,292.0,Forest,Metz,Flat,Rudi Altig,GER,752
+5,1964-06-26,161.0,Lunéville,Freiburg,Flat,Willy Derboven,BEL,844
+6,1964-06-27,200.0,Freiburg,Besançon,Flat,Henk Nijdam,NED,322
+7,1964-06-28,195.0,Besançon,Thonon-les-Bains,Flat,Jan Janssen,NED,355
+8,1964-06-29,249.0,Thonon-les-Bains,Briançon,Mountain,Federico Bahamontes,ESP,203
+9,1964-06-30,239.0,Briançon,Monaco,Mountain,Jacques Anquetil,FRA,348
+10a,1964-07-01,187.0,Monaco,Hyères,Flat,Jan Janssen,NED,355
+10b,1964-07-01,21.0,Hyères,Toulon,Time Trial,Jacques Anquetil,FRA,348
+11,1964-07-02,250.0,Toulon,Montpellier,Flat,Edward Sels,BEL,163
+12,1964-07-03,174.0,Montpellier,Perpignan,Flat,Jo de Roo,NED,404
+13,1964-07-04,170.0,Perpignan,Andorra,Mountain,Julio Jiménez,ESP,457
+14,1964-07-06,186.0,Andorra,Toulouse,Mountain,Edward Sels,BEL,163
+15,1964-07-07,203.0,Toulouse,Luchon,Mountain,Raymond Poulidor,FRA,697
+16,1964-07-08,197.0,Luchon,Pau,Mountain,Federico Bahamontes,ESP,203
+17,1964-07-09,43.0,Peyrehorade,Bayonne,Time Trial,Jacques Anquetil,FRA,348
+18,1964-07-10,187.0,Bayonne,Bordeaux,Flat,André Darrigade,FRA,38
+19,1964-07-11,215.0,Bordeaux,Brive,Flat,Edward Sels,BEL,163
+20,1964-07-12,217.0,Brive,Puy de Dôme,Mountain,Julio Jiménez,ESP,457
+21,1964-07-13,311.0,Clermont-Ferrand,Orléans,Flat,Jean Stablinski,FRA,381
+22a,1964-07-14,119.0,Orléans,Versailles,Flat,Benoni Beheyt,BEL,71
+22b,1964-07-14,27.0,Versailles,Paris,Time Trial,Jacques Anquetil,FRA,348
+1,1963-06-23,152.0,Paris,Épernay,Flat,Eddy Pauwels,BEL,155
+2a,1963-06-24,186.0,Reims,Jambes,Flat,Rik Van Looy,BEL,715
+2b,1963-06-24,22.0,Jambes,Jambes,Time Trial,Pelforth–Sauvage–Lejeune,NA,651
+3,1963-06-25,223.0,Jambes,Roubaix,Flat,Seamus Elliott,IRL,767
+4,1963-06-26,236.0,Roubaix,Rouen,Flat,Frans Melckenbeeck,BEL,237
+5,1963-06-27,285.0,Rouen,Rennes,Flat,Antonio Bailetti,ITA,50
+6a,1963-06-28,118.0,Rennes,Angers,Flat,Roger de Breuker,BEL,739
+6b,1963-06-28,25.0,Angers,Angers,Time Trial,Jacques Anquetil,FRA,348
+7,1963-06-29,236.0,Angers,Limoges,Flat,Jan Janssen,NED,355
+8,1963-06-30,232.0,Limoges,Bordeaux,Flat,Rik Van Looy,BEL,715
+9,1963-07-01,202.0,Bordeaux,Pau,Flat,Pino Cerami,BEL,677
+10,1963-07-02,148.0,Pau,Bagnères-de-Bigorre,Mountain,Jacques Anquetil,FRA,348
+11,1963-07-03,131.0,Bagnères-de-Bigorre,Luchon,Mountain,Guy Ignolin,FRA,313
+12,1963-07-04,173.0,Luchon,Toulouse,Mountain,André Darrigade,FRA,38
+13,1963-07-05,234.0,Toulouse,Aurillac,Flat,Rik Van Looy,BEL,715
+14,1963-07-07,237.0,Aurillac,Saint-Étienne,Flat,Guy Ignolin,FRA,313
+15,1963-07-08,174.0,Saint-Étienne,Grenoble,Mountain,Federico Bahamontes,ESP,203
+16,1963-07-09,202.0,Grenoble,Val d'Isère,Mountain,Fernando Manzaneque,ESP,216
+17,1963-07-10,228.0,Val d'Isère,Chamonix,Mountain,Jacques Anquetil,FRA,348
+18,1963-07-11,225.0,Chamonix,Lons-le-Saunier,Mountain,Frans Brands,BEL,235
+19,1963-07-12,54.0,Arbois,Besançon,Time Trial,Jacques Anquetil,FRA,348
+20,1963-07-13,234.0,Besançon,Troyes,Flat,Roger de Breuker,BEL,739
+21,1963-07-14,185.0,Troyes,Paris,Flat,Rik Van Looy,BEL,715
+1,1962-06-24,253.0,Nancy,Spa,Flat,Rudi Altig,FRG,752
+2a,1962-06-25,147.0,Spa,Herentals,Flat,André Darrigade,FRA,38
+2b,1962-06-25,23.0,Herentals,Herentals,Time Trial,Faema–Flandria–Clement,NA,200
+3,1962-06-26,210.0,Brussels,Amiens,Flat,Rudi Altig,FRG,752
+4,1962-06-27,196.5,Amiens,Le Havre,Flat,Willy Vanden Berghen,BEL,849
+5,1962-06-28,215.0,Pont l'Evêque,Saint-Malo,Flat,Emile Daems,BEL,168
+6,1962-06-29,235.5,Dinard,Brest,Flat,Robert Cazala,FRA,723
+7,1962-06-30,201.0,Quimper,Saint-Nazaire,Flat,Huub Zilverberg,NED,339
+8a,1962-07-01,155.0,Saint-Nazaire,Luçon,Flat,Mario Minieri,ITA,556
+8b,1962-07-01,43.0,Luçon,La Rochelle,Time Trial,Jacques Anquetil,FRA,348
+9,1962-07-02,214.0,La Rochelle,Bordeaux,Flat,Antonio Bailetti,ITA,50
+10,1962-07-03,184.5,Bordeaux,Bayonne,Flat,Willy Vannitsen,BEL,850
+11,1962-07-04,155.5,Bayonne,Pau,Flat,Eddy Pauwels,BEL,155
+12,1962-07-05,207.5,Pau,Saint-Gaudens,Mountain,Robert Cazala,FRA,723
+13,1962-07-06,18.5,Luchon,Superbagnères,Time Trial,Federico Bahamontes,ESP,203
+14,1962-07-07,215.0,Luchon,Carcassonne,Mountain,Jean Stablinski,FRA,381
+15,1962-07-08,196.5,Carcassonne,Montpellier,Flat,Willy Vannitsen,BEL,850
+16,1962-07-09,185.0,Montpellier,Aix-en-Provence,Flat,Emile Daems,BEL,168
+17,1962-07-10,201.0,Aix-en-Provence,Antibes,Flat,Rudi Altig,FRG,752
+18,1962-07-11,241.5,Antibes,Briançon,Mountain,Emile Daems,BEL,168
+19,1962-07-12,204.5,Briançon,Aix-les-Bains,Mountain,Raymond Poulidor,FRA,697
+20,1962-07-13,68.0,Bourgoin,Lyon,Time Trial,Jacques Anquetil,FRA,348
+21,1962-07-14,232.0,Lyon,Nevers,Flat,Dino Bruni,ITA,144
+22,1962-07-15,271.0,Nevers,Paris,Flat,Rino Benedetti,ITA,719
+1a,1961-06-25,136.5,Rouen,Versailles,Flat,André Darrigade,FRA,38
+1b,1961-06-25,28.5,Versailles,Versailles,Time Trial,Jacques Anquetil,FRA,348
+2,1961-06-26,230.5,Pontoise,Roubaix,Flat,André Darrigade,FRA,38
+3,1961-06-27,197.5,Roubaix,Charleroi,Flat,Emile Daems,BEL,168
+4,1961-06-28,237.5,Charleroi,Metz,Flat,Anatole Novak,FRA,36
+5,1961-06-29,221.0,Metz,Strasbourg,Mountain,Louis Bergaud,FRA,492
+6,1961-06-30,180.5,Strasbourg,Belfort,Mountain,Jozef Planckaert,BEL,439
+7,1961-07-01,214.5,Belfort,Chalon-sur-Saône,Flat,Jean Stablinski,FRA,381
+8,1961-07-02,240.5,Chalon-sur-Saône,Saint-Étienne,Mountain,Jean Forestier,FRA,371
+9,1961-07-03,230.0,Saint-Étienne,Grenoble,Mountain,Charly Gaul,LUX,105
+10,1961-07-04,250.5,Grenoble,Turin,Mountain,Guy Ignolin,FRA,313
+11,1961-07-05,225.0,Turin,Antibes,Mountain,Guido Carlesi,ITA,305
+12,1961-07-06,199.0,Antibes,Aix-en-Provence,Mountain,Michel Van Aerde,BEL,592
+13,1961-07-07,177.5,Aix-en-Provence,Montpellier,Flat,André Darrigade,FRA,38
+14,1961-07-09,174.0,Montpellier,Perpignan,Flat,Eddy Pauwels,BEL,155
+15,1961-07-10,206.0,Perpignan,Toulouse,Flat,Guido Carlesi,ITA,305
+16,1961-07-11,208.0,Toulouse,Superbagnères,Mountain,Imerio Massignan,ITA,342
+17,1961-07-12,197.0,Luchon,Pau,Mountain,Eddy Pauwels,BEL,155
+18,1961-07-13,207.0,Pau,Bordeaux,Flat,Martin Van Geneugden,BEL,561
+19,1961-07-14,74.5,Bergerac,Périgueux,Time Trial,Jacques Anquetil,FRA,348
+20,1961-07-15,309.5,Périgueux,Tours,Flat,André Darrigade,FRA,38
+21,1961-07-16,252.5,Tours,Paris,Flat,Robert Cazala,FRA,723
+1a,1960-06-26,108.0,Lille,Brussels,Flat,Julien Schepens,BEL,454
+1b,1960-06-26,27.8,Brussels,Brussels,Time Trial,Roger Rivière,FRA,738
+2,1960-06-27,206.0,Brussels,Dunkirk,Flat,René Privat,FRA,709
+3,1960-06-28,209.0,Dunkirk,Dieppe,Flat,Nino Defilippis,ITA,614
+4,1960-06-29,211.0,Dieppe,Caen,Flat,Jean Graczyk,FRA,376
+5,1960-06-30,189.0,Caen,Saint-Malo,Flat,André Darrigade,FRA,38
+6,1960-07-01,191.0,Saint-Malo,Lorient,Flat,Roger Rivière,FRA,738
+7,1960-07-02,244.0,Lorient,Angers,Flat,Graziano Battistini,ITA,301
+8,1960-07-03,240.0,Angers,Limoges,Flat,Nino Defilippis,ITA,614
+9,1960-07-04,225.0,Limoges,Bordeaux,Flat,Martin van Geneugden,BEL,562
+10,1960-07-05,228.0,Mont-de-Marsan,Pau,Mountain,Roger Rivière,FRA,738
+11,1960-07-06,161.0,Pau,Luchon,Mountain,Kurt Gimmi,SUI,470
+12,1960-07-07,176.0,Luchon,Toulouse,Mountain,Jean Graczyk,FRA,376
+13,1960-07-08,224.0,Toulouse,Millau,Flat,Louis Proost,FRA,498
+14,1960-07-10,217.0,Millau,Avignon,Mountain,Martin van Geneugden,BEL,562
+15,1960-07-11,187.0,Avignon,Gap,Mountain,Michel Van Aerde,BEL,592
+16,1960-07-12,172.0,Gap,Briançon,Mountain,Graziano Battistini,ITA,301
+17,1960-07-13,229.0,Briançon,Aix-les-Bains,Mountain,Jean Graczyk,FRA,376
+18,1960-07-14,215.0,Aix-les-Bains,Thonon-les-Bains,Mountain,Fernando Manzaneque,ESP,216
+19,1960-07-15,83.0,Pontarlier,Besançon,Time Trial,Rolf Graf,SUI,741
+20,1960-07-16,229.0,Besançon,Troyes,Flat,Pierre Beuffeuil,FRA,662
+21,1960-07-17,200.0,Troyes,Paris,Flat,Jean Graczyk,FRA,376
+1,1959-06-25,238.0,Mulhouse,Metz,Flat,André Darrigade,FRA,38
+2,1959-06-26,234.0,Metz,Namur,Flat,Vito Favero,ITA,833
+3,1959-06-27,217.0,Namur,Roubaix,Flat,Robert Cazala,FRA,723
+4,1959-06-28,230.0,Roubaix,Rouen,Flat,Dino Bruni,ITA,144
+5,1959-06-29,286.0,Rouen,Rennes,Flat,Jean Graczyk,FRA,376
+6,1959-06-30,45.0,Blain,Nantes,Time Trial,Roger Rivière,FRA,738
+7,1959-07-01,190.0,Nantes,La Rochelle,Flat,Roger Hassenforder,FRA,733
+8,1959-07-02,201.0,La Rochelle,Bordeaux,Flat,Michel Dejouhannet,FRA,589
+9,1959-07-03,207.0,Bordeaux,Bayonne,Flat,Marcel Queheille,FRA,543
+10,1959-07-05,235.0,Bayonne,Bagnères-de-Bigorre,Mountain,Marcel Janssens,BEL,539
+11,1959-07-06,119.0,Bagnères-de-Bigorre,Saint-Gaudens,Mountain,André Darrigade,FRA,38
+12,1959-07-07,184.0,Saint-Gaudens,Albi,Flat,Rolf Graf,SUI,741
+13,1959-07-08,219.0,Albi,Aurillac,Mountain,Henry Anglade,FRA,331
+14,1959-07-09,231.0,Aurillac,Clermont-Ferrand,Mountain,André Le Dissez,FRA,42
+15,1959-07-10,12.0,Puy de Dôme,Puy de Dôme,Time Trial,Federico Bahamontes,ESP,203
+16,1959-07-11,210.0,Clermont-Ferrand,Saint-Étienne,Flat,Dino Bruni,ITA,144
+17,1959-07-13,197.0,Saint-Étienne,Grenoble,Mountain,Charly Gaul,LUX,105
+18,1959-07-14,243.0,Grenoble,Saint-Vincent,Mountain,Ercole Baldini,ITA,174
+19,1959-07-15,251.0,Saint-Vincent,Annecy,Mountain,Rolf Graf,SUI,741
+20,1959-07-16,202.0,Annecy,Chalon-sur-Saône,Flat,Brian Robinson,GBR,90
+21,1959-07-17,69.0,Seurre,Dijon,Time Trial,Roger Rivière,FRA,738
+22,1959-07-18,331.0,Dijon,Paris,Flat,Joseph Groussard,FRA,422
+1,1958-06-26,184.0,Brussels,Ghent,Flat,André Darrigade,FRA,38
+2,1958-06-27,198.0,Ghent,Dunkirk,Flat,Gerrit Voorting,NED,275
+3,1958-06-28,177.0,Dunkirk,Mers-les-Bains,Flat,Gilbert Bauvin,FRA,283
+4,1958-06-29,205.0,Le Tréport,Versailles,Flat,Jean Gainche,FRA,373
+5,1958-06-30,232.0,Versailles,Caen,Flat,Tino Sabbadini,FRA,810
+6,1958-07-01,223.0,Caen,Saint-Brieuc,Flat,Martin van Geneugden,BEL,562
+7,1958-07-02,170.0,Saint-Brieuc,Brest,Flat,Brian Robinson,GBR,90
+8,1958-07-03,46.0,Châteaulin,Châteaulin,Time Trial,Charly Gaul,LUX,105
+9,1958-07-04,206.0,Quimper,Saint-Nazaire,Flat,André Darrigade,FRA,38
+10,1958-07-05,255.0,Saint-Nazaire,Royan,Flat,Pierino Baffi,ITA,661
+11,1958-07-06,137.0,Royan,Bordeaux,Flat,Arrigo Padovan,ITA,57
+12,1958-07-07,161.0,Bordeaux,Dax,Flat,Martin van Geneugden,BEL,562
+13,1958-07-08,230.0,Dax,Pau,Mountain,Louis Bergaud,FRA,492
+14,1958-07-09,129.0,Pau,Luchon,Mountain,Federico Bahamontes,ESP,203
+15,1958-07-10,176.0,Luchon,Toulouse,Mountain,André Darrigade,FRA,38
+16,1958-07-11,187.0,Toulouse,Béziers,Flat,Pierino Baffi,ITA,661
+17,1958-07-12,189.0,Béziers,Nîmes,Flat,André Darrigade,FRA,38
+18,1958-07-13,21.0,Bédoin,Mont-Ventoux,Time Trial,Charly Gaul,LUX,105
+19,1958-07-14,178.0,Carpentras,Gap,Mountain,Gastone Nencini,ITA,256
+20,1958-07-15,165.0,Gap,Briançon,Mountain,Federico Bahamontes,ESP,203
+21,1958-07-16,219.0,Briançon,Aix-les-Bains,Mountain,Charly Gaul,LUX,105
+22,1958-07-17,237.0,Aix-les-Bains,Besançon,Mountain,André Darrigade,FRA,38
+23,1958-07-18,74.0,Besançon,Dijon,Time Trial,Charly Gaul,LUX,105
+24,1958-07-19,320.0,Dijon,Paris,Flat,Pierino Baffi,ITA,661
+1,1957-06-27,204.0,Nantes,Granville,Flat,André Darrigade,FRA,38
+2,1957-06-28,226.0,Granville,Caen,Flat,René Privat,FRA,709
+3a,1957-06-29,15.0,"Circuit de la Prairie, Caen","Circuit de la Prairie, Caen",Time Trial,France,NA,223
+3b,1957-06-29,134.0,Caen,Rouen,Flat,Jacques Anquetil,FRA,348
+4,1957-06-30,232.0,Rouen,Roubaix,Flat,Marcel Janssens,BEL,539
+5,1957-07-01,170.0,Roubaix,Charleroi,Flat,Gilbert Bauvin,FRA,283
+6,1957-07-02,248.0,Charleroi,Metz,Flat,André Trochut,FRA,45
+7,1957-07-03,223.0,Metz,Colmar,Mountain,Roger Hassenforder,FRA,733
+8,1957-07-04,192.0,Colmar,Besançon,Flat,Pierino Baffi,ITA,661
+9,1957-07-05,188.0,Besançon,Thonon-les-Bains,Flat,Jacques Anquetil,FRA,348
+10,1957-07-07,247.0,Thonon-les-Bains,Briançon,Mountain,Gastone Nencini,ITA,256
+11,1957-07-08,286.0,Briançon,Cannes,Mountain,René Privat,FRA,709
+12,1957-07-09,239.0,Cannes,Marseille,Mountain,Jean Stablinski,FRA,381
+13,1957-07-10,160.0,Marseille,Alès,Flat,Nino Defilippis,ITA,614
+14,1957-07-11,246.0,Alès,Perpignan,Flat,Roger Hassenforder,FRA,733
+15a,1957-07-12,197.0,Perpignan,Barcelona,Flat,René Privat,FRA,709
+15b,1957-07-12,9.8,Montjuïc circuit,Montjuïc circuit,Time Trial,Jacques Anquetil,FRA,348
+16,1957-07-14,220.0,Barcelona ,Ax-les-Thermes,Mountain,Jean Bourlès,FRA,366
+17,1957-07-15,236.0,Ax-les-Thermes,Saint-Gaudens,Mountain,Nino Defilippis,ITA,614
+18,1957-07-16,207.0,Saint-Gaudens,Pau,Mountain,Gastone Nencini,ITA,256
+19,1957-07-17,194.0,Pau,Bordeaux,Flat,Pierino Baffi,ITA,661
+20,1957-07-18,66.0,Bordeaux,Libourne,Time Trial,Jacques Anquetil,FRA,348
+21,1957-07-19,317.0,Libourne,Tours,Flat,André Darrigade,FRA,38
+22,1957-07-20,227.0,Tours,Paris,Flat,André Darrigade,FRA,38
+1,1956-07-05,223.0,Reims,Liège,Flat,André Darrigade,FRA,38
+2,1956-07-06,217.0,Liège,Lille,Flat,Fred De Bruyne,BEL,242
+3,1956-07-07,225.0,Lille,Rouen,Flat,Arigo Padovan,ITA,53
+4a,1956-07-08,15.1,Circuit de Rouen-Les-Essarts,Circuit de Rouen-Les-Essarts,Time Trial,Charly Gaul,LUX,105
+4b,1956-07-08,125.0,Rouen,Caen,Flat,Roger Hassenforder,FRA,733
+5,1956-07-09,189.0,Caen,Saint-Malo,Flat,Joseph Morvan,FRA,424
+6,1956-07-10,192.0,Saint-Malo,Lorient,Flat,Fred De Bruyne,BEL,242
+7,1956-07-11,244.0,Lorient,Angers,Flat,Alessandro Fantini,ITA,23
+8,1956-07-12,180.0,Angers,La Rochelle,Flat,Miguel Poblet,ESP,599
+9,1956-07-13,219.0,La Rochelle,Bordeaux,Flat,Roger Hassenforder,FRA,733
+10,1956-07-15,201.0,Bordeaux,Bayonne,Flat,Fred De Bruyne,BEL,242
+11,1956-07-16,255.0,Bayonne,Pau,Mountain,Nino Defilippis,ITA,614
+12,1956-07-17,130.0,Pau,Luchon,Mountain,Jean-Pierre Schmitz,LUX,392
+13,1956-07-18,176.0,Luchon,Toulouse,Mountain,Nino Defilippis,ITA,614
+14,1956-07-19,231.0,Toulouse,Montpellier,Flat,Roger Hassenforder,FRA,733
+15,1956-07-20,204.0,Montpellier,Aix-en-Provence,Flat,Joseph Thomin,FRA,426
+16,1956-07-22,203.0,Aix-en-Provence,Gap,Mountain,Jean Forestier,FRA,371
+17,1956-07-23,234.0,Gap,Turin,Mountain,Nino Defilippis,ITA,614
+18,1956-07-24,250.0,Turin,Grenoble,Mountain,Charly Gaul,LUX,105
+19,1956-07-25,173.0,Grenoble,Saint-Étienne,Mountain,Stan Ockers,BEL,781
+20,1956-07-26,73.0,Saint-Étienne,Lyon,Time Trial,Miguel Bover,ESP,595
+21,1956-07-27,237.0,Lyon,Montluçon,Mountain,Roger Hassenforder,FRA,733
+22,1956-07-28,331.0,Montluçon,Paris,Flat,Gastone Nencini,ITA,256
+1a,1955-07-07,102.0,Le Havre,Dieppe,Flat,Miguel Poblet,ESP,599
+1b,1955-07-07,12.5,Dieppe,Dieppe,Time Trial,Netherlands,NA,608
+2,1955-07-08,204.0,Dieppe,Roubaix,Flat,Antonin Rolland,FRA,49
+3,1955-07-09,210.0,Roubaix,Namur,Flat,Louison Bobet,FRA,500
+4,1955-07-10,225.0,Namur,Metz,Flat,Willy Kemp,LUX,845
+5,1955-07-11,229.0,Metz,Colmar,Flat,Roger Hassenforder,FRA,733
+6,1955-07-12,195.0,Colmar,Zürich,Flat,André Darrigade,FRA,38
+7,1955-07-13,267.0,Zürich,Thonon-les-Bains,Flat,Jos Hinsen,NED,416
+8,1955-07-14,253.0,Thonon-les-Bains,Briançon,Mountain,Charly Gaul,LUX,105
+9,1955-07-15,275.0,Briançon,Monaco,Mountain,Raphaël Géminiani,FRA,689
+10,1955-07-16,240.0,Monaco,Marseille,Flat,Lucien Lazaridès,FRA,506
+11,1955-07-18,198.0,Marseille,Avignon,Mountain,Louison Bobet,FRA,500
+12,1955-07-19,240.0,Avignon,Millau,Mountain,Alessandro Fantini,ITA,23
+13,1955-07-20,205.0,Millau,Albi,Flat,Daan de Groot,NED,127
+14,1955-07-21,156.0,Albi,Narbonne,Mountain,Louis Caput,FRA,493
+15,1955-07-22,151.0,Narbonne,Ax-les-Thermes,Flat,Luciano Pezzi,ITA,503
+16,1955-07-24,123.0,Ax-les-Thermes,Toulouse,Flat,Rik Van Steenbergen,BEL,716
+17,1955-07-25,250.0,Toulouse,Saint-Gaudens,Mountain,Charly Gaul,LUX,105
+18,1955-07-26,205.0,Saint-Gaudens,Pau,Mountain,Jean Brankart,BEL,367
+19,1955-07-27,195.0,Pau,Bordeaux,Flat,Wout Wagtmans,NED,853
+20,1955-07-28,243.0,Bordeaux,Poitiers,Flat,Jean Forestier,FRA,371
+21,1955-07-29,68.6,Châtellerault,Tours,Time Trial,Jean Brankart,BEL,367
+22,1955-07-30,229.0,Tours,Paris,Flat,Miguel Poblet,ESP,599
+1,1954-07-08,216.0,Amsterdam,Brasschaat,Flat,Wout Wagtmans,NED,853
+2,1954-07-09,255.0,Beveren,Lille,Flat,Louison Bobet,FRA,500
+3,1954-07-10,219.0,Lille,Rouen,Flat,Marcel Dussault,FRA,536
+4a,1954-07-11,10.4,Rouen,Circuit des Essarts,Time Trial,Switzerland,NA,791
+4b,1954-07-11,131.0,Rouen,Caen,Flat,Wim van Est,NED,851
+5,1954-07-12,224.0,Caen,Saint-Brieuc,Flat,Ferdinand Kübler,SUI,211
+6,1954-07-13,179.0,Saint-Brieuc,Brest,Flat,Dominique Forlini,FRA,150
+7,1954-07-14,211.0,Brest,Vannes,Flat,Jacques Vivier,FRA,352
+8,1954-07-15,190.0,Vannes,Angers,Flat,Fred De Bruyne,BEL,242
+9,1954-07-16,343.0,Angers,Bordeaux,Flat,Henk Faanhof,NED,320
+10,1954-07-18,202.0,Bordeaux,Bayonne,Flat,Gilbert Bauvin,FRA,283
+11,1954-07-19,241.0,Bayonne,Pau,Mountain,Stan Ockers,BEL,781
+12,1954-07-20,161.0,Pau,Luchon,Mountain,Gilbert Bauvin,FRA,283
+13,1954-07-21,203.0,Luchon,Toulouse,Flat,Fred De Bruyne,BEL,242
+14,1954-07-22,225.0,Toulouse,Millau,Mountain,Ferdinand Kübler,SUI,211
+15,1954-07-23,197.0,Millau,Le Puy,Mountain,Dominique Forlini,FRA,150
+16,1954-07-24,194.0,Le Puy,Lyon,Mountain,Jean Forestier,FRA,371
+17,1954-07-26,182.0,Lyon,Grenoble,Mountain,Lucien Lazaridès,FRA,506
+18,1954-07-27,216.0,Grenoble,Briançon,Mountain,Louison Bobet,FRA,500
+19,1954-07-28,221.0,Briançon,Aix-les-Bains,Mountain,Jean Dotto,FRA,369
+20,1954-07-29,243.0,Aix les Bains,Besançon,Mountain,Lucien Teisseire,FRA,510
+21a,1954-07-30,134.0,Besançon,Épinal,Flat,François Mahé,FRA,239
+21b,1954-07-30,72.0,Epinal,Nancy,Time Trial,Louison Bobet,FRA,500
+22,1954-07-31,216.0,Nancy,Troyes,Flat,Fred De Bruyne,BEL,242
+23,1954-08-01,180.0,Troyes,Paris,Flat,Robert Varnajo,FRA,727
+1,1953-07-03,195.0,Strasbourg,Metz,Flat,Fritz Schär,SUI,245
+2,1953-07-04,227.0,Metz,Liège,Flat,Fritz Schär,SUI,245
+3,1953-07-05,221.0,Liège,Lille,Flat,Stanislas Bober,FRA,782
+4,1953-07-06,188.0,Lille,Dieppe,Flat,Gerrit Voorting,NED,275
+5,1953-07-07,200.0,Dieppe,Caen,Flat,Jean Malléjac,FRA,378
+6,1953-07-08,206.0,Caen,Le Mans,Flat,Martin Van Geneugden,BEL,561
+7,1953-07-09,181.0,Le Mans,Nantes,Flat,Livio Isotti,ITA,490
+8,1953-07-10,345.0,Nantes,Bordeaux,Flat,Jan Nolten,NED,358
+9,1953-07-12,197.0,Bordeaux,Pau,Flat,Fiorenzo Magni,ITA,219
+10,1953-07-13,103.0,Pau,Cauterets,Mountain,Jesús Loroño,ESP,401
+11,1953-07-14,115.0,Cauterets,Luchon,Mountain,Jean Robic,FRA,379
+12,1953-07-15,228.0,Luchon,Albi,Flat,André Darrigade,FRA,38
+13,1953-07-16,189.0,Albi,Béziers,Mountain,Nello Lauredi,FRA,606
+14,1953-07-17,214.0,Béziers,Nîmes,Mountain,Bernard Quennehen,FRA,76
+15,1953-07-18,173.0,Nîmes,Marseille,Flat,Maurice Quentin,FRA,578
+16,1953-07-19,236.0,Marseille,Monaco,Mountain,Wim van Est,NED,851
+17,1953-07-21,261.0,Monaco,Gap,Mountain,Wout Wagtmans,NED,853
+18,1953-07-22,165.0,Gap,Briançon,Mountain,Louison Bobet,FRA,500
+19,1953-07-23,227.0,Briançon,Lyon,Mountain,Georges Meunier,FRA,261
+20,1953-07-24,70.0,Lyon,St. Etienne,Time Trial,Louison Bobet,FRA,500
+21,1953-07-25,210.0,St. Etienne,Montluçon,Flat,Wout Wagtmans,NED,853
+22,1953-07-26,328.0,Montluçon,Paris,Flat,Fiorenzo Magni,ITA,219
+1,1952-06-25,246.0,Brest,Rennes,Flat,Rik Van Steenbergen,BEL,716
+2,1952-06-26,181.0,Rennes,Le Mans,Flat,André Rosseel,BEL,44
+3,1952-06-27,189.0,Le Mans,Rouen,Flat,Nello Lauredi,FRA,606
+4,1952-06-28,232.0,Rouen,Roubaix,Flat,Pierre Molinéris,FRA,669
+5,1952-06-29,197.0,Roubaix,Namur,Flat,Jean Diederich,LUX,368
+6,1952-06-30,228.0,Namur,Metz,Flat,Fiorenzo Magni,ITA,219
+7,1952-07-01,60.0,Metz,Nancy,Time Trial,Fausto Coppi,ITA,202
+8,1952-07-02,252.0,Nancy,Mulhouse,Mountain,Raphaël Géminiani,FRA,689
+9,1952-07-03,238.0,Mulhouse,Lausanne,Mountain,Walter Diggelmann,SUI,835
+10,1952-07-04,266.0,Lausanne,Alpe d'Huez,Mountain,Fausto Coppi,ITA,202
+11,1952-07-06,182.0,Le Bourg-d'Oisans,Sestriere,Mountain,Fausto Coppi,ITA,202
+12,1952-07-07,251.0,Sestriere,Monaco,Mountain,Jan Nolten,NED,358
+13,1952-07-08,214.0,Monaco,Aix-en-Provence,Flat,Raoul Rémy,FRA,688
+14,1952-07-09,178.0,Aix-en-Provence,Avignon,Mountain,Jean Robic,FRA,379
+15,1952-07-10,275.0,Avignon,Perpignan,Flat,Georges Decaux,FRA,260
+16,1952-07-11,200.0,Perpignan,Toulouse,Flat,André Rosseel,BEL,44
+17,1952-07-13,204.0,Toulouse,Bagnères-de-Bigorre,Mountain,Raphaël Géminiani,FRA,689
+18,1952-07-14,149.0,Bagnères-de-Bigorre,Pau,Mountain,Fausto Coppi,ITA,202
+19,1952-07-15,195.0,Pau,Bordeaux,Flat,Hans Dekkers,NED,316
+20,1952-07-16,228.0,Bordeaux,Limoges,Flat,Jacques Vivier,FRA,352
+21,1952-07-17,245.0,Limoges,Puy de Dôme,Mountain,Fausto Coppi,ITA,202
+22,1952-07-18,63.0,Clermont-Ferrand,Vichy,Time Trial,Fiorenzo Magni,ITA,219
+23,1952-07-19,354.0,Vichy,Paris,Flat,Antonin Rolland,FRA,49
+1,1951-07-04,185.0,Metz,Reims,Flat,Giovanni Rossi,SUI,295
+2,1951-07-05,228.0,Reims,Ghent,Flat,Jean Diederich,LUX,368
+3,1951-07-06,219.0,Ghent,Le Tréport,Flat,Georges Meunier,FRA,261
+4,1951-07-07,188.0,Le Tréport,Paris,Flat,Roger Lévêque,FRA,736
+5,1951-07-08,215.0,Paris,Caen,Flat,Serafino Biagioni,ITA,770
+6,1951-07-09,182.0,Caen,Rennes,Flat,Édouard Muller,FRA,861
+7,1951-07-10,85.0,La Guerche-de-Bretagne,Angers,Time Trial,Hugo Koblet,SUI,338
+8,1951-07-11,241.0,Angers,Limoges,Flat,André Rosseel,BEL,44
+9,1951-07-13,236.0,Limoges,Clermont-Ferrand,Mountain,Raphaël Géminiani,FRA,689
+10,1951-07-14,216.0,Clermont-Ferrand,Brive,Mountain,Bernardo Ruiz,ESP,83
+11,1951-07-15,177.0,Brive,Agen,Flat,Hugo Koblet,SUI,338
+12,1951-07-16,185.0,Agen,Dax,Flat,Wim van Est,NED,851
+13,1951-07-17,201.0,Dax,Tarbes,Mountain,Serafino Biagioni,ITA,770
+14,1951-07-18,142.0,Tarbes,Luchon,Mountain,Hugo Koblet,SUI,338
+15,1951-07-19,213.0,Luchon,Carcassonne,Mountain,André Rosseel,BEL,44
+16,1951-07-20,192.0,Carcassonne,Montpellier,Flat,Hugo Koblet,SUI,338
+17,1951-07-22,224.0,Montpellier,Avignon,Mountain,Louison Bobet,FRA,500
+18,1951-07-23,173.0,Avignon,Marseille,Flat,Fiorenzo Magni,ITA,219
+19,1951-07-24,208.0,Marseille,Gap,Mountain,Armand Baeyens,BEL,55
+20,1951-07-25,165.0,Gap,Briançon,Mountain,Fausto Coppi,ITA,202
+21,1951-07-26,201.0,Briançon,Aix-les-Bains,Mountain,Bernardo Ruiz,ESP,83
+22,1951-07-27,97.0,Aix-les-Bains,Geneva,Time Trial,Hugo Koblet,SUI,338
+23,1951-07-28,197.0,Geneva,Dijon,Mountain,Germain Derijcke,BEL,271
+24,1951-07-29,322.0,Dijon,Paris,Flat,Adolphe Deledda,FRA,7
+1,1950-07-13,307.0,Paris,Metz,Flat,Jean Goldschmit,LUX,375
+2,1950-07-14,241.0,Metz,Liège,Flat,Adolfo Leoni,ITA,5
+3,1950-07-15,232.5,Liège,Lille,Flat,Alfredo Pasotti,ITA,32
+4,1950-07-16,231.0,Lille,Rouen,Flat,Stan Ockers,BEL,781
+5,1950-07-17,316.0,Rouen,Dinard,Flat,Giovanni Corrieri,ITA,292
+6,1950-07-19,78.0,Dinard,St. Brieuc,Time Trial,Ferdinand Kübler,SUI,211
+7,1950-07-20,248.0,St. Brieuc,Angers,Flat,Nello Lauredi,FRA,606
+8,1950-07-21,181.0,Angers,Niort,Flat,Fiorenzo Magni,ITA,219
+9,1950-07-22,206.0,Niort,Bordeaux,Flat,Alfredo Pasotti,ITA,32
+10,1950-07-23,202.0,Bordeaux,Pau,Flat,Marcel Dussault,FRA,536
+11,1950-07-25,230.0,Pau,St. Gaudens,Mountain,Gino Bartali,ITA,288
+12,1950-07-26,233.0,Saint-Gaudens,Perpignan,Flat,Maurice Blomme,BEL,571
+13,1950-07-27,215.0,Perpignan,Nîmes,Flat,Marcel Molinès,FRA,542
+14,1950-07-28,222.0,Nîmes,Toulon,Flat,Custodio Dos Reis,FRA,121
+15,1950-07-29,205.5,Toulon,Menton,Mountain,Jean Diederich,LUX,368
+16,1950-07-30,96.0,Menton,Nice,Mountain,Ferdinand Kübler,SUI,211
+17,1950-08-01,229.0,Nice,Gap,Mountain,Raphaël Géminiani,FRA,689
+18,1950-08-02,165.0,Gap,Briançon,Mountain,Louison Bobet,FRA,500
+19,1950-08-03,291.0,Briançon,Saint-Étienne,Mountain,Raphaël Géminiani,FRA,689
+20,1950-08-05,98.0,Saint-Étienne,Lyon,Time Trial,Ferdinand Kübler,SUI,211
+21,1950-08-06,233.0,Lyon,Dijon,Flat,Gino Sciardis,FRA,289
+22,1950-08-07,314.0,Dijon,Paris,Flat,Émile Baffert,FRA,864
+1,1949-06-30,182.0,Paris,Reims,Flat,Marcel Dussault,FRA,536
+2,1949-07-01,273.0,Reims,Brussels,Flat,Roger Lambrecht,BEL,734
+3,1949-07-02,211.0,Brussels,Boulogne-sur-Mer,Flat,Norbert Callens,BEL,615
+4,1949-07-03,185.0,Boulogne-sur-Mer,Rouen,Flat,Lucien Teisseire,FRA,510
+5,1949-07-04,293.0,Rouen,Saint-Malo,Flat,Ferdinand Kübler,SUI,211
+6,1949-07-05,305.0,Saint-Malo,Les Sables-d'Olonne,Flat,Adolphe Deledda,FRA,7
+7,1949-07-07,92.0,Les Sables-d'Olonne,La Rochelle,Time Trial,Fausto Coppi,ITA,202
+8,1949-07-08,262.0,La Rochelle,Bordeaux,Flat,Guy Lapébie,FRA,314
+9,1949-07-09,228.0,Bordeaux,San Sebastián,Flat,Louis Caput,FRA,493
+10,1949-07-10,192.0,San Sebastián,Pau,Flat,Fiorenzo Magni,ITA,219
+11,1949-07-12,193.0,Pau,Luchon,Mountain,Jean Robic,FRA,379
+12,1949-07-13,134.0,Luchon,Toulouse,Flat,Rik Van Steenbergen,BEL,716
+13,1949-07-14,289.0,Toulouse,Nîmes,Flat,Emile Idée,FRA,171
+14,1949-07-15,199.0,Nîmes,Marseille,Flat,Jean Goldschmidt,LUX,374
+15,1949-07-16,215.0,Marseille,Cannes,Flat,Désiré Keteleer,BEL,153
+16,1949-07-18,275.0,Cannes,Briançon,Mountain,Gino Bartali,ITA,288
+17,1949-07-19,257.0,Briançon,Aosta,Mountain,Fausto Coppi,ITA,202
+18,1949-07-21,265.0,Aosta,Lausanne,Mountain,Vincenzo Rossello,ITA,832
+19,1949-07-22,283.0,Lausanne,Colmar,Mountain,Raphaël Géminiani,FRA,689
+20,1949-07-23,137.0,Colmar,Nancy,Time Trial,Fausto Coppi,ITA,202
+21,1949-07-24,340.0,Nancy,Paris,Flat,Rik Van Steenbergen,BEL,716
+1,1948-06-30,237.0,Paris,Trouville,Flat,Gino Bartali,ITA,288
+2,1948-07-01,259.0,Trouville,Dinard,Flat,Vincenzo Rossello,ITA,832
+3,1948-07-02,251.0,Dinard,Nantes,Flat,Guy Lapébie,FRA,314
+4,1948-07-03,166.0,Nantes,La Rochelle,Flat,Jacques Pras,FRA,351
+5,1948-07-04,262.0,La Rochelle,Bordeaux,Flat,Raoul Remy,FRA,687
+6,1948-07-05,244.0,Bordeaux,Biarritz,Flat,Louison Bobet,FRA,500
+7,1948-07-07,219.0,Biarritz,Lourdes,Mountain,Gino Bartali,ITA,288
+8,1948-07-08,261.0,Lourdes,Toulouse,Mountain,Gino Bartali,ITA,288
+9,1948-07-10,246.0,Toulouse,Montpellier,Flat,Raymond Impanis,BEL,692
+10,1948-07-11,248.0,Montpellier,Marseille,Flat,Raymond Impanis,BEL,692
+11,1948-07-12,245.0,Marseille,Sanremo,Flat,Gino Sciardis,ITA,289
+12,1948-07-13,170.0,Sanremo,Cannes,Mountain,Louison Bobet,FRA,500
+13,1948-07-15,274.0,Cannes,Briançon,Mountain,Gino Bartali,ITA,288
+14,1948-07-16,263.0,Briançon,Aix-les-Bains,Mountain,Gino Bartali,ITA,288
+15,1948-07-18,256.0,Aix-les-Bains,Lausanne,Mountain,Gino Bartali,ITA,288
+16,1948-07-19,243.0,Lausanne,Mulhouse,Mountain,Edward Van Dijck,BEL,164
+17,1948-07-21,120.0,Mulhouse,Strasbourg,Time Trial,Roger Lambrecht,BEL,734
+18,1948-07-22,195.0,Strasbourg,Metz,Flat,Giovanni Corrieri,ITA,292
+19,1948-07-23,249.0,Metz,Liège,Flat,Gino Bartali,ITA,288
+20,1948-07-24,228.0,Liège,Roubaix,Flat,Bernard Gauthier,FRA,73
+21,1948-07-25,286.0,Roubaix,Paris,Flat,Giovanni Corrieri,ITA,292
+1,1947-06-25,236.0,Paris,Lille,Flat,Ferdinand Kübler,SUI,211
+2,1947-06-26,182.0,Lille,Brussels,Flat,René Vietto,FRA,710
+3,1947-06-27,314.0,Brussels,Luxembourg City,Flat,Aldo Ronconi,ITA,21
+4,1947-06-28,223.0,Luxembourg City,Strasbourg,Flat,Jean Robic,FRA,379
+5,1947-06-29,248.0,Strasbourg,Besançon,Flat,Ferdinand Kübler,SUI,211
+6,1947-07-01,249.0,Besançon,Lyon,Flat,Lucien Teisseire,FRA,510
+7,1947-07-02,172.0,Lyon,Grenoble,Mountain,Jean Robic,FRA,379
+8,1947-07-03,185.0,Grenoble,Briançon,Mountain,Fermo Camellini,ITA,213
+9,1947-07-05,217.0,Briançon,Digne,Mountain,René Vietto,FRA,710
+10,1947-07-06,255.0,Digne,Nice,Mountain,Fermo Camellini,ITA,213
+11,1947-07-08,230.0,Nice,Marseille,Flat,Édouard Fachleitner,FRA,860
+12,1947-07-09,165.0,Marseille,Montpellier,Flat,Henri Massal,FRA,326
+13,1947-07-10,172.0,Montpellier,Carcassonne,Flat,Lucien Teisseire,FRA,510
+14,1947-07-11,253.0,Carcassonne,Luchon,Mountain,Albert Bourlon,FRA,16
+15,1947-07-13,195.0,Luchon,Pau,Mountain,Jean Robic,FRA,379
+16,1947-07-14,195.0,Pau,Bordeaux,Flat,Giuseppe Tacca,ITA,299
+17,1947-07-15,272.0,Bordeaux,Les Sables-d'Olonne,Flat,Éloi Tassin,FRA,863
+18,1947-07-16,236.0,Les Sables-d'Olonne,Vannes,Flat,Pietro Tarchini,SUI,676
+19,1947-07-18,139.0,Vannes,Saint-Brieuc,Time Trial,Raymond Impanis,BEL,692
+20,1947-07-19,235.0,Saint-Brieuc,Caen,Flat,Maurice Diot,FRA,574
+21,1947-07-20,257.0,Caen,Paris,Flat,Briek Schotte,BEL,92
+1,1939-07-10,215.0,Paris,Caen,Flat,Amédée Fournier,FRA,35
+2a,1939-07-11,64.0,Caen,Vire,Time Trial,Romain Maes,BEL,748
+2b,1939-07-11,119.0,Vire,Rennes,Flat,Éloi Tassin,FRA,863
+3,1939-07-12,244.0,Rennes,Brest,Flat,Pierre Cloarec,FRA,663
+4,1939-07-13,174.0,Brest,Lorient,Flat,Raymond Louviot,FRA,693
+5,1939-07-14,207.0,Lorient,Nantes,Flat,Amédée Fournier,FRA,35
+6a,1939-07-15,144.0,Nantes,La Rochelle,Flat,Lucien Storme,BEL,509
+6b,1939-07-15,107.0,La Rochelle,Royan,Flat,Edmond Pagès,FRA,160
+7,1939-07-17,198.0,Royan,Bordeaux,Flat,Raymond Passat,FRA,696
+8a,1939-07-18,210.0,Bordeaux,Salies-de-Béarn,Flat,Marcel Kint,BEL,540
+8b,1939-07-18,69.0,Salies-de-Béarn,Pau,Time Trial,Karl Litschi,SUI,463
+9,1939-07-19,311.0,Pau,Toulouse,Mountain,Edward Vissers,BEL,165
+10a,1939-07-21,149.0,Toulouse,Narbonne,Flat,Pierre Jaminet,FRA,665
+10b,1939-07-21,27.0,Narbonne,Béziers,Time Trial,Maurice Archambaud,FRA,570
+10c,1939-07-21,70.0,Béziers,Montpellier,Flat,Maurice Archambaud,FRA,570
+11,1939-07-22,212.0,Montpellier,Marseille,Flat,Fabien Galateau,FRA,193
+12a,1939-07-23,157.0,Marseille,Saint-Raphaël,Flat,François Neuens,LUX,240
+12b,1939-07-23,122.0,Saint-Raphaël,Monaco,Flat,Maurice Archambaud,FRA,570
+13,1939-07-24,101.0,Monaco,Monaco,Mountain,Pierre Gallien,FRA,664
+14,1939-07-25,175.0,Monaco,Digne,Flat,Pierre Cloarec,FRA,663
+15,1939-07-26,219.0,Digne,Briançon,Mountain,Sylvère Maes,BEL,794
+16a,1939-07-27,126.0,Briançon,Briançon,Mountain,Pierre Jaminet,FRA,665
+16b,1939-07-27,64.0,Bonneval,Bourg-Saint-Maurice,Time Trial,Sylvère Maes,BEL,794
+16c,1939-07-27,104.0,Bourg-Saint-Maurice,Annecy,Flat,Antoon van Schendel,NED,52
+17a,1939-07-29,226.0,Annecy,Dôle,Mountain,François Neuens,LUX,240
+17b,1939-07-29,59.0,Dôle,Dijon,Time Trial,Maurice Archambaud,FRA,570
+18a,1939-07-30,151.0,Dijon,Troyes,Flat,René Le Grevès,FRA,704
+18b,1939-07-30,201.0,Troyes,Paris,Flat,Marcel Kint,BEL,540
+1,1938-07-05,215.0,Paris,Caen,Flat,Willi Oberbeck,GER,843
+2,1938-07-06,237.0,Caen,Saint-Brieuc,Flat,Jean Majerus,LUX,377
+3,1938-07-07,238.0,Saint-Brieuc,Nantes,Flat,Gerrit Schulte,NED,273
+4a,1938-07-08,62.0,Nantes,La Roche-sur-Yon,Flat,Éloi Meulenberg,BEL,862
+4b,1938-07-08,83.0,La Roche-sur-Yon,La Rochelle,Flat,Éloi Meulenberg,BEL,862
+4c,1938-07-08,83.0,La Rochelle,Royan,Flat,Félicien Vervaecke,BEL,249
+5,1938-07-10,198.0,Royan,Bordeaux,Flat,Éloi Meulenberg,BEL,862
+6a,1938-07-11,53.0,Bordeaux,Arcachon,Flat,Jules Rossi,ITA,450
+6b,1938-07-11,171.0,Arcachon,Bayonne,Flat,Glauco Servadei,ITA,300
+7,1938-07-12,115.0,Bayonne,Pau,Flat,Theo Middelkamp,NED,801
+8,1938-07-14,193.0,Pau,Luchon,Mountain,Félicien Vervaecke,BEL,249
+9,1938-07-16,260.0,Luchon,Perpignan,Mountain,Jean Fréchaut,FRA,372
+10a,1938-07-17,63.0,Perpignan,Narbonne,Flat,Antoon van Schendel,NED,52
+10b,1938-07-17,27.0,Narbonne,Béziers,Time Trial,Félicien Vervaecke,BEL,249
+10c,1938-07-17,73.0,Béziers,Montpellier,Flat,Antonin Magne,FRA,47
+11,1938-07-18,223.0,Montpellier,Marseille,Flat,Gino Bartali,ITA,288
+12,1938-07-19,199.0,Marseille,Cannes,Flat,Jean Fréchaut,FRA,372
+13,1938-07-21,284.0,Cannes,Digne,Mountain,Dante Gianello,FRA,134
+14,1938-07-22,219.0,Digne,Briançon,Mountain,Gino Bartali,ITA,288
+15,1938-07-23,311.0,Briançon,Aix-les-Bains,Mountain,Marcel Kint,BEL,540
+16,1938-07-25,284.0,Aix-les-Bains,Besançon,Mountain,Marcel Kint,BEL,540
+17a,1938-07-26,89.0,Besançon,Belfort,Flat,Émile Masson Jr.,BEL,866
+17b,1938-07-26,143.0,Belfort,Strasbourg,Flat,Jean Fréchaut,FRA,372
+18,1938-07-27,186.0,Strasbourg,Metz,Flat,Marcel Kint,BEL,540
+19,1938-07-28,196.0,Metz,Reims,Flat,Fabien Galateau,FRA,193
+20a,1938-07-30,48.0,Reims,Laon,Flat,Glauco Servadei,ITA,300
+20b,1938-07-30,42.0,Laon,Saint-Quentin,Time Trial,Félicien Vervaecke,BEL,249
+20c,1938-07-30,107.0,Saint-Quentin,Lille,Flat,François Neuville,BEL,241
+21,1938-07-31,279.0,Lille,Paris,Flat,Antonin Magne André Leducq,NA,48
+1,1937-06-30,263.0,Paris,Lille,Flat,Jean Majerus,LUX,377
+2,1937-07-01,192.0,Lille,Charleville,Flat,Maurice Archambaud,FRA,570
+3,1937-07-02,161.0,Charleville,Metz,Flat,Walter Generati,ITA,836
+4,1937-07-03,220.0,Metz,Belfort,Mountain,Erich Bautz,GER,179
+5a,1937-07-04,175.0,Belfort,Lons-le-Saunier,Flat,Henri Puppo,FRA,328
+5b,1937-07-04,34.0,Lons-le-Saunier,Champagnole,Time Trial,Sylvère Maes,BEL,794
+5c,1937-07-04,93.0,Champagnole,Geneva,Flat,Leo Amberg,SUI,482
+6,1937-07-06,180.0,Geneva,Aix-les-Bains,Mountain,Gustaaf Deloor,BEL,310
+7,1937-07-07,228.0,Aix-les-Bains,Grenoble,Mountain,Gino Bartali,ITA,288
+8,1937-07-08,194.0,Grenoble,Briançon,Mountain,Otto Weckerling,GER,628
+9,1937-07-09,220.0,Briançon,Digne,Mountain,Roger Lapébie,FRA,735
+10,1937-07-11,251.0,Digne,Nice,Mountain,Félicien Vervaecke,BEL,249
+11a,1937-07-13,169.0,Nice,Toulon,Flat,Eloi Meulenberg,BEL,167
+11b,1937-07-13,65.0,Toulon,Marseille,Time Trial,Gustaaf Danneels,BEL,309
+12a,1937-07-14,112.0,Marseille,Nîmes,Flat,Alphonse Antoine,FRA,33
+12b,1937-07-14,51.0,Nîmes,Montpellier,Flat,René Pedroli,SUI,707
+13a,1937-07-15,103.0,Montpellier,Narbonne,Flat,Francesco Camusso,ITA,224
+13b,1937-07-15,63.0,Narbonne,Perpignan,Flat,Eloi Meulenberg,BEL,167
+14a,1937-07-17,99.0,Perpignan,Bourg-Madame,Flat,Eloi Meulenberg,BEL,167
+14b,1937-07-17,59.0,Bourg-Madame,Ax-les-Thermes,Mountain,Mariano Canardo,ESP,549
+14c,1937-07-17,167.0,Ax-les-Thermes,Luchon,Mountain,Eloi Meulenberg,BEL,167
+15,1937-07-19,194.0,Luchon,Pau,Mountain,Julian Berrendero,ESP,451
+16,1937-07-21,235.0,Pau,Bordeaux,Flat,Paul Chocque,FRA,641
+17a,1937-07-22,123.0,Bordeaux,Royan,Flat,Erich Bautz,GER,179
+17b,1937-07-22,37.0,Royan,Saintes,Flat,Adolph Braeckeveldt Heinz Wengler,NA,6
+17c,1937-07-22,67.0,Saintes,La Rochelle,Flat,Roger Lapébie,FRA,735
+18a,1937-07-23,82.0,La Rochelle,La Roche-sur-Yon,Time Trial,Roger Lapébie,FRA,735
+18b,1937-07-23,172.0,La Roche-sur-Yon,Rennes,Flat,Paul Chocque,FRA,641
+19a,1937-07-24,114.0,Rennes,Vire,Flat,Raymond Passat,FRA,696
+19b,1937-07-24,59.0,Vire,Caen,Time Trial,Leo Amberg,SUI,482
+20,1937-07-25,234.0,Caen,Paris,Flat,Edward Vissers,BEL,165
+1,1936-07-07,258.0,Paris,Lille,Flat,Paul Egli,SUI,643
+2,1936-07-08,192.0,Lille,Charleville,Flat,Robert Wierinckx,BEL,728
+3,1936-07-09,161.0,Charleville,Metz,Flat,Mathias Clemens,LUX,565
+4,1936-07-10,220.0,Metz,Belfort,Mountain,Maurice Archambaud,FRA,570
+5,1936-07-11,298.0,Belfort,Évian-les-Bains,Flat,René Le Grèves,FRA,705
+6,1936-07-13,212.0,Évian-les-Bains,Aix-les-Bains,Mountain,Éloi Meulenberg,BEL,862
+7,1936-07-14,230.0,Aix-les-Bains,Grenoble,Mountain,Theo Middelkamp,NED,801
+8,1936-07-15,194.0,Grenoble,Briançon,Mountain,Jean-Marie Goasmat,FRA,387
+9,1936-07-16,220.0,Briançon,Digne,Mountain,Léon Level,FRA,522
+10,1936-07-18,156.0,Digne,Nice,Flat,Paul Maye,FRA,646
+11,1936-07-19,126.0,Nice,Cannes,Mountain,Federico Ezquerra,ESP,205
+12,1936-07-21,195.0,Cannes,Marseille,Flat,René Le Grevès,FRA,704
+13a,1936-07-22,112.0,Marseille,Nîmes,Flat,René Le Grevès,FRA,704
+13b,1936-07-22,52.0,Nîmes,Montpellier,Time Trial,Sylvère Maes,BEL,794
+14a,1936-07-23,103.0,Montpellier,Narbonne,Flat,René Le Grevès,FRA,704
+14b,1936-07-23,63.0,Narbonne,Perpignan,Time Trial,Sylvère Maes,BEL,794
+15,1936-07-25,325.0,Perpignan,Luchon,Mountain,Sauveur Ducazeaux,FRA,766
+16,1936-07-27,194.0,Luchon,Pau,Mountain,Sylvère Maes,BEL,794
+17,1936-07-29,229.0,Pau,Bordeaux,Flat,René Le Grevès,FRA,704
+18a,1936-07-30,117.0,Bordeaux,Saintes,Flat,Éloi Meulenberg,BEL,862
+18b,1936-07-30,75.0,Saintes,La Rochelle,Time Trial,Sylvère Maes,BEL,794
+19a,1936-07-31,81.0,La Rochelle,La Roche-sur-Yon,Flat,Marcel Kint,BEL,540
+19b,1936-07-31,65.0,La Roche-sur-Yon,Cholet,Time Trial,Félicien Vervaecke,BEL,249
+19c,1936-07-31,67.0,Cholet,Angers,Flat,Paul Maye,FRA,646
+20a,1936-08-01,204.0,Angers,Vire,Flat,René Le Grevès,FRA,704
+20b,1936-08-01,55.0,Vire,Caen,Time Trial,Antonin Magne,FRA,47
+21,1936-08-02,234.0,Caen,Paris,Flat,Arsène Mersch,LUX,59
+1,1935-07-04,262.0,Paris,Lille,Flat,Romain Maes,BEL,748
+2,1935-07-05,192.0,Lille,Charleville,Flat,Charles Pélissier,FRA,104
+3,1935-07-06,161.0,Charleville,Metz,Flat,Rafaele di Paco,ITA,683
+4,1935-07-07,220.0,Metz,Belfort,Mountain,Jean Aerts,BEL,364
+5a,1935-07-08,262.0,Belfort,"Geneva, Switzerland",Flat,Maurice Archambaud,FRA,570
+5b,1935-07-08,58.0,Geneva,Evian,Time Trial,Rafaele di Paco,ITA,683
+6,1935-07-10,207.0,Evian,Aix-les-Bains,Mountain,René Vietto,FRA,710
+7,1935-07-11,229.0,Aix-les-Bains,Grenoble,Mountain,Francesco Camusso,ITA,224
+8,1935-07-12,102.0,Grenoble,Gap,Mountain,Jean Aerts,BEL,364
+9,1935-07-13,227.0,Gap,Digne,Mountain,René Vietto,FRA,710
+10,1935-07-14,156.0,Digne,Nice,Flat,Jean Aerts,BEL,364
+11,1935-07-16,126.0,Nice,Cannes,Mountain,Romain Maes,BEL,748
+12,1935-07-17,195.0,Cannes,Marseille,Flat,Charles Pélissier,FRA,104
+13a,1935-07-18,112.0,Marseille,Nîmes,Flat,Vasco Bergamaschi,ITA,823
+13b,1935-07-18,56.0,Nîmes,Montpellier,Time Trial,Georges Speicher,FRA,266
+14a,1935-07-19,103.0,Montpellier,Narbonne,Flat,René Le Grevès,FRA,704
+14b,1935-07-19,63.0,Narbonne,Perpignan,Time Trial,Maurice Archambaud,FRA,570
+15,1935-07-20,325.0,Perpignan,Luchon,Mountain,Sylvère Maes,BEL,794
+16,1935-07-22,194.0,Luchon,Pau,Mountain,Ambrogio Morelli,ITA,34
+17,1935-07-24,224.0,Pau,Bordeaux,Flat,Julien Moineau,FRA,453
+18a,1935-07-25,158.0,Bordeaux,Rochefort,Flat,René Le Grevès,FRA,704
+18b,1935-07-25,33.0,Rochefort,La Rochelle,Time Trial,André Leducq,FRA,43
+19a,1935-07-26,81.0,La Rochelle,La Roche sur Yon,Flat,René Le Grevès,FRA,704
+19b,1935-07-26,95.0,La Roche sur Yon,Nantes,Time Trial,Jean Aerts,BEL,364
+20a,1935-07-27,220.0,Nantes,Vire,Flat,René Le Grevès,FRA,704
+20b,1935-07-27,55.0,Vire,Caen,Time Trial,Ambrogio Morelli,ITA,34
+21,1935-07-28,221.0,Caen,Paris,Flat,Romain Maes,BEL,748
+1,1934-07-03,262.0,Paris,Lille,Flat,Georges Speicher,FRA,266
+2,1934-07-04,192.0,Lille,Charleville,Flat,René Le Grevès,FRA,704
+3,1934-07-05,161.0,Charleville,Metz,Flat,Roger Lapébie,FRA,735
+4,1934-07-06,220.0,Metz,Belfort,Mountain,Roger Lapébie,FRA,735
+5,1934-07-07,293.0,Belfort,Evian,Flat,Other,NA,626
+6,1934-07-09,207.0,Evian,Aix-les-Bains,Mountain,Georges Speicher,FRA,266
+7,1934-07-10,229.0,Aix-les-Bains,Grenoble,Mountain,René Vietto,FRA,710
+8,1934-07-11,102.0,Grenoble,Gap,Mountain,Giuseppe Martano,ITA,298
+9,1934-07-12,227.0,Gap,Digne,Mountain,René Vietto,FRA,710
+10,1934-07-13,156.0,Digne,Nice,Flat,René Le Grevès,FRA,704
+11,1934-07-15,126.0,Nice,Cannes,Mountain,René Vietto,FRA,710
+12,1934-07-16,195.0,Cannes,Marseille,Flat,Roger Lapébie,FRA,735
+13,1934-07-17,172.0,Marseille,Montpellier,Flat,Georges Speicher,FRA,266
+14,1934-07-18,177.0,Montpellier,Perpignan,Flat,Roger Lapébie,FRA,735
+15,1934-07-20,158.0,Perpignan,Ax-les-Thermes,Flat,Roger Lapébie,FRA,735
+16,1934-07-21,165.0,Ax-les-Thermes,Luchon,Mountain,Adriano Vignoli,ITA,9
+17,1934-07-22,91.0,Luchon,Tarbes,Mountain,Antonin Magne,FRA,47
+18,1934-07-23,172.0,Tarbes,Pau,Mountain,René Vietto,FRA,710
+19,1934-07-25,215.0,Pau,Bordeaux,Flat,Ettore Meini,ITA,188
+20,1934-07-26,183.0,Bordeaux,La Rochelle,Flat,Georges Speicher,FRA,266
+21a,1934-07-27,81.0,La Rochelle,La Roche sur Yon,Flat,René Le Grevès,FRA,704
+21b,1934-07-27,90.0,La Roche sur Yon,Nantes,Time Trial,Antonin Magne,FRA,47
+22,1934-07-28,275.0,Nantes,Caen,Flat,Raymond Louviot,FRA,693
+23,1934-07-29,221.0,Caen,Paris,Flat,Sylvère Maes,BEL,794
+1,1933-06-27,262.0,Paris,Lille,Flat,Maurice Archambaud,FRA,570
+2,1933-06-28,192.0,Lille,Charleville,Flat,Learco Guerra,ITA,481
+3,1933-06-29,166.0,Charleville,Metz,Flat,Alfons Schepers,BEL,29
+4,1933-06-30,220.0,Metz,Belfort,Mountain,Jean Aerts,BEL,364
+5,1933-07-01,293.0,Belfort,Evian,Mountain,Léon Louyet,BEL,523
+6,1933-07-03,207.0,Evian,Aix-les-Bains,Mountain,Learco Guerra,ITA,481
+7,1933-07-04,229.0,Aix-les-Bains,Grenoble,Mountain,Learco Guerra,ITA,481
+8,1933-07-05,102.0,Grenoble,Gap,Mountain,Georges Speicher,FRA,266
+9,1933-07-06,227.0,Gap,Digne,Mountain,Georges Speicher,FRA,266
+10,1933-07-07,156.0,Digne,Nice,Flat,Fernand Cornez,FRA,214
+11,1933-07-09,128.0,Nice,Cannes,Mountain,Maurice Archambaud,FRA,570
+12,1933-07-10,208.0,Cannes,Marseille,Flat,Georges Speicher,FRA,266
+13,1933-07-11,168.0,Marseille,Montpellier,Flat,André Leducq,FRA,43
+14,1933-07-12,166.0,Montpellier,Perpignan,Flat,André Leducq,FRA,43
+15,1933-07-14,158.0,Perpignan,Ax-les-Thermes,Mountain,Jean Aerts,BEL,364
+16,1933-07-15,165.0,Ax-les-Thermes,Luchon,Mountain,Léon Louyet,BEL,523
+17,1933-07-16,91.0,Luchon,Tarbes,Mountain,Jean Aerts,BEL,364
+18,1933-07-17,185.0,Tarbes,Pau,Mountain,Learco Guerra,ITA,481
+19,1933-07-19,233.0,Pau,Bordeaux,Flat,Jean Aerts,BEL,364
+20,1933-07-20,183.0,Bordeaux,La Rochelle,Flat,Jean Aerts,BEL,364
+21,1933-07-21,266.0,La Rochelle,Rennes,Flat,Jean Aerts,BEL,364
+22,1933-07-22,169.0,Rennes,Caen,Flat,René Le Grevès,FRA,704
+23,1933-07-23,222.0,Caen,Paris,Flat,Learco Guerra,ITA,481
+1,1932-07-06,208.0,Paris,Caen,Flat,Jean Aerts,BEL,364
+2,1932-07-07,300.0,Caen,Nantes,Flat,Kurt Stöpel,GER,471
+3,1932-07-09,387.0,Nantes,Bordeaux,Flat,André Leducq,FRA,43
+4,1932-07-11,206.0,Bordeaux,Pau,Flat,Georges Ronsse,BEL,265
+5,1932-07-12,229.0,Pau,Luchon,Mountain,Antonio Pesenti,ITA,51
+6,1932-07-14,322.0,Luchon,Perpignan,Mountain,Frans Bonduel,BEL,234
+7,1932-07-16,168.0,Perpignan,Montpellier,Flat,Frans Bonduel,BEL,234
+8,1932-07-17,206.0,Montpellier,Marseille,Flat,Michele Orecchia,ITA,594
+9,1932-07-18,191.0,Marseille,Cannes,Flat,Rafaele di Paco,ITA,683
+10,1932-07-19,132.0,Cannes,Nice,Mountain,Francesco Camusso,ITA,224
+11,1932-07-21,233.0,Nice,Gap,Mountain,André Leducq,FRA,43
+12,1932-07-22,102.0,Gap,Grenoble,Mountain,Roger Lapébie,FRA,735
+13,1932-07-23,230.0,Grenoble,Aix-les-Bains,Mountain,André Leducq,FRA,43
+14,1932-07-24,204.0,Aix-les-Bains,Evian,Mountain,Rafaele di Paco,ITA,683
+15,1932-07-25,291.0,Evian,Belfort,Mountain,André Leducq,FRA,43
+16,1932-07-26,145.0,Belfort,Strasbourg,Flat,Gérard Loncke,BEL,315
+17,1932-07-27,165.0,Strasbourg,Metz,Flat,Rafaele di Paco,ITA,683
+18,1932-07-28,159.0,Metz,Charleville,Flat,Rafaele di Paco,ITA,683
+19,1932-07-29,271.0,Charleville,Malo-les-Bains,Flat,Gaston Rebry,BEL,255
+20,1932-07-30,212.0,Malo-les-Bains,Amiens,Flat,André Leducq,FRA,43
+21,1932-07-31,159.0,Amiens,Paris,Flat,André Leducq,FRA,43
+1,1931-06-30,208.0,Paris,Caen,Flat,Alfred Haemerlinck,BEL,30
+2,1931-07-01,212.0,Caen,Dinan,Flat,Max Bulla,AUT,582
+3,1931-07-02,206.0,Dinan,Brest,Flat,Fabio Battesini,ITA,196
+4,1931-07-03,211.0,Brest,Vannes,Flat,André Godinat,FRA,40
+5,1931-07-04,202.0,Vannes,Les Sables d'Olonne,Flat,Charles Pélissier,FRA,104
+6,1931-07-05,338.0,Les Sables d'Olonne,Bordeaux,Flat,Alfred Haemerlinck,BEL,30
+7,1931-07-06,180.0,Bordeaux,Bayonne,Flat,Gérard Loncke,BEL,315
+8,1931-07-07,106.0,Bayonne,Pau,Flat,Charles Pélissier,FRA,104
+9,1931-07-08,231.0,Pau,Luchon,Mountain,Antonin Magne,FRA,47
+10,1931-07-10,322.0,Luchon,Perpignan,Mountain,Rafaele di Paco,ITA,683
+11,1931-07-12,164.0,Perpignan,Montpellier,Flat,Rafaele di Paco,ITA,683
+12,1931-07-13,207.0,Montpellier,Marseille,Flat,Max Bulla,AUT,582
+13,1931-07-14,181.0,Marseille,Cannes,Flat,Charles Pélissier,FRA,104
+14,1931-07-15,132.0,Cannes,Nice,Mountain,Eugenio Gestri,ITA,189
+15,1931-07-17,233.0,Nice,Gap,Mountain,Jef Demuysere,BEL,393
+16,1931-07-18,102.0,Gap,Grenoble,Mountain,Charles Pélissier,FRA,104
+17,1931-07-19,230.0,Grenoble,Aix-les-Bains,Mountain,Max Bulla,AUT,582
+18,1931-07-20,204.0,Aix-les-Bains,Evian,Mountain,Jef Demuysere,BEL,393
+19,1931-07-21,282.0,Evian,Belfort,Mountain,Rafaele di Paco,ITA,683
+20,1931-07-22,209.0,Belfort,Colmar,Mountain,André Leducq,FRA,43
+21,1931-07-23,192.0,Colmar,Metz,Flat,Rafaele di Paco,ITA,683
+22,1931-07-24,159.0,Metz,Charleville,Flat,Raffaele di Paco,ITA,685
+23,1931-07-25,271.0,Charleville,Malo-les-Bains,Flat,Gaston Rebry,BEL,255
+24,1931-07-26,313.0,Malo-les-Bains,Paris,Flat,Charles Pélissier,FRA,104
+1,1930-07-02,206.0,Paris,Caen,Flat,Charles Pélissier,FRA,104
+2,1930-07-03,203.0,Caen,Dinan,Flat,Learco Guerra,ITA,481
+3,1930-07-04,206.0,Dinan,Brest,Flat,Charles Pélissier,FRA,104
+4,1930-07-05,210.0,Brest,Vannes,Flat,Omer Taverne,BEL,623
+5,1930-07-06,202.0,Vannes,Les Sables d'Olonne,Flat,André Leducq,FRA,43
+6,1930-07-07,285.0,Les Sables d'Olonne,Bordeaux,Flat,Jean Aerts,BEL,364
+7,1930-07-08,222.0,Bordeaux,Hendaye,Flat,Jules Merviel,FRA,449
+8,1930-07-09,146.0,Hendaye,Pau,Flat,Alfredo Binda,ITA,31
+9,1930-07-10,231.0,Pau,Luchon,Mountain,Alfredo Binda,ITA,31
+10,1930-07-12,322.0,Luchon,Perpignan,Mountain,Charles Pélissier,FRA,104
+11,1930-07-14,164.0,Perpignan,Montpellier,Flat,Charles Pélissier,FRA,104
+12,1930-07-15,209.0,Montpellier,Marseille,Flat,Antonin Magne,FRA,47
+13,1930-07-16,181.0,Marseille,Cannes,Flat,Learco Guerra,ITA,481
+14,1930-07-17,132.0,Cannes,Nice,Mountain,Louis Peglion,FRA,497
+15,1930-07-19,333.0,Nice,Grenoble,Mountain,Learco Guerra,ITA,481
+16,1930-07-21,331.0,Grenoble,Evian,Mountain,André Leducq,FRA,43
+17,1930-07-23,282.0,Evian,Belfort,Mountain,Frans Bonduel,BEL,234
+18,1930-07-24,223.0,Belfort,Metz,Flat,Charles Pélissier,FRA,104
+19,1930-07-25,159.0,Metz,Charleville,Flat,Charles Pélissier,FRA,104
+20,1930-07-26,271.0,Charleville,Malo-les-Bains,Flat,Charles Pélissier,FRA,104
+21,1930-07-27,300.0,Malo-les-Bains,Paris,Flat,Charles Pélissier,FRA,104
+1,1929-06-30,206.0,Paris,Caen,Flat,Aimé Dossche,BEL,12
+2,1929-07-01,140.0,Caen,Cherbourg,Flat,André Leducq,FRA,43
+3,1929-07-02,199.0,Cherbourg,Dinan,Flat,Omer Taverne,BEL,623
+4,1929-07-03,206.0,Dinan,Brest,Flat,Louis Delannoy,BEL,494
+5,1929-07-04,208.0,Brest,Vannes,Flat,Gustaaf van Slembrouck,BEL,311
+6,1929-07-05,206.0,Vannes,Les Sables d'Olonne,Flat,Paul Le Drogo,FRA,644
+7,1929-07-06,285.0,Les Sables d'Olonne,Bordeaux,Flat,Nicolas Frantz,LUX,612
+8,1929-07-07,182.0,Bordeaux,Bayonne,Flat,Julien Moineau,FRA,453
+9,1929-07-09,363.0,Bayonne,Luchon,Mountain,Salvador Cardona,ESP,760
+10,1929-07-11,323.0,Luchon,Perpignan,Mountain,Jef Demuysere,BEL,393
+11,1929-07-13,366.0,Perpignan,Marseille,Flat,André Leducq,FRA,43
+12,1929-07-15,191.0,Marseille,Cannes,Time Trial,Marcel Bidot,FRA,533
+13,1929-07-16,133.0,Cannes,Nice,Mountain,Benoît Fauré,FRA,72
+14,1929-07-18,333.0,Nice,Grenoble,Mountain,Gaston Rebry,BEL,255
+15,1929-07-20,329.0,Grenoble,Evian,Mountain,Julien Vervaecke,BEL,456
+16,1929-07-22,283.0,Evian,Belfort,Mountain,Charles Pélissier,FRA,104
+17,1929-07-23,145.0,Belfort,Strasbourg,Flat,André Leducq,FRA,43
+18,1929-07-24,165.0,Strasbourg,Metz,Flat,André Leducq,FRA,43
+19,1929-07-25,159.0,Metz,Charleville,Time Trial,Bernard van Rysselberghe,BEL,82
+20,1929-07-26,270.0,Charleville,Malo-les-Bains,Time Trial,Maurice Dewaele,BEL,573
+21,1929-07-27,234.0,Malo-les-Bains,Dieppe,Flat,André Leducq,FRA,43
+22,1929-07-28,332.0,Dieppe,Paris,Flat,Nicolas Frantz,LUX,612
+1,1928-06-17,207.0,Paris,Caen,Time Trial,Nicolas Frantz,LUX,612
+2,1928-06-18,140.0,Caen,Cherbourg,Time Trial,André Leducq,FRA,43
+3,1928-06-19,199.0,Cherbourg,Dinan,Time Trial,Gaston Rebry,BEL,255
+4,1928-06-20,206.0,Dinan,Brest,Time Trial,Pé Verhaegen,BEL,682
+5,1928-06-21,208.0,Brest,Vannes,Time Trial,Marcel Bidot,FRA,533
+6,1928-06-22,204.0,Vannes,Les Sables d'Olonne,Time Trial,Nicolas Frantz,LUX,612
+7,1928-06-23,285.0,Les Sables d'Olonne,Bordeaux,Time Trial,Victor Fontan,FRA,829
+8,1928-06-24,225.0,Bordeaux,Hendaye,Time Trial,Maurice Dewaele,BEL,573
+9,1928-06-26,387.0,Hendaye,Luchon,Mountain,Victor Fontan,FRA,829
+10,1928-06-28,323.0,Luchon,Perpignan,Mountain,André Leducq,FRA,43
+11,1928-06-30,363.0,Perpignan,Marseille,Flat,André Leducq,FRA,43
+12,1928-07-02,330.0,Marseille,Nice,Mountain,Nicolas Frantz,LUX,612
+13,1928-07-04,333.0,Nice,Grenoble,Mountain,Antonin Magne,FRA,47
+14,1928-07-06,329.0,Grenoble,Evian,Mountain,Julien Moineau,FRA,453
+15,1928-07-08,213.0,Evian,Pontarlier,Time Trial,Pierre Magne,FRA,667
+16,1928-07-09,119.0,Pontarlier,Belfort,Time Trial,André Leducq,FRA,43
+17,1928-07-10,145.0,Belfort,Strasbourg,Time Trial,Joseph Mauclair,FRA,423
+18,1928-07-11,165.0,Strasbourg,Metz,Time Trial,Nicolas Frantz,LUX,612
+19,1928-07-12,159.0,Metz,Charleville,Time Trial,Marcel Huot,FRA,538
+20,1928-07-13,271.0,Charleville,Malo-les-Bains,Time Trial,Maurice Dewaele,BEL,573
+21,1928-07-14,234.0,Malo-les-Bains,Dieppe,Time Trial,Antonin Magne,FRA,47
+22,1928-07-15,331.0,Dieppe,Paris,Flat,Nicolas Frantz,LUX,612
+1,1927-06-19,180.0,Paris,Dieppe,Time Trial,Francis Pélissier,FRA,228
+2,1927-06-20,103.0,Dieppe,Le Havre,Time Trial,Maurice Dewaele,BEL,573
+3,1927-06-21,225.0,Le Havre,Caen,Time Trial,Hector Martin,BEL,318
+4,1927-06-22,140.0,Caen,Cherbourg,Time Trial,Camille van de Casteele,BEL,96
+5,1927-06-23,199.0,Cherbourg,Dinan,Time Trial,Ferdinand Le Drogo,FRA,212
+6,1927-06-24,206.0,Dinan,Brest,Time Trial,André Leducq,FRA,43
+7,1927-06-25,207.0,Brest,Vannes,Time Trial,Gustaaf van Slembrouck,BEL,311
+8,1927-06-26,204.0,Vannes,Les Sables d'Olonne,Time Trial,Raymond Decorte,BEL,690
+9,1927-06-27,285.0,Les Sables d'Olonne,Bordeaux,Time Trial,Adelin Benoit,BEL,3
+10,1927-06-28,189.0,Bordeaux,Bayonne,Flat,Pé Verhaegen,BEL,682
+11,1927-06-30,326.0,Bayonne,Luchon,Mountain,Nicolas Frantz,LUX,612
+12,1927-07-02,323.0,Luchon,Perpignan,Mountain,Gustaaf van Slembrouck,BEL,311
+13,1927-07-04,360.0,Perpignan,Marseille,Flat,Maurice Dewaele,BEL,573
+14,1927-07-05,120.0,Marseille,Toulon,Time Trial,Antonin Magne,FRA,47
+15,1927-07-06,220.0,Toulon,Nice,Mountain,Nicolas Frantz,LUX,612
+16,1927-07-08,275.0,Nice,Briançon,Mountain,Julien Vervaecke,BEL,456
+17,1927-07-09,283.0,Briançon,Evian,Mountain,Pé Verhaegen,BEL,682
+18,1927-07-11,213.0,Evian,Pontarlier,Time Trial,Adelin Benoit,BEL,3
+19,1927-07-12,119.0,Pontarlier,Belfort,Time Trial,Maurice Geldhof,BEL,576
+20,1927-07-13,145.0,Belfort,Strasbourg,Time Trial,Raymond Decorte,BEL,690
+21,1927-07-14,165.0,Strasbourg,Metz,Time Trial,Nicolas Frantz,LUX,612
+22,1927-07-15,159.0,Metz,Charleville,Time Trial,Hector Martin,BEL,318
+23,1927-07-16,270.0,Charleville,Dunkerque,Time Trial,André Leducq,FRA,43
+24,1927-07-17,344.0,Dunkerque,Paris,Flat,André Leducq,FRA,43
+1,1926-06-20,373.0,Evian,Mülhausen,Flat,Jules Buysse,BEL,447
+2,1926-06-22,334.0,Mülhausen,Metz,Flat,Aimé Dossche,BEL,12
+3,1926-06-24,433.0,Metz,Dunkerque,Flat,Gustaaf van Slembrouck,BEL,311
+4,1926-06-26,361.0,Dunkerque,Le Havre,Flat,Félix Sellier,BEL,252
+5,1926-06-28,357.0,Le Havre,Cherbourg,Flat,Adelin Benoit,BEL,3
+6,1926-06-30,405.0,Cherbourg,Brest,Flat,Joseph van Dam,BEL,427
+7,1926-07-02,412.0,Brest,Les Sables d'Olonne,Flat,Nicolas Frantz,LUX,612
+8,1926-07-03,285.0,Les Sables d'Olonne,Bordeaux,Flat,Joseph van Dam,BEL,427
+9,1926-07-04,189.0,Bordeaux,Bayonne,Flat,Nicolas Frantz,LUX,612
+10,1926-07-06,326.0,Bayonne,Luchon,Mountain,Lucien Buysse,BEL,505
+11,1926-07-08,323.0,Luchon,Perpignan,Mountain,Lucien Buysse,BEL,505
+12,1926-07-10,427.0,Perpignan,Toulon,Flat,Nicolas Frantz,LUX,612
+13,1926-07-12,280.0,Toulon,Nice,Flat,Nicolas Frantz,LUX,612
+14,1926-07-14,275.0,Nice,Briançon,Mountain,Bartolomeo Aimo,ITA,66
+15,1926-07-16,303.0,Briançon,Evian,Mountain,Joseph van Dam,BEL,427
+16,1926-07-17,321.0,Evian,Dijon,Flat,Camille van de Casteele,BEL,96
+17,1926-07-18,341.0,Dijon,Paris,Flat,Aimé Dossche,BEL,12
+1,1925-06-21,340.0,Paris,Le Havre,Flat,Ottavio Bottecchia,ITA,627
+2,1925-06-23,371.0,Le Havre,Cherbourg,Flat,Romain Bellenger,FRA,747
+3,1925-06-25,405.0,Cherbourg,Brest,Flat,Louis Mottiat,BEL,496
+4,1925-06-26,208.0,Brest,Vannes,Flat,Nicolas Frantz,LUX,612
+5,1925-06-27,204.0,Vannes,Les Sables-d'Olonne,Flat,Nicolas Frantz,LUX,612
+6,1925-06-28,293.0,Les Sables-d'Olonne,Bordeaux,Flat,Ottavio Bottecchia,ITA,627
+7,1925-06-29,189.0,Bordeaux,Bayonne,Flat,Ottavio Bottecchia,ITA,627
+8,1925-07-01,326.0,Bayonne,Luchon,Mountain,Adelin Benoît,BEL,4
+9,1925-07-03,323.0,Luchon,Perpignan,Mountain,Nicolas Frantz,LUX,612
+10,1925-07-04,215.0,Perpignan,Nîmes,Flat,Theophile Beeckman,BEL,803
+11,1925-07-05,215.0,Nîmes,Toulon,Flat,Lucien Buysse,BEL,505
+12,1925-07-07,280.0,Toulon,Nice,Mountain,Lucien Buysse,BEL,505
+13,1925-07-09,275.0,Nice,Briançon,Mountain,Bartolomeo Aimo,ITA,66
+14,1925-07-11,303.0,Briançon,Evian,Mountain,Hector Martin,BEL,318
+15,1925-07-13,373.0,Evian,Mulhouse,Mountain,Nicolas Frantz,LUX,612
+16,1925-07-15,334.0,Mulhouse,Metz,Flat,Hector Martin,BEL,318
+17,1925-07-17,433.0,Metz,Dunkerque,Flat,Hector Martin,BEL,318
+18,1925-07-19,343.0,Dunkerque,Paris,Flat,Ottavio Bottecchia,ITA,627
+1,1924-06-22,381.0,Paris,Le Havre,Flat,Ottavio Bottecchia,ITA,627
+2,1924-06-24,371.0,Le Havre,Cherbourg,Flat,Romain Bellenger,FRA,747
+3,1924-06-26,405.0,Cherbourg,Brest,Flat,Other,NA,626
+4,1924-06-28,412.0,Brest,Les Sables-d'Olonne,Flat,Félix Goethals,FRA,251
+5,1924-06-30,482.0,Les Sables-d'Olonne,Bayonne,Flat,Omer Huyse,BEL,622
+6,1924-07-02,326.0,Bayonne,Luchon,Mountain,Ottavio Bottecchia,ITA,627
+7,1924-07-04,323.0,Luchon,Perpignan,Mountain,Ottavio Bottecchia,ITA,627
+8,1924-07-06,427.0,Perpignan,Toulon,Flat,Louis Mottiat,BEL,496
+9,1924-07-08,280.0,Toulon,Nice,Mountain,Philippe Thys,BEL,660
+10,1924-07-10,275.0,Nice,Briançon,Mountain,Giovanni Brunero,ITA,291
+11,1924-07-12,307.0,Briançon,Gex,Mountain,Nicolas Frantz,LUX,612
+12,1924-07-14,360.0,Gex,Strasbourg,Mountain,Nicolas Frantz,LUX,612
+13,1924-07-16,300.0,Strasbourg,Metz,Flat,Arsène Alancourt,FRA,58
+14,1924-07-18,433.0,Metz,Dunkerque,Flat,Romain Bellenger,FRA,747
+15,1924-07-20,343.0,Dunkerque,Paris,Flat,Ottavio Bottecchia,ITA,627
+1,1923-06-24,381.0,Paris,Le Havre,Flat,Robert Jacquinot,FRA,725
+2,1923-06-26,371.0,Le Havre,Cherbourg,Flat,Ottavio Bottecchia,ITA,627
+3,1923-06-28,405.0,Cherbourg,Brest,Flat,Henri Pélissier,FRA,329
+4,1923-06-30,412.0,Brest,Les Sables d'Olonne,Flat,Albert Dejonghe,BEL,17
+5,1923-07-02,482.0,Les Sables d'Olonne,Bayonne,Flat,Robert Jacquinot,FRA,725
+6,1923-07-04,326.0,Bayonne,Luchon,Mountain,Jean Alavoine,FRA,365
+7,1923-07-06,323.0,Luchon,Perpignan,Mountain,Jean Alavoine,FRA,365
+8,1923-07-08,427.0,Perpignan,Toulon,Flat,Lucien Buysse,BEL,505
+9,1923-07-10,281.0,Toulon,Nice,Mountain,Jean Alavoine,FRA,365
+10,1923-07-12,275.0,Nice,Briançon,Mountain,Henri Pélissier,FRA,329
+11,1923-07-14,260.0,Briançon,Geneva,Mountain,Henri Pélissier,FRA,329
+12,1923-07-16,377.0,Geneva,Strasbourg,Flat,Joseph Muller,FRA,425
+13,1923-07-18,300.0,Strasbourg,Metz,Flat,Romain Bellenger,FRA,747
+14,1923-07-20,433.0,Metz,Dunkerque,Flat,Félix Goethals,FRA,251
+15,1923-07-22,343.0,Dunkerque,Paris,Flat,Félix Goethals,FRA,251
+1,1922-06-25,388.0,Paris,Le Havre,Flat,Robert Jacquinot,FRA,725
+2,1922-06-27,364.0,Le Havre,Cherbourg,Flat,Romain Bellenger,FRA,747
+3,1922-06-29,405.0,Cherbourg,Brest,Flat,Robert Jacquinot,FRA,725
+4,1922-07-01,412.0,Brest,Les Sables d'Olonne,Flat,Philippe Thys,BEL,660
+5,1922-07-03,482.0,Les Sables d'Olonne,Bayonne,Flat,Jean Alavoine,FRA,365
+6,1922-07-05,326.0,Bayonne,Luchon,Mountain,Jean Alavoine,FRA,365
+7,1922-07-07,323.0,Luchon,Perpignan,Mountain,Jean Alavoine,FRA,365
+8,1922-07-09,411.0,Perpignan,Toulon,Flat,Philippe Thys,BEL,660
+9,1922-07-11,284.0,Toulon,Nice,Mountain,Philippe Thys,BEL,660
+10,1922-07-13,274.0,Nice,Briançon,Mountain,Philippe Thys,BEL,660
+11,1922-07-15,260.0,Briançon,Geneva,Mountain,Emile Masson},BEL,173
+12,1922-07-17,371.0,Geneva,Strasbourg,Flat,Emile Masson,BEL,172
+13,1922-07-19,300.0,Strasbourg,Metz,Flat,Federico Gay,ITA,206
+14,1922-07-21,433.0,Metz,Dunkerque,Flat,Félix Sellier,BEL,252
+15,1922-07-23,340.0,Dunkerque,Paris,Flat,Philippe Thys,BEL,660
+1,1921-06-26,388.0,Paris,Le Havre,Flat,Louis Mottiat,BEL,496
+2,1921-06-28,364.0,Le Havre,Cherbourg,Flat,Romain Bellenger,FRA,747
+3,1921-06-30,405.0,Cherbourg,Brest,Flat,Leon Scieur,BEL,485
+4,1921-07-02,412.0,Brest,Les Sables-d'Olonne,Flat,Louis Mottiat,BEL,496
+5,1921-07-04,482.0,Les Sables-d'Olonne,Bayonne,Flat,Louis Mottiat,BEL,496
+6,1921-07-06,326.0,Bayonne,Luchon,Mountain,Hector Heusghem,BEL,317
+7,1921-07-08,323.0,Luchon,Perpignan,Mountain,Louis Mottiat,BEL,496
+8,1921-07-10,411.0,Perpignan,Toulon,Flat,Luigi Lucotti,ITA,517
+9,1921-07-12,272.0,Toulon,Nice,Mountain,Firmin Lambot,BEL,220
+10,1921-07-14,333.0,Nice,Grenoble,Mountain,Leon Scieur,BEL,485
+11,1921-07-16,325.0,Grenoble,Geneva,Mountain,Félix Goethals,FRA,251
+12,1921-07-18,371.0,Geneva,Strasbourg,Flat,Honoré Barthélemy,FRA,336
+13,1921-07-20,300.0,Strasbourg,Metz,Flat,Félix Sellier,BEL,252
+14,1921-07-22,433.0,Metz,Dunkerque,Flat,Félix Goethals,FRA,251
+15,1921-07-24,340.0,Dunkerque,Paris,Flat,Félix Goethals,FRA,251
+1,1920-06-27,388.0,Paris,Le Havre,Flat,Louis Mottiat,BEL,496
+2,1920-06-29,364.0,Le Havre,Cherbourg,Flat,Philippe Thys,BEL,660
+3,1920-07-01,405.0,Cherbourg,Brest,Flat,Henri Pélissier,FRA,329
+4,1920-07-03,412.0,Brest,Les Sables d'Olonne,Flat,Henri Pélissier,FRA,329
+5,1920-07-05,482.0,Les Sables d'Olonne,Bayonne,Flat,Firmin Lambot,BEL,220
+6,1920-07-07,326.0,Bayonne,Luchon,Mountain,Firmin Lambot,BEL,220
+7,1920-07-09,323.0,Luchon,Perpignan,Mountain,Jean Rossius,BEL,380
+8,1920-07-11,325.0,Perpignan,Aix-en-Provence,Flat,Louis Heusghem,BEL,495
+9,1920-07-14,356.0,Aix-en-Provence,Nice,Mountain,Philippe Thys,BEL,660
+10,1920-07-16,333.0,Nice,Grenoble,Mountain,Hector Heusghem,BEL,317
+11,1920-07-18,362.0,Grenoble,Gex,Mountain,Léon Scieur,BEL,524
+12,1920-07-20,354.0,Gex,Strasbourg,Flat,Philippe Thys,BEL,660
+13,1920-07-22,300.0,Strasbourg,Metz,Flat,Philippe Thys,BEL,660
+14,1920-07-24,433.0,Metz,Dunkerque,Flat,Félix Goethals,FRA,251
+15,1920-07-27,340.0,Dunkerque,Paris,Flat,Jean Rossius,BEL,380
+1,1919-06-29,388.0,Paris,Le Havre,Flat,Jean Rossius,BEL,380
+2,1919-07-01,364.0,Le Havre,Cherbourg,Flat,Henri Pélissier,FRA,329
+3,1919-07-03,405.0,Cherbourg,Brest,Flat,Francis Pélissier,FRA,228
+4,1919-07-05,412.0,Brest,Les Sables-d'Olonne,Flat,Jean Alavoine,FRA,365
+5,1919-07-07,482.0,Les Sables-d'Olonne,Bayonne,Flat,Jean Alavoine,FRA,365
+6,1919-07-09,326.0,Bayonne,Luchon,Mountain,Honore Barthelemy,FRA,335
+7,1919-07-11,323.0,Luchon,Perpignan,Mountain,Jean Alavoine,FRA,365
+8,1919-07-13,370.0,Perpignan,Marseille,Flat,Jean Alavoine,FRA,365
+9,1919-07-15,338.0,Marseille,Nice,Mountain,Honoré Barthélemy,FRA,336
+10,1919-07-17,333.0,Nice,Grenoble,Mountain,Honoré Barthélemy,FRA,336
+11,1919-07-19,325.0,Grenoble,Geneva,Mountain,Honoré Barthélemy,FRA,336
+12,1919-07-21,371.0,Geneva,Strasbourg,Mountain,Luigi Lucotti,ITA,517
+13,1919-07-23,315.0,Strasbourg,Metz,Flat,Luigi Lucotti,ITA,517
+14,1919-07-25,468.0,Metz,Dunkerque,Flat,Firmin Lambot,BEL,220
+15,1919-07-27,340.0,Dunkerque,Paris,Flat,Jean Alavoine,FRA,365
+1,1914-06-28,388.0,Paris,Le Havre,Flat,Philippe Thys,BEL,660
+2,1914-06-30,364.0,Le Havre,Cherbourg,Flat,Jean Rossius,BEL,380
+3,1914-07-02,405.0,Cherbourg,Brest,Flat,Emile Engel,FRA,169
+4,1914-07-04,470.0,Brest,La Rochelle,Flat,Oscar Egg,SUI,625
+5,1914-07-06,376.0,La Rochelle,Bayonne,Flat,Oscar Egg,SUI,625
+6,1914-07-08,326.0,Bayonne,Luchon,Mountain,Firmin Lambot,BEL,220
+7,1914-07-10,323.0,Luchon,Perpignan,Mountain,Jean Alavoine,FRA,365
+8,1914-07-12,370.0,Perpignan,Marseille,Flat,Octave Lapize,FRA,618
+9,1914-07-14,338.0,Marseille,Nice,Mountain,Jean Rossius,BEL,380
+10,1914-07-16,323.0,Nice,Grenoble,Mountain,Henri Pélissier,FRA,329
+11,1914-07-18,325.0,Grenoble,Geneva,Mountain,Gustave Garrigou,FRA,312
+12,1914-07-20,325.0,Geneva,Belfort,Mountain,Henri Pélissier,FRA,329
+13,1914-07-22,325.0,Belfort,Longwy,Mountain,François Faber,LUX,238
+14,1914-07-24,390.0,Longwy,Dunkerque,Flat,François Faber,LUX,238
+15,1914-07-26,340.0,Dunkerque,Paris,Flat,Henri Pélissier,FRA,329
+1,1913-06-29,388.0,Paris,Le Havre,Flat,Giovanni Micheletto,ITA,294
+2,1913-07-01,364.0,Le Havre,Cherbourg,Flat,Jules Masselis,BEL,448
+3,1913-07-03,405.0,Cherbourg,Brest,Flat,Henri Pelissier,FRA,327
+4,1913-07-05,470.0,Brest,La Rochelle,Flat,Marcel Buysse,BEL,534
+5,1913-07-07,379.0,La Rochelle,Bayonne,Flat,Henri Van Lerberghe,BEL,330
+6,1913-07-09,326.0,Bayonne,Luchon,Mountain,Philippe Thys,BEL,660
+7,1913-07-11,324.0,Luchon,Perpignan,Mountain,Marcel Buysse,BEL,534
+8,1913-07-13,325.0,Perpignan,Aix-en-Provence,Flat,Gustave Garrigou,FRA,312
+9,1913-07-15,356.0,Aix-en-Provence,Nice,Mountain,Firmin Lambot,BEL,220
+10,1913-07-17,333.0,Nice,Grenoble,Mountain,Francois Faber,LUX,232
+11,1913-07-19,325.0,Grenoble,Geneva,Mountain,Marcel Buysse,BEL,534
+12,1913-07-21,335.0,Geneva,Belfort,Mountain,Marcel Buysse,BEL,534
+13,1913-07-23,325.0,Belfort,Longwy,Mountain,François Faber,LUX,238
+14,1913-07-25,393.0,Longwy,Dunkerque,Flat,Marcel Buysse,BEL,534
+15,1913-07-27,340.0,Dunkerque,Paris,Flat,Marcel Buysse,BEL,534
+1,1912-06-30,351.0,Paris,Dunkerque,Flat,Charles Crupelandt,FRA,102
+2,1912-07-02,388.0,Dunkerque,Longwy,Flat,Odile Defraye,BEL,619
+3,1912-07-04,331.0,Longwy,Belfort,Mountain,Eugène Christophe,FRA,190
+4,1912-07-06,344.0,Belfort,Chamonix,Mountain,Eugène Christophe,FRA,190
+5,1912-07-08,366.0,Chamonix,Grenoble,Mountain,Eugène Christophe,FRA,190
+6,1912-07-10,323.0,Grenoble,Nice,Mountain,Octave Lapize,FRA,618
+7,1912-07-12,334.0,Nice,Marseille,Mountain,Odile Defraye,BEL,619
+8,1912-07-14,335.0,Marseille,Perpignan,Flat,Vicenzo Borgarello,ITA,828
+9,1912-07-16,289.0,Perpignan,Luchon,Mountain,Odile Defraye,BEL,619
+10,1912-07-18,326.0,Luchon,Bayonne,Mountain,Louis Mottiat,BEL,496
+11,1912-07-20,379.0,Bayonne,La Rochelle,Flat,Jean Alavoine,FRA,365
+12,1912-07-21,470.0,La Rochelle,Brest,Flat,Louis Heusghem,BEL,495
+13,1912-07-24,405.0,Brest,Cherbourg,Flat,Jean Alavoine,FRA,365
+14,1912-07-26,361.0,Cherbourg,Le Havre,Flat,Vicenzo Borgarello,ITA,828
+15,1912-07-28,317.0,Le Havre,Paris,Flat,Jean Alavoine,FRA,365
+1,1911-07-02,351.0,Paris,Dunkerque,Flat,Gustave Garrigou,FRA,312
+2,1911-07-04,388.0,Dunkerque,Longwy,Flat,Jules Masselis,BEL,448
+3,1911-07-06,331.0,Longwy,Belfort,Mountain,François Faber,LUX,238
+4,1911-07-08,344.0,Belfort,Chamonix,Mountain,Charles Crupelandt,FRA,102
+5,1911-07-10,366.0,Chamonix,Grenoble,Mountain,Émile Georget,FRA,865
+6,1911-07-12,348.0,Grenoble,Nice,Mountain,François Faber,LUX,238
+7,1911-07-14,334.0,Nice,Marseille,Mountain,Charles Crupelandt,FRA,102
+8,1911-07-16,335.0,Marseille,Perpignan,Flat,Paul Duboc,FRA,642
+9,1911-07-18,289.0,Perpignan,Luchon,Mountain,Paul Duboc,FRA,642
+10,1911-07-20,326.0,Luchon,Bayonne,Mountain,Maurice Brocco,FRA,572
+11,1911-07-22,379.0,Bayonne,La Rochelle,Flat,Paul Duboc,FRA,642
+12,1911-07-23,470.0,La Rochelle,Brest,Flat,Marcel Godivier,FRA,537
+13,1911-07-26,405.0,Brest,Cherbourg,Flat,Gustave Garrigou,FRA,312
+14,1911-07-28,361.0,Cherbourg,Le Havre,Flat,Paul Duboc,FRA,642
+15,1911-07-30,317.0,Le Havre,Paris,Flat,Marcel Godivier,FRA,537
+1,1910-07-03,269.0,Paris,Roubaix,Flat,Charles Crupelandt,FRA,102
+2,1910-07-05,398.0,Roubaix,Metz,Flat,François Faber,LUX,238
+3,1910-07-07,259.0,Metz,Belfort,Mountain,Emile Georget,FRA,170
+4,1910-07-09,309.0,Belfort,Lyon,Mountain,François Faber,LUX,238
+5,1910-07-11,311.0,Lyon,Grenoble,Mountain,Octave Lapize,FRA,618
+6,1910-07-13,345.0,Grenoble,Nice,Mountain,Julien Maitron,FRA,452
+7,1910-07-15,345.0,Nice,Nîmes,Flat,François Faber,LUX,238
+8,1910-07-17,216.0,Nîmes,Perpignan,Flat,Georges Paulmier,FRA,263
+9,1910-07-19,289.0,Perpignan,Luchon,Mountain,Octave Lapize,FRA,618
+10,1910-07-21,326.0,Luchon,Bayonne,Mountain,Octave Lapize,FRA,618
+11,1910-07-23,269.0,Bayonne,Bordeaux,Flat,Ernest Paul,FRA,184
+12,1910-07-25,391.0,Bordeaux,Nantes,Flat,Louis Trousselier,FRA,499
+13,1910-07-27,321.0,Nantes,Brest,Flat,Gustave Garrigou,FRA,312
+14,1910-07-29,424.0,Brest,Caen,Flat,Octave Lapize,FRA,618
+15,1910-07-31,262.0,Caen,Paris,Flat,Ernesto Azzini,ITA,185
+1,1909-07-05,272.0,Paris,Roubaix,Flat,Cyrille van Hauwaert,BEL,125
+2,1909-07-07,398.0,Roubaix,Metz,Flat,François Faber,LUX,238
+3,1909-07-09,259.0,Metz,Belfort,Mountain,François Faber,LUX,238
+4,1909-07-11,309.0,Belfort,Lyon,Mountain,François Faber,LUX,238
+5,1909-07-13,311.0,Lyon,Grenoble,Mountain,François Faber,LUX,238
+6,1909-07-15,346.0,Grenoble,Nice,Mountain,François Faber,LUX,238
+7,1909-07-17,345.0,Nice,Nîmes,Flat,Ernest Paul,FRA,184
+8,1909-07-19,303.0,Nîmes,Toulouse,Flat,Jean Alavoine,FRA,365
+9,1909-07-21,299.0,Toulouse,Bayonne,Flat,Constant Ménager,FRA,119
+10,1909-07-23,269.0,Bayonne,Bordeaux,Flat,François Faber,LUX,238
+11,1909-07-25,391.0,Bordeaux,Nantes,Flat,Louis Trousselier,FRA,499
+12,1909-07-27,321.0,Nantes,Brest,Flat,Gustave Garrigou,FRA,312
+13,1909-07-29,424.0,Brest,Caen,Flat,Paul Duboc,FRA,642
+14,1909-08-01,250.0,Caen,Paris,Flat,Jean Alavoine,FRA,365
+1,1908-07-13,272.0,Paris,Roubaix,Flat,Georges Passerieu,FRA,262
+2,1908-07-15,398.0,Roubaix,Metz,Flat,Lucien Petit-Breton,FRA,507
+3,1908-07-17,259.0,Metz,Belfort,Mountain,François Faber,LUX,238
+4,1908-07-19,309.0,Belfort,Lyon,Mountain,François Faber,LUX,238
+5,1908-07-21,311.0,Lyon,Grenoble,Mountain,Georges Passerieu,FRA,262
+6,1908-07-23,345.0,Grenoble,Nice,Mountain,Jean-Baptiste Dortignacq,FRA,382
+7,1908-07-25,354.0,Nice,Nîmes,Flat,Lucien Petit-Breton,FRA,507
+8,1908-07-27,303.0,Nîmes,Toulouse,Flat,François Faber,LUX,238
+9,1908-07-29,299.0,Toulouse,Bayonne,Flat,Lucien Petit-Breton,FRA,507
+10,1908-07-31,269.0,Bayonne,Bordeaux,Flat,Georges Paulmier,FRA,263
+11,1908-08-02,391.0,Bordeaux,Nantes,Flat,Lucien Petit-Breton,FRA,507
+12,1908-08-04,321.0,Nantes,Brest,Flat,François Faber,LUX,238
+13,1908-08-06,415.0,Brest,Caen,Flat,Georges Passerieu,FRA,262
+14,1908-08-09,251.0,Caen,Paris,Flat,Lucien Petit-Breton,FRA,507
+1,1907-07-08,272.0,Paris,Roubaix,Flat,Louis Trousselier,FRA,499
+2,1907-07-10,398.0,Roubaix,Metz,Flat,Emile Georget,NA,170
+3,1907-07-12,259.0,Metz,Belfort,Mountain,Emile Georget,FRA,170
+4,1907-07-14,309.0,Belfort,Lyon,Mountain,Marcel Cadolle,FRA,535
+5,1907-07-16,311.0,Lyon,Grenoble,Mountain,Emile Georget,FRA,170
+6,1907-07-18,345.0,Grenoble,Nice,Mountain,Georges Passerieu,FRA,262
+7,1907-07-20,345.0,Nice,Nîmes,Flat,Emile Georget,FRA,170
+8,1907-07-22,303.0,Nîmes,Toulouse,Flat,Emile Georget,FRA,170
+9,1907-07-24,299.0,Toulouse,Bayonne,Flat,Lucien Petit-Breton,FRA,507
+10,1907-07-26,269.0,Bayonne,Bordeaux,Flat,Gustave Garrigou,FRA,312
+11,1907-07-28,391.0,Bordeaux,Nantes,Flat,Lucien Petit-Breton,FRA,507
+12,1907-07-30,321.0,Nantes,Brest,Flat,Gustave Garrigou,FRA,312
+13,1907-08-01,415.0,Brest,Caen,Flat,Emile Georget,FRA,170
+14,1907-08-04,251.0,Caen,Paris,Flat,Georges Passerieu,FRA,262
+1,1906-07-04,275.0,Paris,Lille,Flat,Emile Georget,FRA,170
+2,1906-07-06,400.0,Douai,Nancy,Flat,René Pottier,FRA,708
+3,1906-07-08,416.0,Nancy,Dijon,Mountain,René Pottier,FRA,708
+4,1906-07-10,311.0,Dijon,Grenoble,Flat,René Pottier,FRA,708
+5,1906-07-12,345.0,Grenoble,Nice,Mountain,René Pottier,FRA,708
+6,1906-07-14,292.0,Nice,Marseille,Flat,Georges Passerieu,FRA,262
+7,1906-07-16,480.0,Marseille,Toulouse,Flat,Louis Trousselier,FRA,499
+8,1906-07-18,300.0,Toulouse,Bayonne,Flat,Jean-Baptiste Dortignacq,FRA,382
+9,1906-07-20,338.0,Bayonne,Bordeaux,Flat,Louis Trousselier,FRA,499
+10,1906-07-22,391.0,Bordeaux,Nantes,Flat,Louis Trousselier,FRA,499
+11,1906-07-24,321.0,Nantes,Brest,Flat,Louis Trousselier,FRA,499
+12,1906-07-26,415.0,Brest,Caen,Flat,Georges Passerieu,FRA,262
+13,1906-07-29,259.0,Caen,Paris,Flat,René Pottier,FRA,708
+1,1905-07-09,340.0,Paris,Nancy,Flat,Louis Trousselier,FRA,499
+2,1905-07-11,299.0,Nancy,Besançon,Mountain,Hippolyte Aucouturier,FRA,334
+3,1905-07-14,327.0,Besançon,Grenoble,Flat,Louis Trousselier,FRA,499
+4,1905-07-16,348.0,Grenoble,Toulon,Mountain,Hippolyte Aucouturier,FRA,334
+5,1905-07-18,192.0,Toulon,Nîmes,Flat,Louis Trousselier,FRA,499
+6,1905-07-20,307.0,Nîmes,Toulouse,Flat,Jean-Baptiste Dortignacq,FRA,382
+7,1905-07-22,268.0,Toulouse,Bordeaux,Flat,Louis Trousselier,FRA,499
+8,1905-07-24,257.0,Bordeaux,La Rochelle,Flat,Hippolyte Aucouturier,FRA,334
+9,1905-07-26,263.0,La Rochelle,Rennes,Flat,Louis Trousselier,FRA,499
+10,1905-07-28,167.0,Rennes,Caen,Flat,Jean-Baptiste Dortignacq,FRA,382
+11,1905-07-29,253.0,Caen,Paris,Flat,Jean-Baptiste Dortignacq,FRA,382
+1,1904-07-02,467.0,Montgeron,Lyon,Flat,Maurice Garin,FRA,575
+2,1904-07-09,374.0,Lyon,Marseille,Mountain,Hippolyte Aucouturier,FRA,334
+3,1904-07-13,424.0,Marseille,Toulouse,Flat,Hippolyte Aucouturier,FRA,334
+4,1904-07-17,268.0,Toulouse,Bordeaux,Flat,Lucien Pothier,FRA,508
+5,1904-07-20,425.0,Bordeaux,Nantes,Flat,Hippolyte Aucouturier,FRA,334
+6,1904-07-23,471.0,Nantes,Paris,Flat,Hippolyte Aucouturier,FRA,334
+1,1903-07-01,467.0,Paris,Lyon,Flat,Maurice Garin,FRA,575
+2,1903-07-05,374.0,Lyon,Marseille,Mountain,Hippolyte Aucouturier,FRA,334
+3,1903-07-08,423.0,Marseille,Toulouse,Flat,Hippolyte Aucouturier,FRA,334
+4,1903-07-12,268.0,Toulouse,Bordeaux,Flat,Charles Laeser,SUI,103
+5,1903-07-13,425.0,Bordeaux,Nantes,Flat,Maurice Garin,FRA,575
+6,1903-07-18,471.0,Nantes,Paris,Flat,Maurice Garin,FRA,575
